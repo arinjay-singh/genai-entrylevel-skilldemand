@@ -74,7 +74,7 @@ The CSVs in `/data` are pre-aggregated to the skill × occupation × year level.
 ```
 .
 ├── paper/
-│   └── GenAI_Skill_Demand.pdf
+│   └── Generative AI and Entry-Level Skill Demand.pdf
 ├── data/
 │   ├── wdc_jobposting_pipeline.py
 │   ├── 2021_skill_frequencies_by_occupation.csv
