@@ -1,0 +1,2260 @@
+occupation_group,skill,year,count,n_postings,pct
+Administrative & Support,3D Printing,2024,1,723,0.1383
+Administrative & Support,APIs,2024,1,723,0.1383
+Administrative & Support,Academic Advising,2024,7,723,0.9682
+Administrative & Support,Accounting,2024,57,723,7.8838
+Administrative & Support,Accounts Payable,2024,16,723,2.213
+Administrative & Support,Accounts Receivable,2024,3,723,0.4149
+Administrative & Support,Active Listening,2024,1,723,0.1383
+Administrative & Support,Adaptability,2024,199,723,27.5242
+Administrative & Support,Adobe Creative Suite,2024,5,723,0.6916
+Administrative & Support,Agile,2024,2,723,0.2766
+Administrative & Support,Artificial Intelligence,2024,5,723,0.6916
+Administrative & Support,Asana,2024,1,723,0.1383
+Administrative & Support,Auditing,2024,3,723,0.4149
+Administrative & Support,Azure,2024,1,723,0.1383
+Administrative & Support,Bilingual,2024,25,723,3.4578
+Administrative & Support,Bookkeeping,2024,1,723,0.1383
+Administrative & Support,Brand Management,2024,3,723,0.4149
+Administrative & Support,Budgeting,2024,22,723,3.0429
+Administrative & Support,Business Development,2024,21,723,2.9046
+Administrative & Support,Business Intelligence,2024,3,723,0.4149
+Administrative & Support,CAD,2024,2,723,0.2766
+Administrative & Support,CFA,2024,1,723,0.1383
+Administrative & Support,CNC,2024,1,723,0.1383
+Administrative & Support,CPA,2024,6,723,0.8299
+Administrative & Support,CPR,2024,34,723,4.7026
+Administrative & Support,CRM Software,2024,11,723,1.5214
+Administrative & Support,Care Coordination,2024,1,723,0.1383
+Administrative & Support,Case Management,2024,8,723,1.1065
+Administrative & Support,Chemical Engineering,2024,2,723,0.2766
+Administrative & Support,Clinical Research,2024,6,723,0.8299
+Administrative & Support,Cloud Computing,2024,2,723,0.2766
+Administrative & Support,Communication Skills,2024,270,723,37.3444
+Administrative & Support,Compliance,2024,129,723,17.8423
+Administrative & Support,Conflict Resolution,2024,8,723,1.1065
+Administrative & Support,Confluence,2024,2,723,0.2766
+Administrative & Support,Content Marketing,2024,2,723,0.2766
+Administrative & Support,Contract Review,2024,6,723,0.8299
+Administrative & Support,Corporate Law,2024,5,723,0.6916
+Administrative & Support,Cost Analysis,2024,1,723,0.1383
+Administrative & Support,Creative Thinking,2024,69,723,9.5436
+Administrative & Support,Critical Thinking,2024,12,723,1.6598
+Administrative & Support,Cross-Functional Collaboration,2024,19,723,2.6279
+Administrative & Support,Curriculum Development,2024,15,723,2.0747
+Administrative & Support,Customer Service,2024,141,723,19.5021
+Administrative & Support,Cybersecurity,2024,4,723,0.5533
+Administrative & Support,Data Analysis,2024,63,723,8.7137
+Administrative & Support,Data Collection,2024,18,723,2.4896
+Administrative & Support,Data Engineering,2024,3,723,0.4149
+Administrative & Support,Data Entry,2024,12,723,1.6598
+Administrative & Support,Database Management,2024,17,723,2.3513
+Administrative & Support,Decision Making,2024,28,723,3.8728
+Administrative & Support,Deep Learning,2024,1,723,0.1383
+Administrative & Support,DevOps,2024,2,723,0.2766
+Administrative & Support,Digital Marketing,2024,6,723,0.8299
+Administrative & Support,Due Diligence,2024,19,723,2.6279
+Administrative & Support,ERP Systems,2024,6,723,0.8299
+Administrative & Support,Editing,2024,23,723,3.1812
+Administrative & Support,Educational Technology,2024,4,723,0.5533
+Administrative & Support,Electrical Engineering,2024,2,723,0.2766
+Administrative & Support,Electronic Health Records,2024,3,723,0.4149
+Administrative & Support,Email Marketing,2024,2,723,0.2766
+Administrative & Support,Emotional Intelligence,2024,10,723,1.3831
+Administrative & Support,Environmental Engineering,2024,7,723,0.9682
+Administrative & Support,Event Planning,2024,35,723,4.8409
+Administrative & Support,FDA Regulations,2024,1,723,0.1383
+Administrative & Support,Figma,2024,3,723,0.4149
+Administrative & Support,Filing,2024,28,723,3.8728
+Administrative & Support,Financial Analysis,2024,28,723,3.8728
+Administrative & Support,Financial Planning,2024,12,723,1.6598
+Administrative & Support,Financial Statements,2024,2,723,0.2766
+Administrative & Support,Forecasting,2024,10,723,1.3831
+Administrative & Support,Fundraising,2024,14,723,1.9364
+Administrative & Support,GMP,2024,3,723,0.4149
+Administrative & Support,Google Cloud Platform,2024,2,723,0.2766
+Administrative & Support,Google Workspace,2024,14,723,1.9364
+Administrative & Support,HIPAA,2024,3,723,0.4149
+Administrative & Support,HRIS,2024,2,723,0.2766
+Administrative & Support,HTML,2024,1,723,0.1383
+Administrative & Support,ICD Coding,2024,3,723,0.4149
+Administrative & Support,Illustrator,2024,2,723,0.2766
+Administrative & Support,Immigration Law,2024,2,723,0.2766
+Administrative & Support,InDesign,2024,1,723,0.1383
+Administrative & Support,Instructional Design,2024,4,723,0.5533
+Administrative & Support,Intellectual Property,2024,6,723,0.8299
+Administrative & Support,Interpersonal Skills,2024,96,723,13.278
+Administrative & Support,Inventory Management,2024,6,723,0.8299
+Administrative & Support,Investment Analysis,2024,1,723,0.1383
+Administrative & Support,Jira,2024,4,723,0.5533
+Administrative & Support,Kanban,2024,1,723,0.1383
+Administrative & Support,Kubernetes,2024,1,723,0.1383
+Administrative & Support,LMS,2024,8,723,1.1065
+Administrative & Support,Lab Management,2024,10,723,1.3831
+Administrative & Support,Laboratory Skills,2024,1,723,0.1383
+Administrative & Support,Leadership,2024,168,723,23.2365
+Administrative & Support,Lean,2024,1,723,0.1383
+Administrative & Support,Legal Compliance,2024,1,723,0.1383
+Administrative & Support,Legal Research,2024,3,723,0.4149
+Administrative & Support,LexisNexis,2024,1,723,0.1383
+Administrative & Support,Linux,2024,1,723,0.1383
+Administrative & Support,Litigation,2024,15,723,2.0747
+Administrative & Support,MATLAB,2024,1,723,0.1383
+Administrative & Support,Machine Learning,2024,1,723,0.1383
+Administrative & Support,Market Research,2024,10,723,1.3831
+Administrative & Support,Mechanical Engineering,2024,1,723,0.1383
+Administrative & Support,Medical Terminology,2024,9,723,1.2448
+Administrative & Support,Mental Health,2024,19,723,2.6279
+Administrative & Support,Mentoring,2024,51,723,7.0539
+Administrative & Support,Mergers and Acquisitions,2024,10,723,1.3831
+Administrative & Support,Microsoft Excel,2024,152,723,21.0235
+Administrative & Support,Microsoft Office,2024,113,723,15.6293
+Administrative & Support,Microsoft PowerPoint,2024,50,723,6.9156
+Administrative & Support,Microsoft Teams,2024,4,723,0.5533
+Administrative & Support,Microsoft Word,2024,27,723,3.7344
+Administrative & Support,Multitasking,2024,54,723,7.4689
+Administrative & Support,Negotiation,2024,16,723,2.213
+Administrative & Support,Networking,2024,18,723,2.4896
+Administrative & Support,OSHA,2024,14,723,1.9364
+Administrative & Support,Onboarding,2024,17,723,2.3513
+Administrative & Support,Operations Management,2024,5,723,0.6916
+Administrative & Support,Oracle,2024,2,723,0.2766
+Administrative & Support,Organizational Skills,2024,217,723,30.0138
+Administrative & Support,PHP,2024,16,723,2.213
+Administrative & Support,PMP,2024,1,723,0.1383
+Administrative & Support,PPC Advertising,2024,1,723,0.1383
+Administrative & Support,Paralegal Skills,2024,1,723,0.1383
+Administrative & Support,Patient Care,2024,41,723,5.6708
+Administrative & Support,Payroll,2024,28,723,3.8728
+Administrative & Support,Pharmacy,2024,15,723,2.0747
+Administrative & Support,Photoshop,2024,5,723,0.6916
+Administrative & Support,Physical Therapy,2024,17,723,2.3513
+Administrative & Support,Power BI,2024,2,723,0.2766
+Administrative & Support,Predictive Modeling,2024,4,723,0.5533
+Administrative & Support,Presentation Skills,2024,16,723,2.213
+Administrative & Support,Preventive Maintenance,2024,12,723,1.6598
+Administrative & Support,Problem Solving,2024,97,723,13.4163
+Administrative & Support,Process Improvement,2024,6,723,0.8299
+Administrative & Support,Procurement,2024,30,723,4.1494
+Administrative & Support,Project Management,2024,55,723,7.6072
+Administrative & Support,Public Relations,2024,11,723,1.5214
+Administrative & Support,Python,2024,14,723,1.9364
+Administrative & Support,Quality Assurance,2024,20,723,2.7663
+Administrative & Support,Quality Management Systems,2024,1,723,0.1383
+Administrative & Support,Quantitative Analysis,2024,3,723,0.4149
+Administrative & Support,QuickBooks,2024,1,723,0.1383
+Administrative & Support,Radiology,2024,61,723,8.4371
+Administrative & Support,React,2024,1,723,0.1383
+Administrative & Support,Recruiting,2024,49,723,6.7773
+Administrative & Support,Relationship Management,2024,15,723,2.0747
+Administrative & Support,Remote Work,2024,17,723,2.3513
+Administrative & Support,Reporting,2024,139,723,19.2254
+Administrative & Support,Research,2024,9,723,1.2448
+Administrative & Support,Revenue Analysis,2024,4,723,0.5533
+Administrative & Support,Risk Management,2024,26,723,3.5961
+Administrative & Support,Root Cause Analysis,2024,2,723,0.2766
+Administrative & Support,SAP,2024,7,723,0.9682
+Administrative & Support,SAS,2024,4,723,0.5533
+Administrative & Support,SDLC,2024,2,723,0.2766
+Administrative & Support,SEO,2024,1,723,0.1383
+Administrative & Support,SQL,2024,17,723,2.3513
+Administrative & Support,Sales,2024,12,723,1.6598
+Administrative & Support,Salesforce,2024,13,723,1.7981
+Administrative & Support,Scheduling,2024,123,723,17.0124
+Administrative & Support,Scientific Writing,2024,1,723,0.1383
+Administrative & Support,Scrum,2024,1,723,0.1383
+Administrative & Support,Self-Motivated,2024,174,723,24.0664
+Administrative & Support,Series 7,2024,2,723,0.2766
+Administrative & Support,ServiceNow,2024,2,723,0.2766
+Administrative & Support,Shell Scripting,2024,3,723,0.4149
+Administrative & Support,Six Sigma,2024,1,723,0.1383
+Administrative & Support,Sketch,2024,1,723,0.1383
+Administrative & Support,Slack,2024,3,723,0.4149
+Administrative & Support,Social Media,2024,35,723,4.8409
+Administrative & Support,Social Media Marketing,2024,2,723,0.2766
+Administrative & Support,SolidWorks,2024,1,723,0.1383
+Administrative & Support,Stakeholder Management,2024,1,723,0.1383
+Administrative & Support,Statistical Analysis,2024,44,723,6.0858
+Administrative & Support,Strategic Planning,2024,9,723,1.2448
+Administrative & Support,Supply Chain Management,2024,11,723,1.5214
+Administrative & Support,Survey Design,2024,2,723,0.2766
+Administrative & Support,Tax Preparation,2024,3,723,0.4149
+Administrative & Support,Teamwork,2024,129,723,17.8423
+Administrative & Support,Technical Writing,2024,4,723,0.5533
+Administrative & Support,Telehealth,2024,1,723,0.1383
+Administrative & Support,Time Management,2024,81,723,11.2033
+Administrative & Support,Travel Coordination,2024,6,723,0.8299
+Administrative & Support,Tutoring,2024,6,723,0.8299
+Administrative & Support,UX Design,2024,5,723,0.6916
+Administrative & Support,Underwriting,2024,8,723,1.1065
+Administrative & Support,VBA,2024,3,723,0.4149
+Administrative & Support,Valuation,2024,27,723,3.7344
+Administrative & Support,Vendor Management,2024,5,723,0.6916
+Administrative & Support,Verbal Communication,2024,80,723,11.065
+Administrative & Support,Web Development,2024,3,723,0.4149
+Administrative & Support,Westlaw,2024,1,723,0.1383
+Administrative & Support,Windows Server,2024,2,723,0.2766
+Administrative & Support,WordPress,2024,2,723,0.2766
+Administrative & Support,Workday,2024,12,723,1.6598
+Administrative & Support,Written Communication,2024,97,723,13.4163
+Administrative & Support,Zoom,2024,2,723,0.2766
+Compliance & Risk,Accounting,2024,6,98,6.1224
+Compliance & Risk,Adaptability,2024,21,98,21.4286
+Compliance & Risk,Auditing,2024,5,98,5.102
+Compliance & Risk,Bilingual,2024,2,98,2.0408
+Compliance & Risk,Bloomberg Terminal,2024,1,98,1.0204
+Compliance & Risk,CISSP,2024,2,98,2.0408
+Compliance & Risk,CSS,2024,1,98,1.0204
+Compliance & Risk,Case Management,2024,2,98,2.0408
+Compliance & Risk,Clinical Research,2024,8,98,8.1633
+Compliance & Risk,Communication Skills,2024,46,98,46.9388
+Compliance & Risk,Compliance,2024,85,98,86.7347
+Compliance & Risk,Conflict Resolution,2024,4,98,4.0816
+Compliance & Risk,Contract Review,2024,3,98,3.0612
+Compliance & Risk,Creative Thinking,2024,14,98,14.2857
+Compliance & Risk,Cross-Functional Collaboration,2024,3,98,3.0612
+Compliance & Risk,Customer Service,2024,8,98,8.1633
+Compliance & Risk,Cybersecurity,2024,4,98,4.0816
+Compliance & Risk,Data Analysis,2024,28,98,28.5714
+Compliance & Risk,Data Collection,2024,6,98,6.1224
+Compliance & Risk,Data Visualization,2024,1,98,1.0204
+Compliance & Risk,Decision Making,2024,7,98,7.1429
+Compliance & Risk,Due Diligence,2024,3,98,3.0612
+Compliance & Risk,Editing,2024,2,98,2.0408
+Compliance & Risk,Environmental Engineering,2024,1,98,1.0204
+Compliance & Risk,FDA Regulations,2024,1,98,1.0204
+Compliance & Risk,Filing,2024,11,98,11.2245
+Compliance & Risk,Financial Analysis,2024,9,98,9.1837
+Compliance & Risk,Financial Planning,2024,1,98,1.0204
+Compliance & Risk,Google Workspace,2024,1,98,1.0204
+Compliance & Risk,HRIS,2024,1,98,1.0204
+Compliance & Risk,HTML,2024,2,98,2.0408
+Compliance & Risk,Interpersonal Skills,2024,26,98,26.5306
+Compliance & Risk,Inventory Management,2024,4,98,4.0816
+Compliance & Risk,Java,2024,1,98,1.0204
+Compliance & Risk,Leadership,2024,23,98,23.4694
+Compliance & Risk,Linux,2024,1,98,1.0204
+Compliance & Risk,MATLAB,2024,1,98,1.0204
+Compliance & Risk,Machine Learning,2024,1,98,1.0204
+Compliance & Risk,Market Research,2024,9,98,9.1837
+Compliance & Risk,Medical Terminology,2024,1,98,1.0204
+Compliance & Risk,Mental Health,2024,2,98,2.0408
+Compliance & Risk,Mentoring,2024,1,98,1.0204
+Compliance & Risk,Microsoft Excel,2024,31,98,31.6327
+Compliance & Risk,Microsoft Office,2024,27,98,27.551
+Compliance & Risk,Microsoft PowerPoint,2024,12,98,12.2449
+Compliance & Risk,Microsoft Teams,2024,1,98,1.0204
+Compliance & Risk,Microsoft Word,2024,1,98,1.0204
+Compliance & Risk,Mobile Development,2024,1,98,1.0204
+Compliance & Risk,Multitasking,2024,13,98,13.2653
+Compliance & Risk,Negotiation,2024,5,98,5.102
+Compliance & Risk,Networking,2024,10,98,10.2041
+Compliance & Risk,OSHA,2024,1,98,1.0204
+Compliance & Risk,Onboarding,2024,3,98,3.0612
+Compliance & Risk,Oracle,2024,1,98,1.0204
+Compliance & Risk,Organizational Skills,2024,41,98,41.8367
+Compliance & Risk,PHR,2024,1,98,1.0204
+Compliance & Risk,Paralegal Skills,2024,3,98,3.0612
+Compliance & Risk,Patient Care,2024,6,98,6.1224
+Compliance & Risk,Payroll,2024,1,98,1.0204
+Compliance & Risk,Pharmacy,2024,4,98,4.0816
+Compliance & Risk,Physical Therapy,2024,1,98,1.0204
+Compliance & Risk,Power BI,2024,1,98,1.0204
+Compliance & Risk,Presentation Skills,2024,2,98,2.0408
+Compliance & Risk,Problem Solving,2024,26,98,26.5306
+Compliance & Risk,Process Improvement,2024,1,98,1.0204
+Compliance & Risk,Procurement,2024,5,98,5.102
+Compliance & Risk,Project Management,2024,16,98,16.3265
+Compliance & Risk,Python,2024,9,98,9.1837
+Compliance & Risk,Quality Assurance,2024,1,98,1.0204
+Compliance & Risk,Quantitative Analysis,2024,7,98,7.1429
+Compliance & Risk,QuickBooks,2024,1,98,1.0204
+Compliance & Risk,Recruiting,2024,24,98,24.4898
+Compliance & Risk,Regulatory Affairs,2024,11,98,11.2245
+Compliance & Risk,Relationship Management,2024,8,98,8.1633
+Compliance & Risk,Remote Work,2024,3,98,3.0612
+Compliance & Risk,Reporting,2024,31,98,31.6327
+Compliance & Risk,Research,2024,1,98,1.0204
+Compliance & Risk,Risk Management,2024,17,98,17.3469
+Compliance & Risk,Root Cause Analysis,2024,1,98,1.0204
+Compliance & Risk,SAP,2024,1,98,1.0204
+Compliance & Risk,SAS,2024,3,98,3.0612
+Compliance & Risk,SDLC,2024,1,98,1.0204
+Compliance & Risk,SHRM,2024,2,98,2.0408
+Compliance & Risk,SQL,2024,4,98,4.0816
+Compliance & Risk,SQL Server,2024,1,98,1.0204
+Compliance & Risk,Sales,2024,7,98,7.1429
+Compliance & Risk,Scheduling,2024,6,98,6.1224
+Compliance & Risk,Scientific Writing,2024,1,98,1.0204
+Compliance & Risk,Self-Motivated,2024,31,98,31.6327
+Compliance & Risk,Series 7,2024,2,98,2.0408
+Compliance & Risk,Shell Scripting,2024,1,98,1.0204
+Compliance & Risk,Social Media,2024,15,98,15.3061
+Compliance & Risk,Stakeholder Management,2024,1,98,1.0204
+Compliance & Risk,Statistical Analysis,2024,2,98,2.0408
+Compliance & Risk,Survey Design,2024,2,98,2.0408
+Compliance & Risk,Tableau,2024,1,98,1.0204
+Compliance & Risk,Tax Preparation,2024,1,98,1.0204
+Compliance & Risk,Teamwork,2024,18,98,18.3673
+Compliance & Risk,Time Management,2024,16,98,16.3265
+Compliance & Risk,Underwriting,2024,1,98,1.0204
+Compliance & Risk,VBA,2024,2,98,2.0408
+Compliance & Risk,Verbal Communication,2024,18,98,18.3673
+Compliance & Risk,Workday,2024,3,98,3.0612
+Compliance & Risk,Written Communication,2024,22,98,22.449
+Data & Analytics,APIs,2024,5,198,2.5253
+Data & Analytics,AWS,2024,13,198,6.5657
+Data & Analytics,Accounting,2024,18,198,9.0909
+Data & Analytics,Accounts Payable,2024,2,198,1.0101
+Data & Analytics,Active Listening,2024,2,198,1.0101
+Data & Analytics,Adaptability,2024,54,198,27.2727
+Data & Analytics,Agile,2024,16,198,8.0808
+Data & Analytics,Artificial Intelligence,2024,12,198,6.0606
+Data & Analytics,Auditing,2024,8,198,4.0404
+Data & Analytics,Azure,2024,8,198,4.0404
+Data & Analytics,Big Data,2024,9,198,4.5455
+Data & Analytics,Bilingual,2024,2,198,1.0101
+Data & Analytics,Bloomberg Terminal,2024,1,198,0.5051
+Data & Analytics,Budgeting,2024,2,198,1.0101
+Data & Analytics,Business Development,2024,1,198,0.5051
+Data & Analytics,Business Intelligence,2024,19,198,9.596
+Data & Analytics,CI/CD,2024,1,198,0.5051
+Data & Analytics,CISSP,2024,1,198,0.5051
+Data & Analytics,CPR,2024,2,198,1.0101
+Data & Analytics,CRM Software,2024,4,198,2.0202
+Data & Analytics,CSS,2024,1,198,0.5051
+Data & Analytics,Clinical Research,2024,6,198,3.0303
+Data & Analytics,Cloud Computing,2024,13,198,6.5657
+Data & Analytics,Communication Skills,2024,103,198,52.0202
+Data & Analytics,CompTIA,2024,1,198,0.5051
+Data & Analytics,Compliance,2024,24,198,12.1212
+Data & Analytics,Computer Vision,2024,5,198,2.5253
+Data & Analytics,Confluence,2024,3,198,1.5152
+Data & Analytics,Content Marketing,2024,1,198,0.5051
+Data & Analytics,Contract Review,2024,1,198,0.5051
+Data & Analytics,Cost Analysis,2024,1,198,0.5051
+Data & Analytics,Creative Thinking,2024,38,198,19.1919
+Data & Analytics,Critical Thinking,2024,7,198,3.5354
+Data & Analytics,Cross-Functional Collaboration,2024,19,198,9.596
+Data & Analytics,Customer Service,2024,31,198,15.6566
+Data & Analytics,Cybersecurity,2024,21,198,10.6061
+Data & Analytics,Data Analysis,2024,101,198,51.0101
+Data & Analytics,Data Collection,2024,21,198,10.6061
+Data & Analytics,Data Engineering,2024,23,198,11.6162
+Data & Analytics,Data Entry,2024,24,198,12.1212
+Data & Analytics,Data Mining,2024,12,198,6.0606
+Data & Analytics,Data Visualization,2024,26,198,13.1313
+Data & Analytics,Data Warehousing,2024,9,198,4.5455
+Data & Analytics,Database Management,2024,2,198,1.0101
+Data & Analytics,Decision Making,2024,26,198,13.1313
+Data & Analytics,Deep Learning,2024,5,198,2.5253
+Data & Analytics,DevOps,2024,5,198,2.5253
+Data & Analytics,Django,2024,1,198,0.5051
+Data & Analytics,Docker,2024,4,198,2.0202
+Data & Analytics,Due Diligence,2024,1,198,0.5051
+Data & Analytics,ERP Systems,2024,4,198,2.0202
+Data & Analytics,Editing,2024,2,198,1.0101
+Data & Analytics,Educational Technology,2024,1,198,0.5051
+Data & Analytics,Electrical Engineering,2024,5,198,2.5253
+Data & Analytics,Electronic Health Records,2024,1,198,0.5051
+Data & Analytics,Emotional Intelligence,2024,2,198,1.0101
+Data & Analytics,FDA Regulations,2024,1,198,0.5051
+Data & Analytics,Figma,2024,1,198,0.5051
+Data & Analytics,Filing,2024,5,198,2.5253
+Data & Analytics,Financial Analysis,2024,3,198,1.5152
+Data & Analytics,Financial Planning,2024,1,198,0.5051
+Data & Analytics,Flask,2024,1,198,0.5051
+Data & Analytics,Forecasting,2024,7,198,3.5354
+Data & Analytics,Git,2024,5,198,2.5253
+Data & Analytics,Google Cloud Platform,2024,8,198,4.0404
+Data & Analytics,Google Workspace,2024,1,198,0.5051
+Data & Analytics,HIPAA,2024,1,198,0.5051
+Data & Analytics,HRIS,2024,7,198,3.5354
+Data & Analytics,HTML,2024,10,198,5.0505
+Data & Analytics,ICD Coding,2024,2,198,1.0101
+Data & Analytics,Intellectual Property,2024,4,198,2.0202
+Data & Analytics,Interpersonal Skills,2024,13,198,6.5657
+Data & Analytics,Java,2024,12,198,6.0606
+Data & Analytics,JavaScript,2024,10,198,5.0505
+Data & Analytics,Jira,2024,7,198,3.5354
+Data & Analytics,Kanban,2024,1,198,0.5051
+Data & Analytics,Leadership,2024,29,198,14.6465
+Data & Analytics,Legal Research,2024,1,198,0.5051
+Data & Analytics,Linux,2024,2,198,1.0101
+Data & Analytics,Litigation,2024,5,198,2.5253
+Data & Analytics,MATLAB,2024,9,198,4.5455
+Data & Analytics,Machine Learning,2024,22,198,11.1111
+Data & Analytics,Market Research,2024,2,198,1.0101
+Data & Analytics,Marketo,2024,1,198,0.5051
+Data & Analytics,Medical Terminology,2024,5,198,2.5253
+Data & Analytics,Mental Health,2024,4,198,2.0202
+Data & Analytics,Mentoring,2024,5,198,2.5253
+Data & Analytics,Mergers and Acquisitions,2024,1,198,0.5051
+Data & Analytics,Microsoft Excel,2024,87,198,43.9394
+Data & Analytics,Microsoft Office,2024,38,198,19.1919
+Data & Analytics,Microsoft PowerPoint,2024,35,198,17.6768
+Data & Analytics,Microsoft Teams,2024,1,198,0.5051
+Data & Analytics,Microsoft Word,2024,6,198,3.0303
+Data & Analytics,Multitasking,2024,14,198,7.0707
+Data & Analytics,MySQL,2024,1,198,0.5051
+Data & Analytics,Natural Language Processing,2024,4,198,2.0202
+Data & Analytics,Negotiation,2024,7,198,3.5354
+Data & Analytics,Networking,2024,5,198,2.5253
+Data & Analytics,NoSQL,2024,7,198,3.5354
+Data & Analytics,Onboarding,2024,4,198,2.0202
+Data & Analytics,Oracle,2024,4,198,2.0202
+Data & Analytics,Organizational Skills,2024,66,198,33.3333
+Data & Analytics,PHP,2024,2,198,1.0101
+Data & Analytics,PLC Programming,2024,1,198,0.5051
+Data & Analytics,PMP,2024,2,198,1.0101
+Data & Analytics,Patient Care,2024,4,198,2.0202
+Data & Analytics,Payroll,2024,6,198,3.0303
+Data & Analytics,Perl,2024,1,198,0.5051
+Data & Analytics,Pharmacy,2024,5,198,2.5253
+Data & Analytics,Power BI,2024,44,198,22.2222
+Data & Analytics,Presentation Skills,2024,11,198,5.5556
+Data & Analytics,Problem Solving,2024,57,198,28.7879
+Data & Analytics,Process Improvement,2024,13,198,6.5657
+Data & Analytics,Procurement,2024,6,198,3.0303
+Data & Analytics,Project Management,2024,31,198,15.6566
+Data & Analytics,Python,2024,74,198,37.3737
+Data & Analytics,Quality Assurance,2024,31,198,15.6566
+Data & Analytics,Quantitative Analysis,2024,4,198,2.0202
+Data & Analytics,R Programming,2024,2,198,1.0101
+Data & Analytics,Radiology,2024,1,198,0.5051
+Data & Analytics,React,2024,2,198,1.0101
+Data & Analytics,Recruiting,2024,15,198,7.5758
+Data & Analytics,Regression Analysis,2024,2,198,1.0101
+Data & Analytics,Regulatory Affairs,2024,2,198,1.0101
+Data & Analytics,Relationship Management,2024,8,198,4.0404
+Data & Analytics,Remote Work,2024,14,198,7.0707
+Data & Analytics,Reporting,2024,71,198,35.8586
+Data & Analytics,Research,2024,1,198,0.5051
+Data & Analytics,Revenue Analysis,2024,2,198,1.0101
+Data & Analytics,Risk Management,2024,10,198,5.0505
+Data & Analytics,Robotics,2024,1,198,0.5051
+Data & Analytics,Root Cause Analysis,2024,3,198,1.5152
+Data & Analytics,SAP,2024,6,198,3.0303
+Data & Analytics,SAS,2024,21,198,10.6061
+Data & Analytics,SDLC,2024,6,198,3.0303
+Data & Analytics,SQL,2024,78,198,39.3939
+Data & Analytics,SQL Server,2024,5,198,2.5253
+Data & Analytics,Sales,2024,2,198,1.0101
+Data & Analytics,Salesforce,2024,6,198,3.0303
+Data & Analytics,Scheduling,2024,9,198,4.5455
+Data & Analytics,Scrum,2024,6,198,3.0303
+Data & Analytics,Self-Motivated,2024,64,198,32.3232
+Data & Analytics,ServiceNow,2024,1,198,0.5051
+Data & Analytics,Shell Scripting,2024,3,198,1.5152
+Data & Analytics,Social Media,2024,8,198,4.0404
+Data & Analytics,Spring,2024,3,198,1.5152
+Data & Analytics,Stakeholder Management,2024,1,198,0.5051
+Data & Analytics,Statistical Analysis,2024,63,198,31.8182
+Data & Analytics,Strategic Planning,2024,6,198,3.0303
+Data & Analytics,Supply Chain Management,2024,1,198,0.5051
+Data & Analytics,Survey Design,2024,1,198,0.5051
+Data & Analytics,Tableau,2024,36,198,18.1818
+Data & Analytics,Teamwork,2024,32,198,16.1616
+Data & Analytics,Technical Writing,2024,2,198,1.0101
+Data & Analytics,Time Management,2024,33,198,16.6667
+Data & Analytics,UX Design,2024,2,198,1.0101
+Data & Analytics,VBA,2024,8,198,4.0404
+Data & Analytics,Valuation,2024,2,198,1.0101
+Data & Analytics,Vendor Management,2024,1,198,0.5051
+Data & Analytics,Verbal Communication,2024,25,198,12.6263
+Data & Analytics,Waterfall,2024,1,198,0.5051
+Data & Analytics,Web Development,2024,3,198,1.5152
+Data & Analytics,Workday,2024,10,198,5.0505
+Data & Analytics,Written Communication,2024,35,198,17.6768
+Education & Training,3D Printing,2024,6,274,2.1898
+Education & Training,Academic Advising,2024,10,274,3.6496
+Education & Training,Accounting,2024,10,274,3.6496
+Education & Training,Adaptability,2024,90,274,32.8467
+Education & Training,Agile,2024,1,274,0.365
+Education & Training,Artificial Intelligence,2024,4,274,1.4599
+Education & Training,Asana,2024,1,274,0.365
+Education & Training,Auditing,2024,4,274,1.4599
+Education & Training,Bilingual,2024,3,274,1.0949
+Education & Training,Bloomberg Terminal,2024,2,274,0.7299
+Education & Training,Budgeting,2024,3,274,1.0949
+Education & Training,CAD,2024,1,274,0.365
+Education & Training,CPA,2024,2,274,0.7299
+Education & Training,CPR,2024,18,274,6.5693
+Education & Training,Case Management,2024,2,274,0.7299
+Education & Training,Civil Engineering,2024,3,274,1.0949
+Education & Training,Classroom Management,2024,4,274,1.4599
+Education & Training,Clinical Research,2024,7,274,2.5547
+Education & Training,Communication Skills,2024,38,274,13.8686
+Education & Training,Compliance,2024,45,274,16.4234
+Education & Training,Copywriting,2024,1,274,0.365
+Education & Training,Creative Thinking,2024,27,274,9.854
+Education & Training,Critical Thinking,2024,5,274,1.8248
+Education & Training,Curriculum Development,2024,19,274,6.9343
+Education & Training,Customer Service,2024,5,274,1.8248
+Education & Training,Cybersecurity,2024,7,274,2.5547
+Education & Training,Data Analysis,2024,11,274,4.0146
+Education & Training,Data Collection,2024,3,274,1.0949
+Education & Training,Data Mining,2024,3,274,1.0949
+Education & Training,Data Visualization,2024,2,274,0.7299
+Education & Training,Data Warehousing,2024,2,274,0.7299
+Education & Training,Database Management,2024,13,274,4.7445
+Education & Training,Decision Making,2024,6,274,2.1898
+Education & Training,Deep Learning,2024,1,274,0.365
+Education & Training,Differentiated Instruction,2024,1,274,0.365
+Education & Training,Digital Marketing,2024,5,274,1.8248
+Education & Training,Electrical Engineering,2024,2,274,0.7299
+Education & Training,Electronic Health Records,2024,1,274,0.365
+Education & Training,Emotional Intelligence,2024,3,274,1.0949
+Education & Training,Environmental Engineering,2024,3,274,1.0949
+Education & Training,Event Planning,2024,1,274,0.365
+Education & Training,Filing,2024,2,274,0.7299
+Education & Training,Financial Analysis,2024,1,274,0.365
+Education & Training,Financial Planning,2024,2,274,0.7299
+Education & Training,Forecasting,2024,2,274,0.7299
+Education & Training,Fundraising,2024,3,274,1.0949
+Education & Training,Google Workspace,2024,2,274,0.7299
+Education & Training,Grant Writing,2024,8,274,2.9197
+Education & Training,HTML,2024,13,274,4.7445
+Education & Training,Instructional Design,2024,1,274,0.365
+Education & Training,Intellectual Property,2024,1,274,0.365
+Education & Training,Interpersonal Skills,2024,24,274,8.7591
+Education & Training,Java,2024,3,274,1.0949
+Education & Training,JavaScript,2024,2,274,0.7299
+Education & Training,LMS,2024,3,274,1.0949
+Education & Training,Leadership,2024,60,274,21.8978
+Education & Training,Legal Writing,2024,1,274,0.365
+Education & Training,Machine Learning,2024,10,274,3.6496
+Education & Training,Marketing Analytics,2024,6,274,2.1898
+Education & Training,Materials Science,2024,3,274,1.0949
+Education & Training,Mechanical Engineering,2024,10,274,3.6496
+Education & Training,Mental Health,2024,6,274,2.1898
+Education & Training,Mentoring,2024,68,274,24.8175
+Education & Training,Microsoft Excel,2024,16,274,5.8394
+Education & Training,Microsoft Office,2024,5,274,1.8248
+Education & Training,Microsoft PowerPoint,2024,7,274,2.5547
+Education & Training,Microsoft Word,2024,6,274,2.1898
+Education & Training,Multitasking,2024,2,274,0.7299
+Education & Training,Networking,2024,7,274,2.5547
+Education & Training,Organizational Skills,2024,12,274,4.3796
+Education & Training,PHP,2024,6,274,2.1898
+Education & Training,Patient Care,2024,3,274,1.0949
+Education & Training,Payroll,2024,5,274,1.8248
+Education & Training,Pharmacy,2024,9,274,3.2847
+Education & Training,Physical Therapy,2024,5,274,1.8248
+Education & Training,Predictive Modeling,2024,1,274,0.365
+Education & Training,Presentation Skills,2024,8,274,2.9197
+Education & Training,Problem Solving,2024,16,274,5.8394
+Education & Training,Process Improvement,2024,1,274,0.365
+Education & Training,Procurement,2024,2,274,0.7299
+Education & Training,Project Management,2024,3,274,1.0949
+Education & Training,Public Relations,2024,1,274,0.365
+Education & Training,Python,2024,7,274,2.5547
+Education & Training,Quality Assurance,2024,2,274,0.7299
+Education & Training,Radiology,2024,16,274,5.8394
+Education & Training,Recruiting,2024,29,274,10.5839
+Education & Training,Relationship Management,2024,1,274,0.365
+Education & Training,Remote Work,2024,1,274,0.365
+Education & Training,Reporting,2024,42,274,15.3285
+Education & Training,Research,2024,2,274,0.7299
+Education & Training,Robotics,2024,6,274,2.1898
+Education & Training,Ruby,2024,2,274,0.7299
+Education & Training,SHRM,2024,1,274,0.365
+Education & Training,SQL,2024,1,274,0.365
+Education & Training,Sales,2024,5,274,1.8248
+Education & Training,Scheduling,2024,51,274,18.6131
+Education & Training,Scientific Writing,2024,2,274,0.7299
+Education & Training,Self-Motivated,2024,23,274,8.3942
+Education & Training,Sketch,2024,1,274,0.365
+Education & Training,Social Media,2024,12,274,4.3796
+Education & Training,SolidWorks,2024,1,274,0.365
+Education & Training,Special Education,2024,6,274,2.1898
+Education & Training,Statistical Analysis,2024,11,274,4.0146
+Education & Training,Strategic Planning,2024,3,274,1.0949
+Education & Training,Supply Chain Management,2024,1,274,0.365
+Education & Training,Survey Design,2024,1,274,0.365
+Education & Training,Tableau,2024,1,274,0.365
+Education & Training,Teamwork,2024,18,274,6.5693
+Education & Training,Time Management,2024,11,274,4.0146
+Education & Training,Tutoring,2024,12,274,4.3796
+Education & Training,UI Design,2024,1,274,0.365
+Education & Training,UX Design,2024,1,274,0.365
+Education & Training,Valuation,2024,2,274,0.7299
+Education & Training,Verbal Communication,2024,8,274,2.9197
+Education & Training,Workday,2024,8,274,2.9197
+Education & Training,Written Communication,2024,7,274,2.5547
+Engineering (Non-Software),3D Printing,2024,1,180,0.5556
+Engineering (Non-Software),APIs,2024,1,180,0.5556
+Engineering (Non-Software),AWS,2024,5,180,2.7778
+Engineering (Non-Software),Accounting,2024,5,180,2.7778
+Engineering (Non-Software),Adaptability,2024,35,180,19.4444
+Engineering (Non-Software),Agile,2024,7,180,3.8889
+Engineering (Non-Software),Artificial Intelligence,2024,3,180,1.6667
+Engineering (Non-Software),Asana,2024,1,180,0.5556
+Engineering (Non-Software),Auditing,2024,2,180,1.1111
+Engineering (Non-Software),AutoCAD,2024,38,180,21.1111
+Engineering (Non-Software),Budgeting,2024,1,180,0.5556
+Engineering (Non-Software),Business Development,2024,2,180,1.1111
+Engineering (Non-Software),CAD,2024,14,180,7.7778
+Engineering (Non-Software),Chemical Engineering,2024,6,180,3.3333
+Engineering (Non-Software),Civil Engineering,2024,53,180,29.4444
+Engineering (Non-Software),Communication Skills,2024,95,180,52.7778
+Engineering (Non-Software),Compliance,2024,49,180,27.2222
+Engineering (Non-Software),Conflict Resolution,2024,1,180,0.5556
+Engineering (Non-Software),Contract Review,2024,1,180,0.5556
+Engineering (Non-Software),Cost Analysis,2024,1,180,0.5556
+Engineering (Non-Software),Creative Thinking,2024,36,180,20.0
+Engineering (Non-Software),Critical Thinking,2024,2,180,1.1111
+Engineering (Non-Software),Cross-Functional Collaboration,2024,6,180,3.3333
+Engineering (Non-Software),Customer Service,2024,23,180,12.7778
+Engineering (Non-Software),Cybersecurity,2024,5,180,2.7778
+Engineering (Non-Software),Data Analysis,2024,27,180,15.0
+Engineering (Non-Software),Data Collection,2024,17,180,9.4444
+Engineering (Non-Software),Data Entry,2024,1,180,0.5556
+Engineering (Non-Software),Data Mining,2024,1,180,0.5556
+Engineering (Non-Software),Decision Making,2024,4,180,2.2222
+Engineering (Non-Software),Deep Learning,2024,1,180,0.5556
+Engineering (Non-Software),Due Diligence,2024,2,180,1.1111
+Engineering (Non-Software),Editing,2024,2,180,1.1111
+Engineering (Non-Software),Electrical Engineering,2024,39,180,21.6667
+Engineering (Non-Software),Emotional Intelligence,2024,1,180,0.5556
+Engineering (Non-Software),Environmental Engineering,2024,23,180,12.7778
+Engineering (Non-Software),Filing,2024,6,180,3.3333
+Engineering (Non-Software),Financial Planning,2024,3,180,1.6667
+Engineering (Non-Software),Forecasting,2024,2,180,1.1111
+Engineering (Non-Software),GMP,2024,2,180,1.1111
+Engineering (Non-Software),Git,2024,1,180,0.5556
+Engineering (Non-Software),HTML,2024,3,180,1.6667
+Engineering (Non-Software),Interpersonal Skills,2024,9,180,5.0
+Engineering (Non-Software),Java,2024,6,180,3.3333
+Engineering (Non-Software),JavaScript,2024,3,180,1.6667
+Engineering (Non-Software),Kotlin,2024,1,180,0.5556
+Engineering (Non-Software),Laboratory Skills,2024,1,180,0.5556
+Engineering (Non-Software),Leadership,2024,35,180,19.4444
+Engineering (Non-Software),Lean,2024,7,180,3.8889
+Engineering (Non-Software),Linux,2024,1,180,0.5556
+Engineering (Non-Software),Literature Review,2024,1,180,0.5556
+Engineering (Non-Software),Litigation,2024,1,180,0.5556
+Engineering (Non-Software),MATLAB,2024,7,180,3.8889
+Engineering (Non-Software),Machine Learning,2024,4,180,2.2222
+Engineering (Non-Software),Materials Science,2024,5,180,2.7778
+Engineering (Non-Software),Mechanical Engineering,2024,35,180,19.4444
+Engineering (Non-Software),Mentoring,2024,14,180,7.7778
+Engineering (Non-Software),Microsoft Excel,2024,62,180,34.4444
+Engineering (Non-Software),Microsoft Office,2024,35,180,19.4444
+Engineering (Non-Software),Microsoft PowerPoint,2024,22,180,12.2222
+Engineering (Non-Software),Microsoft Teams,2024,1,180,0.5556
+Engineering (Non-Software),Microsoft Word,2024,8,180,4.4444
+Engineering (Non-Software),Mobile Development,2024,1,180,0.5556
+Engineering (Non-Software),Multitasking,2024,12,180,6.6667
+Engineering (Non-Software),Natural Language Processing,2024,1,180,0.5556
+Engineering (Non-Software),Negotiation,2024,2,180,1.1111
+Engineering (Non-Software),Networking,2024,4,180,2.2222
+Engineering (Non-Software),OSHA,2024,1,180,0.5556
+Engineering (Non-Software),Operations Management,2024,3,180,1.6667
+Engineering (Non-Software),Organizational Skills,2024,34,180,18.8889
+Engineering (Non-Software),PLC Programming,2024,3,180,1.6667
+Engineering (Non-Software),Physical Therapy,2024,13,180,7.2222
+Engineering (Non-Software),Presentation Skills,2024,10,180,5.5556
+Engineering (Non-Software),Preventive Maintenance,2024,3,180,1.6667
+Engineering (Non-Software),Problem Solving,2024,57,180,31.6667
+Engineering (Non-Software),Process Improvement,2024,9,180,5.0
+Engineering (Non-Software),Procurement,2024,6,180,3.3333
+Engineering (Non-Software),Project Management,2024,27,180,15.0
+Engineering (Non-Software),Python,2024,14,180,7.7778
+Engineering (Non-Software),Quality Assurance,2024,32,180,17.7778
+Engineering (Non-Software),Quality Management Systems,2024,3,180,1.6667
+Engineering (Non-Software),Radiology,2024,6,180,3.3333
+Engineering (Non-Software),Recruiting,2024,14,180,7.7778
+Engineering (Non-Software),Relationship Management,2024,1,180,0.5556
+Engineering (Non-Software),Remote Work,2024,2,180,1.1111
+Engineering (Non-Software),Reporting,2024,13,180,7.2222
+Engineering (Non-Software),Risk Management,2024,4,180,2.2222
+Engineering (Non-Software),Robotics,2024,6,180,3.3333
+Engineering (Non-Software),Root Cause Analysis,2024,12,180,6.6667
+Engineering (Non-Software),SAP,2024,1,180,0.5556
+Engineering (Non-Software),SHRM,2024,4,180,2.2222
+Engineering (Non-Software),SQL,2024,2,180,1.1111
+Engineering (Non-Software),Sales,2024,4,180,2.2222
+Engineering (Non-Software),Scheduling,2024,10,180,5.5556
+Engineering (Non-Software),Scrum,2024,1,180,0.5556
+Engineering (Non-Software),Self-Motivated,2024,26,180,14.4444
+Engineering (Non-Software),Shell Scripting,2024,3,180,1.6667
+Engineering (Non-Software),Six Sigma,2024,7,180,3.8889
+Engineering (Non-Software),Sketch,2024,1,180,0.5556
+Engineering (Non-Software),SolidWorks,2024,3,180,1.6667
+Engineering (Non-Software),Statistical Analysis,2024,2,180,1.1111
+Engineering (Non-Software),Strategic Planning,2024,5,180,2.7778
+Engineering (Non-Software),Supply Chain Management,2024,5,180,2.7778
+Engineering (Non-Software),Survey Design,2024,4,180,2.2222
+Engineering (Non-Software),Teamwork,2024,20,180,11.1111
+Engineering (Non-Software),Technical Writing,2024,10,180,5.5556
+Engineering (Non-Software),Time Management,2024,9,180,5.0
+Engineering (Non-Software),Verbal Communication,2024,26,180,14.4444
+Engineering (Non-Software),Welding,2024,4,180,2.2222
+Engineering (Non-Software),Workday,2024,7,180,3.8889
+Engineering (Non-Software),Written Communication,2024,34,180,18.8889
+Finance & Accounting,Accounting,2024,370,467,79.2291
+Finance & Accounting,Accounts Payable,2024,34,467,7.2805
+Finance & Accounting,Accounts Receivable,2024,30,467,6.424
+Finance & Accounting,Active Listening,2024,3,467,0.6424
+Finance & Accounting,Adaptability,2024,150,467,32.1199
+Finance & Accounting,Adobe Creative Suite,2024,1,467,0.2141
+Finance & Accounting,Agile,2024,4,467,0.8565
+Finance & Accounting,Auditing,2024,36,467,7.7088
+Finance & Accounting,Big Data,2024,1,467,0.2141
+Finance & Accounting,Bilingual,2024,5,467,1.0707
+Finance & Accounting,Bloomberg Terminal,2024,7,467,1.4989
+Finance & Accounting,Bookkeeping,2024,5,467,1.0707
+Finance & Accounting,Brand Management,2024,3,467,0.6424
+Finance & Accounting,Budgeting,2024,73,467,15.6317
+Finance & Accounting,Business Development,2024,11,467,2.3555
+Finance & Accounting,Business Intelligence,2024,26,467,5.5675
+Finance & Accounting,CAD,2024,1,467,0.2141
+Finance & Accounting,CFA,2024,12,467,2.5696
+Finance & Accounting,CPA,2024,53,467,11.349
+Finance & Accounting,CRM Software,2024,6,467,1.2848
+Finance & Accounting,Communication Skills,2024,201,467,43.0407
+Finance & Accounting,Compliance,2024,123,467,26.3383
+Finance & Accounting,Conflict Resolution,2024,4,467,0.8565
+Finance & Accounting,Cost Analysis,2024,7,467,1.4989
+Finance & Accounting,Creative Thinking,2024,36,467,7.7088
+Finance & Accounting,Critical Thinking,2024,23,467,4.9251
+Finance & Accounting,Cross-Functional Collaboration,2024,34,467,7.2805
+Finance & Accounting,Customer Service,2024,108,467,23.1263
+Finance & Accounting,Cybersecurity,2024,3,467,0.6424
+Finance & Accounting,Data Analysis,2024,116,467,24.8394
+Finance & Accounting,Data Collection,2024,12,467,2.5696
+Finance & Accounting,Data Engineering,2024,4,467,0.8565
+Finance & Accounting,Data Entry,2024,11,467,2.3555
+Finance & Accounting,Data Mining,2024,3,467,0.6424
+Finance & Accounting,Data Visualization,2024,10,467,2.1413
+Finance & Accounting,Data Warehousing,2024,1,467,0.2141
+Finance & Accounting,Decision Making,2024,57,467,12.2056
+Finance & Accounting,Due Diligence,2024,18,467,3.8544
+Finance & Accounting,ERP Systems,2024,30,467,6.424
+Finance & Accounting,Editing,2024,2,467,0.4283
+Finance & Accounting,Emotional Intelligence,2024,9,467,1.9272
+Finance & Accounting,Filing,2024,24,467,5.1392
+Finance & Accounting,Financial Analysis,2024,152,467,32.5482
+Finance & Accounting,Financial Planning,2024,42,467,8.9936
+Finance & Accounting,Financial Statements,2024,43,467,9.2077
+Finance & Accounting,Forecasting,2024,62,467,13.2762
+Finance & Accounting,Google Workspace,2024,8,467,1.7131
+Finance & Accounting,HIPAA,2024,1,467,0.2141
+Finance & Accounting,HTML,2024,2,467,0.4283
+Finance & Accounting,ICD Coding,2024,3,467,0.6424
+Finance & Accounting,InDesign,2024,1,467,0.2141
+Finance & Accounting,Intellectual Property,2024,1,467,0.2141
+Finance & Accounting,Interpersonal Skills,2024,64,467,13.7045
+Finance & Accounting,Inventory Management,2024,5,467,1.0707
+Finance & Accounting,Investment Analysis,2024,1,467,0.2141
+Finance & Accounting,Java,2024,2,467,0.4283
+Finance & Accounting,Leadership,2024,88,467,18.8437
+Finance & Accounting,Market Research,2024,19,467,4.0685
+Finance & Accounting,Medical Terminology,2024,3,467,0.6424
+Finance & Accounting,Mental Health,2024,6,467,1.2848
+Finance & Accounting,Mentoring,2024,15,467,3.212
+Finance & Accounting,Mergers and Acquisitions,2024,12,467,2.5696
+Finance & Accounting,Microsoft Excel,2024,252,467,53.9615
+Finance & Accounting,Microsoft Office,2024,110,467,23.5546
+Finance & Accounting,Microsoft PowerPoint,2024,47,467,10.0642
+Finance & Accounting,Microsoft Word,2024,18,467,3.8544
+Finance & Accounting,Multitasking,2024,28,467,5.9957
+Finance & Accounting,Negotiation,2024,10,467,2.1413
+Finance & Accounting,Networking,2024,7,467,1.4989
+Finance & Accounting,OSHA,2024,1,467,0.2141
+Finance & Accounting,Onboarding,2024,5,467,1.0707
+Finance & Accounting,Oracle,2024,30,467,6.424
+Finance & Accounting,Organizational Skills,2024,188,467,40.257
+Finance & Accounting,PHP,2024,1,467,0.2141
+Finance & Accounting,PLC Programming,2024,2,467,0.4283
+Finance & Accounting,PMP,2024,4,467,0.8565
+Finance & Accounting,Paralegal Skills,2024,1,467,0.2141
+Finance & Accounting,Patient Care,2024,4,467,0.8565
+Finance & Accounting,Payroll,2024,25,467,5.3533
+Finance & Accounting,Pharmacy,2024,2,467,0.4283
+Finance & Accounting,Photoshop,2024,1,467,0.2141
+Finance & Accounting,Physical Therapy,2024,1,467,0.2141
+Finance & Accounting,Power BI,2024,45,467,9.636
+Finance & Accounting,Presentation Skills,2024,29,467,6.2099
+Finance & Accounting,Preventive Maintenance,2024,1,467,0.2141
+Finance & Accounting,Problem Solving,2024,121,467,25.9101
+Finance & Accounting,Process Improvement,2024,18,467,3.8544
+Finance & Accounting,Procurement,2024,21,467,4.4968
+Finance & Accounting,Project Management,2024,23,467,4.9251
+Finance & Accounting,Python,2024,9,467,1.9272
+Finance & Accounting,Quality Assurance,2024,5,467,1.0707
+Finance & Accounting,Quantitative Analysis,2024,8,467,1.7131
+Finance & Accounting,QuickBooks,2024,11,467,2.3555
+Finance & Accounting,React,2024,1,467,0.2141
+Finance & Accounting,Recruiting,2024,38,467,8.137
+Finance & Accounting,Relationship Management,2024,8,467,1.7131
+Finance & Accounting,Remote Work,2024,13,467,2.7837
+Finance & Accounting,Reporting,2024,213,467,45.6103
+Finance & Accounting,Research,2024,7,467,1.4989
+Finance & Accounting,Revenue Analysis,2024,10,467,2.1413
+Finance & Accounting,Risk Management,2024,32,467,6.8522
+Finance & Accounting,SAP,2024,42,467,8.9936
+Finance & Accounting,SAS,2024,4,467,0.8565
+Finance & Accounting,SDLC,2024,1,467,0.2141
+Finance & Accounting,SHRM,2024,2,467,0.4283
+Finance & Accounting,SQL,2024,30,467,6.424
+Finance & Accounting,SQL Server,2024,1,467,0.2141
+Finance & Accounting,Sales,2024,3,467,0.6424
+Finance & Accounting,Salesforce,2024,6,467,1.2848
+Finance & Accounting,Scheduling,2024,3,467,0.6424
+Finance & Accounting,Self-Motivated,2024,131,467,28.0514
+Finance & Accounting,Series 63,2024,1,467,0.2141
+Finance & Accounting,Series 7,2024,4,467,0.8565
+Finance & Accounting,Six Sigma,2024,1,467,0.2141
+Finance & Accounting,Social Media,2024,3,467,0.6424
+Finance & Accounting,Stakeholder Management,2024,2,467,0.4283
+Finance & Accounting,Statistical Analysis,2024,30,467,6.424
+Finance & Accounting,Strategic Planning,2024,11,467,2.3555
+Finance & Accounting,Supply Chain Management,2024,18,467,3.8544
+Finance & Accounting,Survey Design,2024,2,467,0.4283
+Finance & Accounting,Tableau,2024,21,467,4.4968
+Finance & Accounting,Tax Preparation,2024,24,467,5.1392
+Finance & Accounting,Teamwork,2024,98,467,20.985
+Finance & Accounting,Technical Writing,2024,1,467,0.2141
+Finance & Accounting,Telehealth,2024,2,467,0.4283
+Finance & Accounting,Time Management,2024,66,467,14.1328
+Finance & Accounting,UI Design,2024,1,467,0.2141
+Finance & Accounting,Underwriting,2024,12,467,2.5696
+Finance & Accounting,VBA,2024,11,467,2.3555
+Finance & Accounting,Valuation,2024,27,467,5.7816
+Finance & Accounting,Vendor Management,2024,9,467,1.9272
+Finance & Accounting,Verbal Communication,2024,42,467,8.9936
+Finance & Accounting,Web Development,2024,1,467,0.2141
+Finance & Accounting,Workday,2024,18,467,3.8544
+Finance & Accounting,Written Communication,2024,70,467,14.9893
+Healthcare (Non-Nursing),3D Printing,2024,1,265,0.3774
+Healthcare (Non-Nursing),Active Listening,2024,1,265,0.3774
+Healthcare (Non-Nursing),Adaptability,2024,60,265,22.6415
+Healthcare (Non-Nursing),Artificial Intelligence,2024,8,265,3.0189
+Healthcare (Non-Nursing),Bilingual,2024,16,265,6.0377
+Healthcare (Non-Nursing),Budgeting,2024,6,265,2.2642
+Healthcare (Non-Nursing),CPR,2024,53,265,20.0
+Healthcare (Non-Nursing),Care Coordination,2024,2,265,0.7547
+Healthcare (Non-Nursing),Case Management,2024,3,265,1.1321
+Healthcare (Non-Nursing),Clinical Research,2024,23,265,8.6792
+Healthcare (Non-Nursing),Communication Skills,2024,83,265,31.3208
+Healthcare (Non-Nursing),Compliance,2024,44,265,16.6038
+Healthcare (Non-Nursing),Conflict Resolution,2024,2,265,0.7547
+Healthcare (Non-Nursing),Creative Thinking,2024,13,265,4.9057
+Healthcare (Non-Nursing),Critical Thinking,2024,13,265,4.9057
+Healthcare (Non-Nursing),Cross-Functional Collaboration,2024,2,265,0.7547
+Healthcare (Non-Nursing),Curriculum Development,2024,2,265,0.7547
+Healthcare (Non-Nursing),Customer Service,2024,41,265,15.4717
+Healthcare (Non-Nursing),Cybersecurity,2024,3,265,1.1321
+Healthcare (Non-Nursing),Data Analysis,2024,16,265,6.0377
+Healthcare (Non-Nursing),Data Collection,2024,20,265,7.5472
+Healthcare (Non-Nursing),Data Entry,2024,21,265,7.9245
+Healthcare (Non-Nursing),Database Management,2024,4,265,1.5094
+Healthcare (Non-Nursing),Decision Making,2024,5,265,1.8868
+Healthcare (Non-Nursing),Editing,2024,3,265,1.1321
+Healthcare (Non-Nursing),Educational Technology,2024,1,265,0.3774
+Healthcare (Non-Nursing),Electronic Health Records,2024,19,265,7.1698
+Healthcare (Non-Nursing),Emotional Intelligence,2024,12,265,4.5283
+Healthcare (Non-Nursing),Environmental Engineering,2024,1,265,0.3774
+Healthcare (Non-Nursing),FDA Regulations,2024,5,265,1.8868
+Healthcare (Non-Nursing),Filing,2024,5,265,1.8868
+Healthcare (Non-Nursing),Financial Analysis,2024,1,265,0.3774
+Healthcare (Non-Nursing),Google Cloud Platform,2024,9,265,3.3962
+Healthcare (Non-Nursing),HIPAA,2024,15,265,5.6604
+Healthcare (Non-Nursing),HTML,2024,3,265,1.1321
+Healthcare (Non-Nursing),Interpersonal Skills,2024,20,265,7.5472
+Healthcare (Non-Nursing),Inventory Management,2024,3,265,1.1321
+Healthcare (Non-Nursing),Lab Management,2024,2,265,0.7547
+Healthcare (Non-Nursing),Leadership,2024,30,265,11.3208
+Healthcare (Non-Nursing),Market Research,2024,1,265,0.3774
+Healthcare (Non-Nursing),Medical Terminology,2024,12,265,4.5283
+Healthcare (Non-Nursing),Mental Health,2024,43,265,16.2264
+Healthcare (Non-Nursing),Mentoring,2024,10,265,3.7736
+Healthcare (Non-Nursing),Microsoft Excel,2024,17,265,6.4151
+Healthcare (Non-Nursing),Microsoft Office,2024,14,265,5.283
+Healthcare (Non-Nursing),Microsoft PowerPoint,2024,2,265,0.7547
+Healthcare (Non-Nursing),Microsoft Word,2024,4,265,1.5094
+Healthcare (Non-Nursing),Multitasking,2024,13,265,4.9057
+Healthcare (Non-Nursing),Negotiation,2024,1,265,0.3774
+Healthcare (Non-Nursing),Networking,2024,1,265,0.3774
+Healthcare (Non-Nursing),Nursing,2024,4,265,1.5094
+Healthcare (Non-Nursing),OSHA,2024,1,265,0.3774
+Healthcare (Non-Nursing),Onboarding,2024,2,265,0.7547
+Healthcare (Non-Nursing),Organizational Skills,2024,37,265,13.9623
+Healthcare (Non-Nursing),PHP,2024,3,265,1.1321
+Healthcare (Non-Nursing),PLC Programming,2024,1,265,0.3774
+Healthcare (Non-Nursing),Patient Care,2024,68,265,25.6604
+Healthcare (Non-Nursing),Payroll,2024,4,265,1.5094
+Healthcare (Non-Nursing),Pharmacy,2024,32,265,12.0755
+Healthcare (Non-Nursing),Phlebotomy,2024,2,265,0.7547
+Healthcare (Non-Nursing),Physical Therapy,2024,42,265,15.8491
+Healthcare (Non-Nursing),Presentation Skills,2024,2,265,0.7547
+Healthcare (Non-Nursing),Preventive Maintenance,2024,3,265,1.1321
+Healthcare (Non-Nursing),Problem Solving,2024,32,265,12.0755
+Healthcare (Non-Nursing),Process Improvement,2024,9,265,3.3962
+Healthcare (Non-Nursing),Procurement,2024,1,265,0.3774
+Healthcare (Non-Nursing),Project Management,2024,4,265,1.5094
+Healthcare (Non-Nursing),Quality Assurance,2024,26,265,9.8113
+Healthcare (Non-Nursing),Radiology,2024,25,265,9.434
+Healthcare (Non-Nursing),Recruiting,2024,16,265,6.0377
+Healthcare (Non-Nursing),Regulatory Affairs,2024,3,265,1.1321
+Healthcare (Non-Nursing),Relationship Management,2024,1,265,0.3774
+Healthcare (Non-Nursing),Remote Work,2024,1,265,0.3774
+Healthcare (Non-Nursing),Reporting,2024,31,265,11.6981
+Healthcare (Non-Nursing),Research,2024,1,265,0.3774
+Healthcare (Non-Nursing),Risk Management,2024,2,265,0.7547
+Healthcare (Non-Nursing),SHRM,2024,1,265,0.3774
+Healthcare (Non-Nursing),Sales,2024,2,265,0.7547
+Healthcare (Non-Nursing),Scheduling,2024,60,265,22.6415
+Healthcare (Non-Nursing),Self-Motivated,2024,23,265,8.6792
+Healthcare (Non-Nursing),Slack,2024,1,265,0.3774
+Healthcare (Non-Nursing),Special Education,2024,18,265,6.7925
+Healthcare (Non-Nursing),Statistical Analysis,2024,4,265,1.5094
+Healthcare (Non-Nursing),Strategic Planning,2024,1,265,0.3774
+Healthcare (Non-Nursing),Supply Chain Management,2024,1,265,0.3774
+Healthcare (Non-Nursing),Survey Design,2024,4,265,1.5094
+Healthcare (Non-Nursing),Teamwork,2024,29,265,10.9434
+Healthcare (Non-Nursing),Telehealth,2024,5,265,1.8868
+Healthcare (Non-Nursing),Time Management,2024,17,265,6.4151
+Healthcare (Non-Nursing),Verbal Communication,2024,25,265,9.434
+Healthcare (Non-Nursing),Vital Signs,2024,4,265,1.5094
+Healthcare (Non-Nursing),Workday,2024,1,265,0.3774
+Healthcare (Non-Nursing),Written Communication,2024,33,265,12.4528
+Human Resources,Accounting,2024,2,55,3.6364
+Human Resources,Adaptability,2024,17,55,30.9091
+Human Resources,Auditing,2024,1,55,1.8182
+Human Resources,Bilingual,2024,3,55,5.4545
+Human Resources,Budgeting,2024,1,55,1.8182
+Human Resources,Business Development,2024,1,55,1.8182
+Human Resources,CPR,2024,2,55,3.6364
+Human Resources,CRM Software,2024,2,55,3.6364
+Human Resources,Clinical Research,2024,1,55,1.8182
+Human Resources,Communication Skills,2024,19,55,34.5455
+Human Resources,Compliance,2024,10,55,18.1818
+Human Resources,Computer Vision,2024,1,55,1.8182
+Human Resources,Conflict Resolution,2024,1,55,1.8182
+Human Resources,Creative Thinking,2024,7,55,12.7273
+Human Resources,Critical Thinking,2024,1,55,1.8182
+Human Resources,Cross-Functional Collaboration,2024,2,55,3.6364
+Human Resources,Customer Service,2024,5,55,9.0909
+Human Resources,Data Analysis,2024,2,55,3.6364
+Human Resources,Data Collection,2024,1,55,1.8182
+Human Resources,Data Entry,2024,3,55,5.4545
+Human Resources,Decision Making,2024,3,55,5.4545
+Human Resources,Deep Learning,2024,1,55,1.8182
+Human Resources,Editing,2024,3,55,5.4545
+Human Resources,Environmental Engineering,2024,1,55,1.8182
+Human Resources,Event Planning,2024,1,55,1.8182
+Human Resources,Filing,2024,10,55,18.1818
+Human Resources,Financial Analysis,2024,1,55,1.8182
+Human Resources,Fundraising,2024,1,55,1.8182
+Human Resources,Google Workspace,2024,2,55,3.6364
+Human Resources,HRIS,2024,12,55,21.8182
+Human Resources,Interpersonal Skills,2024,9,55,16.3636
+Human Resources,Java,2024,1,55,1.8182
+Human Resources,JavaScript,2024,1,55,1.8182
+Human Resources,Leadership,2024,12,55,21.8182
+Human Resources,MATLAB,2024,2,55,3.6364
+Human Resources,Market Research,2024,1,55,1.8182
+Human Resources,Mental Health,2024,2,55,3.6364
+Human Resources,Mentoring,2024,3,55,5.4545
+Human Resources,Mergers and Acquisitions,2024,1,55,1.8182
+Human Resources,Microsoft Excel,2024,9,55,16.3636
+Human Resources,Microsoft Office,2024,21,55,38.1818
+Human Resources,Microsoft PowerPoint,2024,4,55,7.2727
+Human Resources,Microsoft Teams,2024,1,55,1.8182
+Human Resources,MongoDB,2024,1,55,1.8182
+Human Resources,Multitasking,2024,3,55,5.4545
+Human Resources,Networking,2024,4,55,7.2727
+Human Resources,Onboarding,2024,15,55,27.2727
+Human Resources,Organizational Skills,2024,18,55,32.7273
+Human Resources,PHR,2024,2,55,3.6364
+Human Resources,Patient Care,2024,2,55,3.6364
+Human Resources,Payroll,2024,8,55,14.5455
+Human Resources,Photoshop,2024,1,55,1.8182
+Human Resources,Physical Therapy,2024,1,55,1.8182
+Human Resources,PostgreSQL,2024,1,55,1.8182
+Human Resources,Presentation Skills,2024,3,55,5.4545
+Human Resources,Problem Solving,2024,6,55,10.9091
+Human Resources,Procurement,2024,1,55,1.8182
+Human Resources,Project Management,2024,3,55,5.4545
+Human Resources,Public Relations,2024,1,55,1.8182
+Human Resources,Python,2024,3,55,5.4545
+Human Resources,Quantitative Analysis,2024,1,55,1.8182
+Human Resources,Radiology,2024,1,55,1.8182
+Human Resources,Recruiting,2024,14,55,25.4545
+Human Resources,Remote Work,2024,1,55,1.8182
+Human Resources,Reporting,2024,6,55,10.9091
+Human Resources,SHRM,2024,3,55,5.4545
+Human Resources,SQL,2024,1,55,1.8182
+Human Resources,Sales,2024,1,55,1.8182
+Human Resources,Salesforce,2024,2,55,3.6364
+Human Resources,Scheduling,2024,3,55,5.4545
+Human Resources,Self-Motivated,2024,12,55,21.8182
+Human Resources,Social Media,2024,3,55,5.4545
+Human Resources,Stakeholder Management,2024,1,55,1.8182
+Human Resources,Statistical Analysis,2024,1,55,1.8182
+Human Resources,Strategic Planning,2024,4,55,7.2727
+Human Resources,Teamwork,2024,3,55,5.4545
+Human Resources,Telehealth,2024,1,55,1.8182
+Human Resources,Time Management,2024,8,55,14.5455
+Human Resources,Verbal Communication,2024,3,55,5.4545
+Human Resources,Workday,2024,6,55,10.9091
+Human Resources,Written Communication,2024,1,55,1.8182
+IT & Systems,APIs,2024,3,145,2.069
+IT & Systems,AWS,2024,4,145,2.7586
+IT & Systems,Accounting,2024,11,145,7.5862
+IT & Systems,Adaptability,2024,54,145,37.2414
+IT & Systems,Agile,2024,15,145,10.3448
+IT & Systems,Artificial Intelligence,2024,3,145,2.069
+IT & Systems,Auditing,2024,4,145,2.7586
+IT & Systems,AutoCAD,2024,2,145,1.3793
+IT & Systems,Azure,2024,5,145,3.4483
+IT & Systems,Bloomberg Terminal,2024,1,145,0.6897
+IT & Systems,Budgeting,2024,2,145,1.3793
+IT & Systems,Business Intelligence,2024,5,145,3.4483
+IT & Systems,CAD,2024,1,145,0.6897
+IT & Systems,CFA,2024,1,145,0.6897
+IT & Systems,CISSP,2024,13,145,8.9655
+IT & Systems,Case Management,2024,2,145,1.3793
+IT & Systems,Civil Engineering,2024,1,145,0.6897
+IT & Systems,Cloud Computing,2024,7,145,4.8276
+IT & Systems,Communication Skills,2024,55,145,37.931
+IT & Systems,CompTIA,2024,4,145,2.7586
+IT & Systems,Compliance,2024,33,145,22.7586
+IT & Systems,Conflict Resolution,2024,10,145,6.8966
+IT & Systems,Confluence,2024,2,145,1.3793
+IT & Systems,Creative Thinking,2024,28,145,19.3103
+IT & Systems,Critical Thinking,2024,15,145,10.3448
+IT & Systems,Cross-Functional Collaboration,2024,9,145,6.2069
+IT & Systems,Customer Service,2024,37,145,25.5172
+IT & Systems,Cybersecurity,2024,49,145,33.7931
+IT & Systems,Data Analysis,2024,33,145,22.7586
+IT & Systems,Data Collection,2024,3,145,2.069
+IT & Systems,Data Entry,2024,2,145,1.3793
+IT & Systems,Data Warehousing,2024,1,145,0.6897
+IT & Systems,Database Management,2024,10,145,6.8966
+IT & Systems,Decision Making,2024,13,145,8.9655
+IT & Systems,DevOps,2024,1,145,0.6897
+IT & Systems,ERP Systems,2024,8,145,5.5172
+IT & Systems,Editing,2024,3,145,2.069
+IT & Systems,Electrical Engineering,2024,7,145,4.8276
+IT & Systems,Emotional Intelligence,2024,1,145,0.6897
+IT & Systems,Event Planning,2024,4,145,2.7586
+IT & Systems,Filing,2024,1,145,0.6897
+IT & Systems,Financial Analysis,2024,2,145,1.3793
+IT & Systems,Financial Planning,2024,2,145,1.3793
+IT & Systems,Fundraising,2024,1,145,0.6897
+IT & Systems,Git,2024,2,145,1.3793
+IT & Systems,Google Cloud Platform,2024,1,145,0.6897
+IT & Systems,Google Workspace,2024,6,145,4.1379
+IT & Systems,HIPAA,2024,3,145,2.069
+IT & Systems,HRIS,2024,3,145,2.069
+IT & Systems,HTML,2024,3,145,2.069
+IT & Systems,Intellectual Property,2024,1,145,0.6897
+IT & Systems,Interpersonal Skills,2024,7,145,4.8276
+IT & Systems,Inventory Management,2024,1,145,0.6897
+IT & Systems,Java,2024,6,145,4.1379
+IT & Systems,JavaScript,2024,3,145,2.069
+IT & Systems,Jira,2024,3,145,2.069
+IT & Systems,LMS,2024,1,145,0.6897
+IT & Systems,Leadership,2024,22,145,15.1724
+IT & Systems,Linux,2024,12,145,8.2759
+IT & Systems,Litigation,2024,4,145,2.7586
+IT & Systems,MATLAB,2024,3,145,2.069
+IT & Systems,Machine Learning,2024,6,145,4.1379
+IT & Systems,Market Research,2024,1,145,0.6897
+IT & Systems,Mechanical Engineering,2024,4,145,2.7586
+IT & Systems,Mentoring,2024,6,145,4.1379
+IT & Systems,Microsoft Excel,2024,30,145,20.6897
+IT & Systems,Microsoft Office,2024,24,145,16.5517
+IT & Systems,Microsoft PowerPoint,2024,9,145,6.2069
+IT & Systems,Microsoft Word,2024,3,145,2.069
+IT & Systems,Multitasking,2024,6,145,4.1379
+IT & Systems,MySQL,2024,1,145,0.6897
+IT & Systems,Negotiation,2024,4,145,2.7586
+IT & Systems,Networking,2024,30,145,20.6897
+IT & Systems,Oracle,2024,6,145,4.1379
+IT & Systems,Organizational Skills,2024,30,145,20.6897
+IT & Systems,Patient Care,2024,3,145,2.069
+IT & Systems,Payroll,2024,2,145,1.3793
+IT & Systems,Perl,2024,4,145,2.7586
+IT & Systems,Pharmacy,2024,1,145,0.6897
+IT & Systems,Physical Therapy,2024,3,145,2.069
+IT & Systems,Power BI,2024,2,145,1.3793
+IT & Systems,Presentation Skills,2024,4,145,2.7586
+IT & Systems,Problem Solving,2024,65,145,44.8276
+IT & Systems,Process Improvement,2024,4,145,2.7586
+IT & Systems,Procurement,2024,2,145,1.3793
+IT & Systems,Project Management,2024,21,145,14.4828
+IT & Systems,Public Relations,2024,1,145,0.6897
+IT & Systems,Python,2024,11,145,7.5862
+IT & Systems,Quality Assurance,2024,15,145,10.3448
+IT & Systems,Quality Management Systems,2024,2,145,1.3793
+IT & Systems,Radiology,2024,2,145,1.3793
+IT & Systems,Recruiting,2024,10,145,6.8966
+IT & Systems,Remote Work,2024,4,145,2.7586
+IT & Systems,Reporting,2024,33,145,22.7586
+IT & Systems,Risk Management,2024,10,145,6.8966
+IT & Systems,Robotics,2024,2,145,1.3793
+IT & Systems,Root Cause Analysis,2024,2,145,1.3793
+IT & Systems,Ruby,2024,2,145,1.3793
+IT & Systems,SAP,2024,1,145,0.6897
+IT & Systems,SAS,2024,5,145,3.4483
+IT & Systems,SDLC,2024,2,145,1.3793
+IT & Systems,SQL,2024,27,145,18.6207
+IT & Systems,SQL Server,2024,2,145,1.3793
+IT & Systems,Salesforce,2024,2,145,1.3793
+IT & Systems,Scheduling,2024,1,145,0.6897
+IT & Systems,Scrum,2024,11,145,7.5862
+IT & Systems,Self-Motivated,2024,28,145,19.3103
+IT & Systems,ServiceNow,2024,6,145,4.1379
+IT & Systems,Shell Scripting,2024,3,145,2.069
+IT & Systems,Statistical Analysis,2024,6,145,4.1379
+IT & Systems,Strategic Planning,2024,2,145,1.3793
+IT & Systems,Supply Chain Management,2024,2,145,1.3793
+IT & Systems,Tableau,2024,6,145,4.1379
+IT & Systems,Teamwork,2024,26,145,17.931
+IT & Systems,Technical Writing,2024,4,145,2.7586
+IT & Systems,Time Management,2024,13,145,8.9655
+IT & Systems,UI Design,2024,11,145,7.5862
+IT & Systems,UX Design,2024,1,145,0.6897
+IT & Systems,VBA,2024,1,145,0.6897
+IT & Systems,Verbal Communication,2024,22,145,15.1724
+IT & Systems,Web Development,2024,11,145,7.5862
+IT & Systems,Windows Server,2024,4,145,2.7586
+IT & Systems,Workday,2024,9,145,6.2069
+IT & Systems,Written Communication,2024,22,145,15.1724
+Legal,Accounting,2024,1,57,1.7544
+Legal,Adaptability,2024,12,57,21.0526
+Legal,Agile,2024,1,57,1.7544
+Legal,Azure,2024,1,57,1.7544
+Legal,Bilingual,2024,1,57,1.7544
+Legal,Brand Management,2024,2,57,3.5088
+Legal,CSS,2024,1,57,1.7544
+Legal,Case Management,2024,3,57,5.2632
+Legal,Chemical Engineering,2024,1,57,1.7544
+Legal,Communication Skills,2024,32,57,56.1404
+Legal,Compliance,2024,13,57,22.807
+Legal,Conflict Resolution,2024,2,57,3.5088
+Legal,Contract Review,2024,1,57,1.7544
+Legal,Corporate Law,2024,2,57,3.5088
+Legal,Creative Thinking,2024,1,57,1.7544
+Legal,Critical Thinking,2024,1,57,1.7544
+Legal,Cross-Functional Collaboration,2024,1,57,1.7544
+Legal,Customer Service,2024,6,57,10.5263
+Legal,Data Analysis,2024,5,57,8.7719
+Legal,Data Entry,2024,1,57,1.7544
+Legal,Decision Making,2024,3,57,5.2632
+Legal,Due Diligence,2024,1,57,1.7544
+Legal,Editing,2024,2,57,3.5088
+Legal,Electrical Engineering,2024,7,57,12.2807
+Legal,Filing,2024,6,57,10.5263
+Legal,Google Workspace,2024,1,57,1.7544
+Legal,HTML,2024,8,57,14.0351
+Legal,Intellectual Property,2024,12,57,21.0526
+Legal,Interpersonal Skills,2024,20,57,35.0877
+Legal,JavaScript,2024,1,57,1.7544
+Legal,Leadership,2024,3,57,5.2632
+Legal,Legal Compliance,2024,1,57,1.7544
+Legal,Legal Research,2024,18,57,31.5789
+Legal,Legal Writing,2024,1,57,1.7544
+Legal,Litigation,2024,32,57,56.1404
+Legal,Mechanical Engineering,2024,2,57,3.5088
+Legal,Mental Health,2024,2,57,3.5088
+Legal,Mentoring,2024,3,57,5.2632
+Legal,Mergers and Acquisitions,2024,2,57,3.5088
+Legal,Microsoft Excel,2024,9,57,15.7895
+Legal,Microsoft Office,2024,11,57,19.2982
+Legal,Microsoft PowerPoint,2024,1,57,1.7544
+Legal,Microsoft Teams,2024,1,57,1.7544
+Legal,Microsoft Word,2024,2,57,3.5088
+Legal,Multitasking,2024,3,57,5.2632
+Legal,Negotiation,2024,8,57,14.0351
+Legal,Organizational Skills,2024,27,57,47.3684
+Legal,Paralegal Skills,2024,5,57,8.7719
+Legal,Payroll,2024,1,57,1.7544
+Legal,Photoshop,2024,1,57,1.7544
+Legal,Presentation Skills,2024,8,57,14.0351
+Legal,Problem Solving,2024,12,57,21.0526
+Legal,Procurement,2024,2,57,3.5088
+Legal,Project Management,2024,5,57,8.7719
+Legal,Python,2024,1,57,1.7544
+Legal,Quality Assurance,2024,1,57,1.7544
+Legal,Recruiting,2024,5,57,8.7719
+Legal,Remote Work,2024,4,57,7.0175
+Legal,Reporting,2024,4,57,7.0175
+Legal,Research,2024,2,57,3.5088
+Legal,Risk Management,2024,1,57,1.7544
+Legal,SQL,2024,1,57,1.7544
+Legal,Scheduling,2024,5,57,8.7719
+Legal,Self-Motivated,2024,18,57,31.5789
+Legal,Shell Scripting,2024,1,57,1.7544
+Legal,Social Media,2024,1,57,1.7544
+Legal,Social Media Marketing,2024,1,57,1.7544
+Legal,Strategic Planning,2024,1,57,1.7544
+Legal,Teamwork,2024,5,57,8.7719
+Legal,Telehealth,2024,2,57,3.5088
+Legal,Time Management,2024,7,57,12.2807
+Legal,Travel Coordination,2024,1,57,1.7544
+Legal,TypeScript,2024,1,57,1.7544
+Legal,Verbal Communication,2024,13,57,22.807
+Legal,Workday,2024,3,57,5.2632
+Legal,Written Communication,2024,15,57,26.3158
+Manufacturing & Trades,APIs,2024,2,402,0.4975
+Manufacturing & Trades,AWS,2024,1,402,0.2488
+Manufacturing & Trades,Accounting,2024,2,402,0.4975
+Manufacturing & Trades,Adaptability,2024,173,402,43.0348
+Manufacturing & Trades,Adobe Creative Suite,2024,2,402,0.4975
+Manufacturing & Trades,Agile,2024,1,402,0.2488
+Manufacturing & Trades,Assembly,2024,4,402,0.995
+Manufacturing & Trades,Bilingual,2024,2,402,0.4975
+Manufacturing & Trades,Blueprint Reading,2024,1,402,0.2488
+Manufacturing & Trades,Budgeting,2024,1,402,0.2488
+Manufacturing & Trades,CAD,2024,1,402,0.2488
+Manufacturing & Trades,CNC,2024,3,402,0.7463
+Manufacturing & Trades,CPR,2024,26,402,6.4677
+Manufacturing & Trades,CSS,2024,1,402,0.2488
+Manufacturing & Trades,Case Management,2024,1,402,0.2488
+Manufacturing & Trades,Clinical Research,2024,1,402,0.2488
+Manufacturing & Trades,Communication Skills,2024,63,402,15.6716
+Manufacturing & Trades,Compliance,2024,48,402,11.9403
+Manufacturing & Trades,Conflict Resolution,2024,1,402,0.2488
+Manufacturing & Trades,Confluence,2024,1,402,0.2488
+Manufacturing & Trades,Creative Thinking,2024,11,402,2.7363
+Manufacturing & Trades,Critical Thinking,2024,5,402,1.2438
+Manufacturing & Trades,Cross-Functional Collaboration,2024,7,402,1.7413
+Manufacturing & Trades,Customer Service,2024,29,402,7.2139
+Manufacturing & Trades,Data Analysis,2024,13,402,3.2338
+Manufacturing & Trades,Data Collection,2024,3,402,0.7463
+Manufacturing & Trades,Data Entry,2024,15,402,3.7313
+Manufacturing & Trades,Database Management,2024,2,402,0.4975
+Manufacturing & Trades,Decision Making,2024,9,402,2.2388
+Manufacturing & Trades,ERP Systems,2024,2,402,0.4975
+Manufacturing & Trades,Editing,2024,5,402,1.2438
+Manufacturing & Trades,Electronic Health Records,2024,1,402,0.2488
+Manufacturing & Trades,Event Planning,2024,1,402,0.2488
+Manufacturing & Trades,Filing,2024,1,402,0.2488
+Manufacturing & Trades,GMP,2024,17,402,4.2289
+Manufacturing & Trades,Git,2024,1,402,0.2488
+Manufacturing & Trades,Google Cloud Platform,2024,6,402,1.4925
+Manufacturing & Trades,Google Workspace,2024,3,402,0.7463
+Manufacturing & Trades,HIPAA,2024,1,402,0.2488
+Manufacturing & Trades,HTML,2024,1,402,0.2488
+Manufacturing & Trades,InDesign,2024,1,402,0.2488
+Manufacturing & Trades,Interpersonal Skills,2024,7,402,1.7413
+Manufacturing & Trades,Inventory Management,2024,3,402,0.7463
+Manufacturing & Trades,Java,2024,2,402,0.4975
+Manufacturing & Trades,JavaScript,2024,2,402,0.4975
+Manufacturing & Trades,Jira,2024,1,402,0.2488
+Manufacturing & Trades,LMS,2024,1,402,0.2488
+Manufacturing & Trades,Laboratory Skills,2024,10,402,2.4876
+Manufacturing & Trades,Leadership,2024,58,402,14.4279
+Manufacturing & Trades,Lean,2024,2,402,0.4975
+Manufacturing & Trades,Mechanical Engineering,2024,2,402,0.4975
+Manufacturing & Trades,Medical Terminology,2024,1,402,0.2488
+Manufacturing & Trades,Mentoring,2024,10,402,2.4876
+Manufacturing & Trades,Microsoft Excel,2024,33,402,8.209
+Manufacturing & Trades,Microsoft Office,2024,22,402,5.4726
+Manufacturing & Trades,Microsoft PowerPoint,2024,9,402,2.2388
+Manufacturing & Trades,Microsoft Word,2024,4,402,0.995
+Manufacturing & Trades,Multitasking,2024,17,402,4.2289
+Manufacturing & Trades,Negotiation,2024,2,402,0.4975
+Manufacturing & Trades,Networking,2024,1,402,0.2488
+Manufacturing & Trades,Nursing,2024,4,402,0.995
+Manufacturing & Trades,OSHA,2024,7,402,1.7413
+Manufacturing & Trades,Onboarding,2024,1,402,0.2488
+Manufacturing & Trades,Operations Management,2024,1,402,0.2488
+Manufacturing & Trades,Oracle,2024,1,402,0.2488
+Manufacturing & Trades,Organizational Skills,2024,58,402,14.4279
+Manufacturing & Trades,PHP,2024,1,402,0.2488
+Manufacturing & Trades,PLC Programming,2024,2,402,0.4975
+Manufacturing & Trades,Patient Care,2024,4,402,0.995
+Manufacturing & Trades,Pharmacy,2024,4,402,0.995
+Manufacturing & Trades,Phlebotomy,2024,3,402,0.7463
+Manufacturing & Trades,Photoshop,2024,2,402,0.4975
+Manufacturing & Trades,Presentation Skills,2024,1,402,0.2488
+Manufacturing & Trades,Preventive Maintenance,2024,24,402,5.9701
+Manufacturing & Trades,Problem Solving,2024,46,402,11.4428
+Manufacturing & Trades,Process Improvement,2024,8,402,1.99
+Manufacturing & Trades,Procurement,2024,5,402,1.2438
+Manufacturing & Trades,Project Management,2024,14,402,3.4826
+Manufacturing & Trades,Python,2024,1,402,0.2488
+Manufacturing & Trades,Quality Assurance,2024,45,402,11.194
+Manufacturing & Trades,Quality Management Systems,2024,2,402,0.4975
+Manufacturing & Trades,Radiology,2024,6,402,1.4925
+Manufacturing & Trades,React,2024,1,402,0.2488
+Manufacturing & Trades,Recruiting,2024,12,402,2.9851
+Manufacturing & Trades,Remote Work,2024,1,402,0.2488
+Manufacturing & Trades,Reporting,2024,19,402,4.7264
+Manufacturing & Trades,Revenue Analysis,2024,1,402,0.2488
+Manufacturing & Trades,Robotics,2024,1,402,0.2488
+Manufacturing & Trades,Root Cause Analysis,2024,1,402,0.2488
+Manufacturing & Trades,SAP,2024,16,402,3.9801
+Manufacturing & Trades,SQL,2024,2,402,0.4975
+Manufacturing & Trades,Salesforce,2024,1,402,0.2488
+Manufacturing & Trades,Scheduling,2024,15,402,3.7313
+Manufacturing & Trades,Scientific Writing,2024,2,402,0.4975
+Manufacturing & Trades,Scrum,2024,1,402,0.2488
+Manufacturing & Trades,Self-Motivated,2024,48,402,11.9403
+Manufacturing & Trades,ServiceNow,2024,1,402,0.2488
+Manufacturing & Trades,Six Sigma,2024,2,402,0.4975
+Manufacturing & Trades,Social Media,2024,1,402,0.2488
+Manufacturing & Trades,Statistical Analysis,2024,2,402,0.4975
+Manufacturing & Trades,Supply Chain Management,2024,15,402,3.7313
+Manufacturing & Trades,Survey Design,2024,9,402,2.2388
+Manufacturing & Trades,Teamwork,2024,27,402,6.7164
+Manufacturing & Trades,Technical Writing,2024,1,402,0.2488
+Manufacturing & Trades,Telehealth,2024,1,402,0.2488
+Manufacturing & Trades,Time Management,2024,5,402,1.2438
+Manufacturing & Trades,Verbal Communication,2024,13,402,3.2338
+Manufacturing & Trades,Vital Signs,2024,1,402,0.2488
+Manufacturing & Trades,Web Development,2024,1,402,0.2488
+Manufacturing & Trades,Welding,2024,6,402,1.4925
+Manufacturing & Trades,Workday,2024,14,402,3.4826
+Manufacturing & Trades,Written Communication,2024,13,402,3.2338
+Marketing & Communications,Adaptability,2024,45,148,30.4054
+Marketing & Communications,Adobe Creative Suite,2024,40,148,27.027
+Marketing & Communications,Artificial Intelligence,2024,4,148,2.7027
+Marketing & Communications,Bilingual,2024,3,148,2.027
+Marketing & Communications,Brand Management,2024,18,148,12.1622
+Marketing & Communications,Budgeting,2024,3,148,2.027
+Marketing & Communications,Business Development,2024,7,148,4.7297
+Marketing & Communications,CRM Software,2024,3,148,2.027
+Marketing & Communications,CSS,2024,5,148,3.3784
+Marketing & Communications,Communication Skills,2024,73,148,49.3243
+Marketing & Communications,Compliance,2024,13,148,8.7838
+Marketing & Communications,Conflict Resolution,2024,3,148,2.027
+Marketing & Communications,Content Marketing,2024,11,148,7.4324
+Marketing & Communications,Copywriting,2024,14,148,9.4595
+Marketing & Communications,Creative Thinking,2024,26,148,17.5676
+Marketing & Communications,Critical Thinking,2024,9,148,6.0811
+Marketing & Communications,Cross-Functional Collaboration,2024,13,148,8.7838
+Marketing & Communications,Curriculum Development,2024,1,148,0.6757
+Marketing & Communications,Customer Service,2024,8,148,5.4054
+Marketing & Communications,Cybersecurity,2024,2,148,1.3514
+Marketing & Communications,Data Analysis,2024,15,148,10.1351
+Marketing & Communications,Data Collection,2024,1,148,0.6757
+Marketing & Communications,Database Management,2024,13,148,8.7838
+Marketing & Communications,Decision Making,2024,4,148,2.7027
+Marketing & Communications,Digital Marketing,2024,18,148,12.1622
+Marketing & Communications,Editing,2024,28,148,18.9189
+Marketing & Communications,Email Marketing,2024,9,148,6.0811
+Marketing & Communications,Emotional Intelligence,2024,4,148,2.7027
+Marketing & Communications,Event Planning,2024,7,148,4.7297
+Marketing & Communications,Figma,2024,2,148,1.3514
+Marketing & Communications,Financial Planning,2024,1,148,0.6757
+Marketing & Communications,Forecasting,2024,1,148,0.6757
+Marketing & Communications,Fundraising,2024,2,148,1.3514
+Marketing & Communications,Google Analytics,2024,8,148,5.4054
+Marketing & Communications,Google Workspace,2024,4,148,2.7027
+Marketing & Communications,Grant Writing,2024,1,148,0.6757
+Marketing & Communications,HTML,2024,10,148,6.7568
+Marketing & Communications,HubSpot,2024,3,148,2.027
+Marketing & Communications,Illustrator,2024,10,148,6.7568
+Marketing & Communications,InDesign,2024,17,148,11.4865
+Marketing & Communications,Interpersonal Skills,2024,12,148,8.1081
+Marketing & Communications,Inventory Management,2024,1,148,0.6757
+Marketing & Communications,Jira,2024,1,148,0.6757
+Marketing & Communications,Leadership,2024,22,148,14.8649
+Marketing & Communications,Machine Learning,2024,1,148,0.6757
+Marketing & Communications,Market Research,2024,7,148,4.7297
+Marketing & Communications,Marketing Analytics,2024,1,148,0.6757
+Marketing & Communications,Marketing Automation,2024,4,148,2.7027
+Marketing & Communications,Mental Health,2024,2,148,1.3514
+Marketing & Communications,Mentoring,2024,2,148,1.3514
+Marketing & Communications,Microsoft Excel,2024,20,148,13.5135
+Marketing & Communications,Microsoft Office,2024,43,148,29.0541
+Marketing & Communications,Microsoft PowerPoint,2024,15,148,10.1351
+Marketing & Communications,Microsoft Word,2024,4,148,2.7027
+Marketing & Communications,Multitasking,2024,16,148,10.8108
+Marketing & Communications,Negotiation,2024,3,148,2.027
+Marketing & Communications,Networking,2024,2,148,1.3514
+Marketing & Communications,Onboarding,2024,3,148,2.027
+Marketing & Communications,Organizational Skills,2024,76,148,51.3514
+Marketing & Communications,PPC Advertising,2024,8,148,5.4054
+Marketing & Communications,Photoshop,2024,17,148,11.4865
+Marketing & Communications,Physical Therapy,2024,1,148,0.6757
+Marketing & Communications,Presentation Skills,2024,7,148,4.7297
+Marketing & Communications,Problem Solving,2024,23,148,15.5405
+Marketing & Communications,Process Improvement,2024,3,148,2.027
+Marketing & Communications,Procurement,2024,3,148,2.027
+Marketing & Communications,Project Management,2024,35,148,23.6486
+Marketing & Communications,Public Relations,2024,20,148,13.5135
+Marketing & Communications,Python,2024,1,148,0.6757
+Marketing & Communications,Quality Assurance,2024,2,148,1.3514
+Marketing & Communications,Recruiting,2024,15,148,10.1351
+Marketing & Communications,Relationship Management,2024,4,148,2.7027
+Marketing & Communications,Remote Work,2024,6,148,4.0541
+Marketing & Communications,Reporting,2024,24,148,16.2162
+Marketing & Communications,Revenue Analysis,2024,1,148,0.6757
+Marketing & Communications,SEO,2024,14,148,9.4595
+Marketing & Communications,SQL,2024,2,148,1.3514
+Marketing & Communications,Sales,2024,4,148,2.7027
+Marketing & Communications,Salesforce,2024,1,148,0.6757
+Marketing & Communications,Scheduling,2024,9,148,6.0811
+Marketing & Communications,Self-Motivated,2024,47,148,31.7568
+Marketing & Communications,Social Media,2024,72,148,48.6486
+Marketing & Communications,Social Media Marketing,2024,16,148,10.8108
+Marketing & Communications,Statistical Analysis,2024,8,148,5.4054
+Marketing & Communications,Strategic Planning,2024,12,148,8.1081
+Marketing & Communications,Supply Chain Management,2024,1,148,0.6757
+Marketing & Communications,Tableau,2024,1,148,0.6757
+Marketing & Communications,Teamwork,2024,20,148,13.5135
+Marketing & Communications,Technical Writing,2024,2,148,1.3514
+Marketing & Communications,Telehealth,2024,1,148,0.6757
+Marketing & Communications,Time Management,2024,27,148,18.2432
+Marketing & Communications,Trello,2024,1,148,0.6757
+Marketing & Communications,Tutoring,2024,1,148,0.6757
+Marketing & Communications,UX Design,2024,5,148,3.3784
+Marketing & Communications,Vendor Management,2024,5,148,3.3784
+Marketing & Communications,Verbal Communication,2024,25,148,16.8919
+Marketing & Communications,Web Development,2024,4,148,2.7027
+Marketing & Communications,WordPress,2024,10,148,6.7568
+Marketing & Communications,Workday,2024,1,148,0.6757
+Marketing & Communications,Written Communication,2024,45,148,30.4054
+Nursing & Clinical Care,Active Listening,2024,4,199,2.0101
+Nursing & Clinical Care,Adaptability,2024,79,199,39.6985
+Nursing & Clinical Care,Artificial Intelligence,2024,5,199,2.5126
+Nursing & Clinical Care,Auditing,2024,5,199,2.5126
+Nursing & Clinical Care,Bilingual,2024,20,199,10.0503
+Nursing & Clinical Care,Budgeting,2024,1,199,0.5025
+Nursing & Clinical Care,Business Development,2024,2,199,1.005
+Nursing & Clinical Care,Business Intelligence,2024,1,199,0.5025
+Nursing & Clinical Care,CPR,2024,107,199,53.7688
+Nursing & Clinical Care,CRM Software,2024,2,199,1.005
+Nursing & Clinical Care,Care Coordination,2024,16,199,8.0402
+Nursing & Clinical Care,Case Management,2024,7,199,3.5176
+Nursing & Clinical Care,Certified Nursing,2024,2,199,1.005
+Nursing & Clinical Care,Clinical Research,2024,4,199,2.0101
+Nursing & Clinical Care,Communication Skills,2024,35,199,17.5879
+Nursing & Clinical Care,Compliance,2024,37,199,18.593
+Nursing & Clinical Care,Creative Thinking,2024,34,199,17.0854
+Nursing & Clinical Care,Critical Thinking,2024,41,199,20.603
+Nursing & Clinical Care,Customer Service,2024,20,199,10.0503
+Nursing & Clinical Care,Data Analysis,2024,3,199,1.5075
+Nursing & Clinical Care,Data Collection,2024,9,199,4.5226
+Nursing & Clinical Care,Data Entry,2024,1,199,0.5025
+Nursing & Clinical Care,Database Management,2024,5,199,2.5126
+Nursing & Clinical Care,Decision Making,2024,11,199,5.5276
+Nursing & Clinical Care,Editing,2024,1,199,0.5025
+Nursing & Clinical Care,Electronic Health Records,2024,5,199,2.5126
+Nursing & Clinical Care,Emotional Intelligence,2024,4,199,2.0101
+Nursing & Clinical Care,Forecasting,2024,1,199,0.5025
+Nursing & Clinical Care,HTML,2024,10,199,5.0251
+Nursing & Clinical Care,Intellectual Property,2024,1,199,0.5025
+Nursing & Clinical Care,Interpersonal Skills,2024,7,199,3.5176
+Nursing & Clinical Care,LMS,2024,1,199,0.5025
+Nursing & Clinical Care,Lab Management,2024,5,199,2.5126
+Nursing & Clinical Care,Leadership,2024,56,199,28.1407
+Nursing & Clinical Care,Mental Health,2024,28,199,14.0704
+Nursing & Clinical Care,Mentoring,2024,4,199,2.0101
+Nursing & Clinical Care,Microsoft Excel,2024,22,199,11.0553
+Nursing & Clinical Care,Microsoft Office,2024,2,199,1.005
+Nursing & Clinical Care,Multitasking,2024,5,199,2.5126
+Nursing & Clinical Care,Negotiation,2024,5,199,2.5126
+Nursing & Clinical Care,Nursing,2024,60,199,30.1508
+Nursing & Clinical Care,OSHA,2024,1,199,0.5025
+Nursing & Clinical Care,Organizational Skills,2024,15,199,7.5377
+Nursing & Clinical Care,PHP,2024,3,199,1.5075
+Nursing & Clinical Care,PHR,2024,4,199,2.0101
+Nursing & Clinical Care,Patient Care,2024,124,199,62.3116
+Nursing & Clinical Care,Pharmacy,2024,14,199,7.0352
+Nursing & Clinical Care,Phlebotomy,2024,1,199,0.5025
+Nursing & Clinical Care,Physical Therapy,2024,14,199,7.0352
+Nursing & Clinical Care,Presentation Skills,2024,17,199,8.5427
+Nursing & Clinical Care,Problem Solving,2024,48,199,24.1206
+Nursing & Clinical Care,Process Improvement,2024,6,199,3.0151
+Nursing & Clinical Care,Project Management,2024,1,199,0.5025
+Nursing & Clinical Care,Quality Assurance,2024,3,199,1.5075
+Nursing & Clinical Care,Radiology,2024,6,199,3.0151
+Nursing & Clinical Care,React,2024,2,199,1.005
+Nursing & Clinical Care,Recruiting,2024,10,199,5.0251
+Nursing & Clinical Care,Reporting,2024,8,199,4.0201
+Nursing & Clinical Care,Root Cause Analysis,2024,1,199,0.5025
+Nursing & Clinical Care,Sales,2024,2,199,1.005
+Nursing & Clinical Care,Scheduling,2024,9,199,4.5226
+Nursing & Clinical Care,Self-Motivated,2024,5,199,2.5126
+Nursing & Clinical Care,Special Education,2024,1,199,0.5025
+Nursing & Clinical Care,Teamwork,2024,14,199,7.0352
+Nursing & Clinical Care,Telehealth,2024,1,199,0.5025
+Nursing & Clinical Care,Time Management,2024,8,199,4.0201
+Nursing & Clinical Care,Vital Signs,2024,3,199,1.5075
+Nursing & Clinical Care,Workday,2024,2,199,1.005
+Nursing & Clinical Care,Written Communication,2024,7,199,3.5176
+Operations & Logistics,AWS,2024,2,171,1.1696
+Operations & Logistics,Accounting,2024,14,171,8.1871
+Operations & Logistics,Accounts Payable,2024,7,171,4.0936
+Operations & Logistics,Accounts Receivable,2024,3,171,1.7544
+Operations & Logistics,Active Listening,2024,3,171,1.7544
+Operations & Logistics,Adaptability,2024,52,171,30.4094
+Operations & Logistics,Agile,2024,1,171,0.5848
+Operations & Logistics,Asana,2024,1,171,0.5848
+Operations & Logistics,Auditing,2024,1,171,0.5848
+Operations & Logistics,Azure,2024,2,171,1.1696
+Operations & Logistics,Big Data,2024,1,171,0.5848
+Operations & Logistics,Bilingual,2024,3,171,1.7544
+Operations & Logistics,Brand Management,2024,5,171,2.924
+Operations & Logistics,Budgeting,2024,3,171,1.7544
+Operations & Logistics,Business Development,2024,1,171,0.5848
+Operations & Logistics,Business Intelligence,2024,4,171,2.3392
+Operations & Logistics,CSS,2024,1,171,0.5848
+Operations & Logistics,Chemical Engineering,2024,1,171,0.5848
+Operations & Logistics,Clinical Research,2024,1,171,0.5848
+Operations & Logistics,Cloud Computing,2024,2,171,1.1696
+Operations & Logistics,Communication Skills,2024,65,171,38.0117
+Operations & Logistics,CompTIA,2024,1,171,0.5848
+Operations & Logistics,Compliance,2024,29,171,16.9591
+Operations & Logistics,Conflict Resolution,2024,1,171,0.5848
+Operations & Logistics,Content Marketing,2024,1,171,0.5848
+Operations & Logistics,Contract Review,2024,3,171,1.7544
+Operations & Logistics,Cost Analysis,2024,2,171,1.1696
+Operations & Logistics,Creative Thinking,2024,18,171,10.5263
+Operations & Logistics,Critical Thinking,2024,7,171,4.0936
+Operations & Logistics,Cross-Functional Collaboration,2024,12,171,7.0175
+Operations & Logistics,Customer Service,2024,35,171,20.4678
+Operations & Logistics,Cybersecurity,2024,3,171,1.7544
+Operations & Logistics,Data Analysis,2024,24,171,14.0351
+Operations & Logistics,Data Collection,2024,5,171,2.924
+Operations & Logistics,Data Entry,2024,8,171,4.6784
+Operations & Logistics,Data Mining,2024,3,171,1.7544
+Operations & Logistics,Data Visualization,2024,2,171,1.1696
+Operations & Logistics,Data Warehousing,2024,2,171,1.1696
+Operations & Logistics,Database Management,2024,1,171,0.5848
+Operations & Logistics,Decision Making,2024,12,171,7.0175
+Operations & Logistics,ERP Systems,2024,8,171,4.6784
+Operations & Logistics,Editing,2024,3,171,1.7544
+Operations & Logistics,Electrical Engineering,2024,1,171,0.5848
+Operations & Logistics,Emotional Intelligence,2024,2,171,1.1696
+Operations & Logistics,Event Planning,2024,2,171,1.1696
+Operations & Logistics,FDA Regulations,2024,1,171,0.5848
+Operations & Logistics,Failure Analysis,2024,1,171,0.5848
+Operations & Logistics,Filing,2024,4,171,2.3392
+Operations & Logistics,Financial Analysis,2024,3,171,1.7544
+Operations & Logistics,Forecasting,2024,5,171,2.924
+Operations & Logistics,Google Workspace,2024,5,171,2.924
+Operations & Logistics,HRIS,2024,2,171,1.1696
+Operations & Logistics,HTML,2024,2,171,1.1696
+Operations & Logistics,Interpersonal Skills,2024,18,171,10.5263
+Operations & Logistics,Inventory Management,2024,18,171,10.5263
+Operations & Logistics,Jira,2024,2,171,1.1696
+Operations & Logistics,Leadership,2024,25,171,14.6199
+Operations & Logistics,Lean,2024,1,171,0.5848
+Operations & Logistics,Linux,2024,1,171,0.5848
+Operations & Logistics,Machine Learning,2024,2,171,1.1696
+Operations & Logistics,Materials Science,2024,1,171,0.5848
+Operations & Logistics,Mechanical Engineering,2024,2,171,1.1696
+Operations & Logistics,Mentoring,2024,4,171,2.3392
+Operations & Logistics,Microsoft Excel,2024,50,171,29.2398
+Operations & Logistics,Microsoft Office,2024,22,171,12.8655
+Operations & Logistics,Microsoft PowerPoint,2024,10,171,5.848
+Operations & Logistics,Microsoft Word,2024,9,171,5.2632
+Operations & Logistics,Multitasking,2024,16,171,9.3567
+Operations & Logistics,Negotiation,2024,5,171,2.924
+Operations & Logistics,Networking,2024,5,171,2.924
+Operations & Logistics,OSHA,2024,5,171,2.924
+Operations & Logistics,Onboarding,2024,6,171,3.5088
+Operations & Logistics,Operations Management,2024,10,171,5.848
+Operations & Logistics,Oracle,2024,3,171,1.7544
+Operations & Logistics,Organizational Skills,2024,71,171,41.5205
+Operations & Logistics,PLC Programming,2024,1,171,0.5848
+Operations & Logistics,PMP,2024,1,171,0.5848
+Operations & Logistics,Patient Care,2024,1,171,0.5848
+Operations & Logistics,Payroll,2024,6,171,3.5088
+Operations & Logistics,Power BI,2024,7,171,4.0936
+Operations & Logistics,Presentation Skills,2024,8,171,4.6784
+Operations & Logistics,Preventive Maintenance,2024,1,171,0.5848
+Operations & Logistics,Problem Solving,2024,39,171,22.807
+Operations & Logistics,Process Improvement,2024,7,171,4.0936
+Operations & Logistics,Procurement,2024,23,171,13.4503
+Operations & Logistics,Project Management,2024,14,171,8.1871
+Operations & Logistics,Public Relations,2024,1,171,0.5848
+Operations & Logistics,Python,2024,2,171,1.1696
+Operations & Logistics,Quality Assurance,2024,9,171,5.2632
+Operations & Logistics,Quality Management Systems,2024,1,171,0.5848
+Operations & Logistics,Radiology,2024,1,171,0.5848
+Operations & Logistics,Recruiting,2024,16,171,9.3567
+Operations & Logistics,Relationship Management,2024,2,171,1.1696
+Operations & Logistics,Remote Work,2024,5,171,2.924
+Operations & Logistics,Reporting,2024,35,171,20.4678
+Operations & Logistics,Research,2024,1,171,0.5848
+Operations & Logistics,Risk Management,2024,4,171,2.3392
+Operations & Logistics,Root Cause Analysis,2024,1,171,0.5848
+Operations & Logistics,SAP,2024,8,171,4.6784
+Operations & Logistics,SQL,2024,6,171,3.5088
+Operations & Logistics,Salesforce,2024,2,171,1.1696
+Operations & Logistics,Scheduling,2024,10,171,5.848
+Operations & Logistics,Self-Motivated,2024,37,171,21.6374
+Operations & Logistics,Series 7,2024,2,171,1.1696
+Operations & Logistics,ServiceNow,2024,1,171,0.5848
+Operations & Logistics,Shell Scripting,2024,1,171,0.5848
+Operations & Logistics,Six Sigma,2024,2,171,1.1696
+Operations & Logistics,Slack,2024,1,171,0.5848
+Operations & Logistics,Social Media,2024,3,171,1.7544
+Operations & Logistics,Statistical Analysis,2024,3,171,1.7544
+Operations & Logistics,Strategic Planning,2024,3,171,1.7544
+Operations & Logistics,Supply Chain Management,2024,26,171,15.2047
+Operations & Logistics,Survey Design,2024,2,171,1.1696
+Operations & Logistics,Tableau,2024,4,171,2.3392
+Operations & Logistics,Teamwork,2024,18,171,10.5263
+Operations & Logistics,Technical Writing,2024,1,171,0.5848
+Operations & Logistics,Telehealth,2024,3,171,1.7544
+Operations & Logistics,Time Management,2024,14,171,8.1871
+Operations & Logistics,Travel Coordination,2024,1,171,0.5848
+Operations & Logistics,VBA,2024,2,171,1.1696
+Operations & Logistics,Valuation,2024,3,171,1.7544
+Operations & Logistics,Vendor Management,2024,1,171,0.5848
+Operations & Logistics,Verbal Communication,2024,19,171,11.1111
+Operations & Logistics,Workday,2024,5,171,2.924
+Operations & Logistics,Written Communication,2024,23,171,13.4503
+Other,APIs,2024,3,816,0.3676
+Other,AWS,2024,3,816,0.3676
+Other,Academic Advising,2024,1,816,0.1225
+Other,Accounting,2024,75,816,9.1912
+Other,Accounts Payable,2024,6,816,0.7353
+Other,Accounts Receivable,2024,8,816,0.9804
+Other,Active Listening,2024,6,816,0.7353
+Other,Adaptability,2024,211,816,25.8578
+Other,Adobe Creative Suite,2024,15,816,1.8382
+Other,Agile,2024,12,816,1.4706
+Other,Artificial Intelligence,2024,3,816,0.3676
+Other,Auditing,2024,17,816,2.0833
+Other,AutoCAD,2024,10,816,1.2255
+Other,Azure,2024,2,816,0.2451
+Other,Bilingual,2024,7,816,0.8578
+Other,Bloomberg Terminal,2024,3,816,0.3676
+Other,Brand Management,2024,5,816,0.6127
+Other,Budgeting,2024,11,816,1.348
+Other,Business Development,2024,23,816,2.8186
+Other,Business Intelligence,2024,8,816,0.9804
+Other,CAD,2024,7,816,0.8578
+Other,CFA,2024,5,816,0.6127
+Other,CISSP,2024,4,816,0.4902
+Other,CPA,2024,6,816,0.7353
+Other,CPR,2024,31,816,3.799
+Other,CRM Software,2024,3,816,0.3676
+Other,Case Management,2024,11,816,1.348
+Other,Certified Nursing,2024,4,816,0.4902
+Other,Chemical Engineering,2024,1,816,0.1225
+Other,Civil Engineering,2024,17,816,2.0833
+Other,Clinical Research,2024,10,816,1.2255
+Other,Cloud Computing,2024,3,816,0.3676
+Other,Communication Skills,2024,316,816,38.7255
+Other,CompTIA,2024,1,816,0.1225
+Other,Compliance,2024,204,816,25.0
+Other,Conflict Resolution,2024,5,816,0.6127
+Other,Confluence,2024,1,816,0.1225
+Other,Content Marketing,2024,1,816,0.1225
+Other,Contract Review,2024,3,816,0.3676
+Other,Corporate Law,2024,1,816,0.1225
+Other,Cost Analysis,2024,1,816,0.1225
+Other,Creative Thinking,2024,111,816,13.6029
+Other,Critical Thinking,2024,43,816,5.2696
+Other,Cross-Functional Collaboration,2024,23,816,2.8186
+Other,Customer Service,2024,205,816,25.1225
+Other,Cybersecurity,2024,11,816,1.348
+Other,Data Analysis,2024,93,816,11.3971
+Other,Data Collection,2024,17,816,2.0833
+Other,Data Engineering,2024,1,816,0.1225
+Other,Data Entry,2024,16,816,1.9608
+Other,Data Mining,2024,2,816,0.2451
+Other,Data Visualization,2024,6,816,0.7353
+Other,Data Warehousing,2024,2,816,0.2451
+Other,Database Management,2024,16,816,1.9608
+Other,Decision Making,2024,26,816,3.1863
+Other,Deep Learning,2024,1,816,0.1225
+Other,Digital Marketing,2024,5,816,0.6127
+Other,Docker,2024,1,816,0.1225
+Other,Due Diligence,2024,7,816,0.8578
+Other,ERP Systems,2024,11,816,1.348
+Other,Editing,2024,9,816,1.1029
+Other,Educational Technology,2024,1,816,0.1225
+Other,Elasticsearch,2024,1,816,0.1225
+Other,Electrical Engineering,2024,5,816,0.6127
+Other,Electronic Health Records,2024,6,816,0.7353
+Other,Emotional Intelligence,2024,7,816,0.8578
+Other,Environmental Engineering,2024,2,816,0.2451
+Other,Event Planning,2024,3,816,0.3676
+Other,Filing,2024,24,816,2.9412
+Other,Financial Analysis,2024,19,816,2.3284
+Other,Financial Planning,2024,9,816,1.1029
+Other,Financial Statements,2024,7,816,0.8578
+Other,Forecasting,2024,12,816,1.4706
+Other,Fundraising,2024,3,816,0.3676
+Other,GMP,2024,1,816,0.1225
+Other,Git,2024,1,816,0.1225
+Other,Google Analytics,2024,1,816,0.1225
+Other,Google Workspace,2024,1,816,0.1225
+Other,HIPAA,2024,7,816,0.8578
+Other,HRIS,2024,7,816,0.8578
+Other,HTML,2024,4,816,0.4902
+Other,ICD Coding,2024,2,816,0.2451
+Other,Illustrator,2024,10,816,1.2255
+Other,InDesign,2024,6,816,0.7353
+Other,Instructional Design,2024,1,816,0.1225
+Other,Intellectual Property,2024,3,816,0.3676
+Other,Interpersonal Skills,2024,68,816,8.3333
+Other,Inventory Management,2024,13,816,1.5931
+Other,Java,2024,5,816,0.6127
+Other,JavaScript,2024,1,816,0.1225
+Other,Jira,2024,2,816,0.2451
+Other,Kubernetes,2024,1,816,0.1225
+Other,LMS,2024,3,816,0.3676
+Other,Lab Management,2024,3,816,0.3676
+Other,Laboratory Skills,2024,14,816,1.7157
+Other,Leadership,2024,136,816,16.6667
+Other,Lean,2024,2,816,0.2451
+Other,Legal Research,2024,1,816,0.1225
+Other,LexisNexis,2024,1,816,0.1225
+Other,Linux,2024,3,816,0.3676
+Other,Litigation,2024,3,816,0.3676
+Other,MATLAB,2024,2,816,0.2451
+Other,Machine Learning,2024,2,816,0.2451
+Other,Market Research,2024,13,816,1.5931
+Other,Materials Science,2024,8,816,0.9804
+Other,Mechanical Engineering,2024,4,816,0.4902
+Other,Medical Terminology,2024,1,816,0.1225
+Other,Mental Health,2024,23,816,2.8186
+Other,Mentoring,2024,47,816,5.7598
+Other,Mergers and Acquisitions,2024,3,816,0.3676
+Other,Microsoft Excel,2024,143,816,17.5245
+Other,Microsoft Office,2024,119,816,14.5833
+Other,Microsoft PowerPoint,2024,47,816,5.7598
+Other,Microsoft Teams,2024,3,816,0.3676
+Other,Microsoft Word,2024,9,816,1.1029
+Other,Multitasking,2024,39,816,4.7794
+Other,MySQL,2024,1,816,0.1225
+Other,Negotiation,2024,14,816,1.7157
+Other,Networking,2024,27,816,3.3088
+Other,Nursing,2024,2,816,0.2451
+Other,OSHA,2024,4,816,0.4902
+Other,Onboarding,2024,10,816,1.2255
+Other,Operations Management,2024,4,816,0.4902
+Other,Oracle,2024,11,816,1.348
+Other,Organizational Skills,2024,196,816,24.0196
+Other,PHP,2024,7,816,0.8578
+Other,PHR,2024,1,816,0.1225
+Other,PLC Programming,2024,3,816,0.3676
+Other,PMP,2024,3,816,0.3676
+Other,PPC Advertising,2024,1,816,0.1225
+Other,Paralegal Skills,2024,2,816,0.2451
+Other,Patient Care,2024,36,816,4.4118
+Other,Payroll,2024,27,816,3.3088
+Other,Perl,2024,1,816,0.1225
+Other,Pharmacy,2024,22,816,2.6961
+Other,Phlebotomy,2024,1,816,0.1225
+Other,Photoshop,2024,9,816,1.1029
+Other,Physical Therapy,2024,25,816,3.0637
+Other,PostgreSQL,2024,1,816,0.1225
+Other,Power BI,2024,14,816,1.7157
+Other,Presentation Skills,2024,26,816,3.1863
+Other,Preventive Maintenance,2024,26,816,3.1863
+Other,Problem Solving,2024,159,816,19.4853
+Other,Process Improvement,2024,11,816,1.348
+Other,Procurement,2024,32,816,3.9216
+Other,Project Management,2024,38,816,4.6569
+Other,Public Relations,2024,1,816,0.1225
+Other,Python,2024,14,816,1.7157
+Other,Quality Assurance,2024,58,816,7.1078
+Other,Quality Management Systems,2024,2,816,0.2451
+Other,Quantitative Analysis,2024,2,816,0.2451
+Other,Radiology,2024,77,816,9.4363
+Other,Recruiting,2024,62,816,7.598
+Other,Redis,2024,1,816,0.1225
+Other,Regression Analysis,2024,2,816,0.2451
+Other,Relationship Management,2024,2,816,0.2451
+Other,Remote Work,2024,23,816,2.8186
+Other,Reporting,2024,106,816,12.9902
+Other,Research,2024,12,816,1.4706
+Other,Revenue Analysis,2024,2,816,0.2451
+Other,Risk Management,2024,23,816,2.8186
+Other,Robotics,2024,1,816,0.1225
+Other,SAP,2024,14,816,1.7157
+Other,SDLC,2024,1,816,0.1225
+Other,SHRM,2024,2,816,0.2451
+Other,SQL,2024,25,816,3.0637
+Other,SQL Server,2024,2,816,0.2451
+Other,Sales,2024,18,816,2.2059
+Other,Salesforce,2024,8,816,0.9804
+Other,Scheduling,2024,52,816,6.3725
+Other,Scientific Writing,2024,1,816,0.1225
+Other,Self-Motivated,2024,181,816,22.1814
+Other,ServiceNow,2024,4,816,0.4902
+Other,Shell Scripting,2024,1,816,0.1225
+Other,Six Sigma,2024,2,816,0.2451
+Other,Social Media,2024,19,816,2.3284
+Other,Social Media Marketing,2024,2,816,0.2451
+Other,SolidWorks,2024,1,816,0.1225
+Other,Special Education,2024,6,816,0.7353
+Other,Stakeholder Management,2024,5,816,0.6127
+Other,Statistical Analysis,2024,29,816,3.5539
+Other,Strategic Planning,2024,19,816,2.3284
+Other,Supply Chain Management,2024,14,816,1.7157
+Other,Survey Design,2024,9,816,1.1029
+Other,Tableau,2024,7,816,0.8578
+Other,Tax Preparation,2024,2,816,0.2451
+Other,Teamwork,2024,98,816,12.0098
+Other,Technical Writing,2024,10,816,1.2255
+Other,Telehealth,2024,9,816,1.1029
+Other,Time Management,2024,47,816,5.7598
+Other,Tutoring,2024,1,816,0.1225
+Other,UI Design,2024,1,816,0.1225
+Other,UX Design,2024,3,816,0.3676
+Other,Underwriting,2024,9,816,1.1029
+Other,VBA,2024,2,816,0.2451
+Other,Valuation,2024,5,816,0.6127
+Other,Vendor Management,2024,3,816,0.3676
+Other,Verbal Communication,2024,62,816,7.598
+Other,Vital Signs,2024,5,816,0.6127
+Other,Web Development,2024,4,816,0.4902
+Other,Welding,2024,5,816,0.6127
+Other,Windows Server,2024,2,816,0.2451
+Other,WordPress,2024,1,816,0.1225
+Other,Workday,2024,28,816,3.4314
+Other,Written Communication,2024,94,816,11.5196
+Project & Program Management,AWS,2024,1,108,0.9259
+Project & Program Management,Accounting,2024,4,108,3.7037
+Project & Program Management,Accounts Receivable,2024,2,108,1.8519
+Project & Program Management,Adaptability,2024,28,108,25.9259
+Project & Program Management,Adobe Creative Suite,2024,1,108,0.9259
+Project & Program Management,Agile,2024,5,108,4.6296
+Project & Program Management,Artificial Intelligence,2024,1,108,0.9259
+Project & Program Management,Asana,2024,1,108,0.9259
+Project & Program Management,Bilingual,2024,4,108,3.7037
+Project & Program Management,Bookkeeping,2024,1,108,0.9259
+Project & Program Management,Budgeting,2024,7,108,6.4815
+Project & Program Management,Business Development,2024,1,108,0.9259
+Project & Program Management,Business Intelligence,2024,1,108,0.9259
+Project & Program Management,CPR,2024,1,108,0.9259
+Project & Program Management,CRM Software,2024,2,108,1.8519
+Project & Program Management,Case Management,2024,3,108,2.7778
+Project & Program Management,Classroom Management,2024,2,108,1.8519
+Project & Program Management,Clinical Research,2024,1,108,0.9259
+Project & Program Management,Cloud Computing,2024,1,108,0.9259
+Project & Program Management,Communication Skills,2024,36,108,33.3333
+Project & Program Management,CompTIA,2024,1,108,0.9259
+Project & Program Management,Compliance,2024,29,108,26.8519
+Project & Program Management,Conflict Resolution,2024,1,108,0.9259
+Project & Program Management,Content Marketing,2024,6,108,5.5556
+Project & Program Management,Contract Review,2024,5,108,4.6296
+Project & Program Management,Cost Analysis,2024,1,108,0.9259
+Project & Program Management,Creative Thinking,2024,20,108,18.5185
+Project & Program Management,Critical Thinking,2024,5,108,4.6296
+Project & Program Management,Cross-Functional Collaboration,2024,4,108,3.7037
+Project & Program Management,Curriculum Development,2024,1,108,0.9259
+Project & Program Management,Customer Service,2024,33,108,30.5556
+Project & Program Management,Cybersecurity,2024,2,108,1.8519
+Project & Program Management,Data Analysis,2024,22,108,20.3704
+Project & Program Management,Data Collection,2024,8,108,7.4074
+Project & Program Management,Data Engineering,2024,1,108,0.9259
+Project & Program Management,Data Entry,2024,2,108,1.8519
+Project & Program Management,Decision Making,2024,7,108,6.4815
+Project & Program Management,Digital Marketing,2024,1,108,0.9259
+Project & Program Management,Due Diligence,2024,2,108,1.8519
+Project & Program Management,ERP Systems,2024,1,108,0.9259
+Project & Program Management,Editing,2024,3,108,2.7778
+Project & Program Management,Electrical Engineering,2024,1,108,0.9259
+Project & Program Management,Emotional Intelligence,2024,3,108,2.7778
+Project & Program Management,Event Planning,2024,4,108,3.7037
+Project & Program Management,Filing,2024,2,108,1.8519
+Project & Program Management,Financial Analysis,2024,2,108,1.8519
+Project & Program Management,Financial Planning,2024,1,108,0.9259
+Project & Program Management,Forecasting,2024,2,108,1.8519
+Project & Program Management,Google Workspace,2024,4,108,3.7037
+Project & Program Management,HTML,2024,1,108,0.9259
+Project & Program Management,HubSpot,2024,1,108,0.9259
+Project & Program Management,Interpersonal Skills,2024,12,108,11.1111
+Project & Program Management,Inventory Management,2024,4,108,3.7037
+Project & Program Management,Jira,2024,1,108,0.9259
+Project & Program Management,Leadership,2024,42,108,38.8889
+Project & Program Management,Market Research,2024,6,108,5.5556
+Project & Program Management,Medical Terminology,2024,1,108,0.9259
+Project & Program Management,Mental Health,2024,3,108,2.7778
+Project & Program Management,Mentoring,2024,4,108,3.7037
+Project & Program Management,Microsoft Excel,2024,32,108,29.6296
+Project & Program Management,Microsoft Office,2024,34,108,31.4815
+Project & Program Management,Microsoft PowerPoint,2024,12,108,11.1111
+Project & Program Management,Microsoft Teams,2024,1,108,0.9259
+Project & Program Management,Microsoft Word,2024,7,108,6.4815
+Project & Program Management,Mobile Development,2024,2,108,1.8519
+Project & Program Management,Multitasking,2024,9,108,8.3333
+Project & Program Management,Negotiation,2024,2,108,1.8519
+Project & Program Management,Networking,2024,3,108,2.7778
+Project & Program Management,OSHA,2024,3,108,2.7778
+Project & Program Management,Onboarding,2024,5,108,4.6296
+Project & Program Management,Operations Management,2024,1,108,0.9259
+Project & Program Management,Oracle,2024,1,108,0.9259
+Project & Program Management,Organizational Skills,2024,35,108,32.4074
+Project & Program Management,PHP,2024,3,108,2.7778
+Project & Program Management,PMP,2024,1,108,0.9259
+Project & Program Management,Patient Care,2024,1,108,0.9259
+Project & Program Management,Physical Therapy,2024,2,108,1.8519
+Project & Program Management,Power BI,2024,2,108,1.8519
+Project & Program Management,Presentation Skills,2024,3,108,2.7778
+Project & Program Management,Problem Solving,2024,26,108,24.0741
+Project & Program Management,Process Improvement,2024,2,108,1.8519
+Project & Program Management,Procurement,2024,6,108,5.5556
+Project & Program Management,Project Management,2024,21,108,19.4444
+Project & Program Management,Public Relations,2024,4,108,3.7037
+Project & Program Management,Quality Assurance,2024,2,108,1.8519
+Project & Program Management,Recruiting,2024,7,108,6.4815
+Project & Program Management,Relationship Management,2024,1,108,0.9259
+Project & Program Management,Remote Work,2024,9,108,8.3333
+Project & Program Management,Reporting,2024,29,108,26.8519
+Project & Program Management,Research,2024,1,108,0.9259
+Project & Program Management,Risk Management,2024,1,108,0.9259
+Project & Program Management,SQL,2024,1,108,0.9259
+Project & Program Management,Scheduling,2024,13,108,12.037
+Project & Program Management,Self-Motivated,2024,29,108,26.8519
+Project & Program Management,Social Media,2024,9,108,8.3333
+Project & Program Management,Social Media Marketing,2024,1,108,0.9259
+Project & Program Management,Stakeholder Management,2024,1,108,0.9259
+Project & Program Management,Statistical Analysis,2024,7,108,6.4815
+Project & Program Management,Strategic Planning,2024,2,108,1.8519
+Project & Program Management,Supply Chain Management,2024,2,108,1.8519
+Project & Program Management,Survey Design,2024,6,108,5.5556
+Project & Program Management,Tableau,2024,3,108,2.7778
+Project & Program Management,Teamwork,2024,23,108,21.2963
+Project & Program Management,Telehealth,2024,1,108,0.9259
+Project & Program Management,Time Management,2024,17,108,15.7407
+Project & Program Management,Tutoring,2024,1,108,0.9259
+Project & Program Management,Underwriting,2024,2,108,1.8519
+Project & Program Management,Vendor Management,2024,1,108,0.9259
+Project & Program Management,Verbal Communication,2024,5,108,4.6296
+Project & Program Management,Workday,2024,8,108,7.4074
+Project & Program Management,Written Communication,2024,13,108,12.037
+Research & Science,3D Printing,2024,1,111,0.9009
+Research & Science,APIs,2024,2,111,1.8018
+Research & Science,AWS,2024,2,111,1.8018
+Research & Science,Accounting,2024,1,111,0.9009
+Research & Science,Adaptability,2024,33,111,29.7297
+Research & Science,Artificial Intelligence,2024,5,111,4.5045
+Research & Science,Budgeting,2024,1,111,0.9009
+Research & Science,Business Development,2024,1,111,0.9009
+Research & Science,Chemical Engineering,2024,1,111,0.9009
+Research & Science,Clinical Research,2024,8,111,7.2072
+Research & Science,Cloud Computing,2024,4,111,3.6036
+Research & Science,Communication Skills,2024,29,111,26.1261
+Research & Science,Compliance,2024,13,111,11.7117
+Research & Science,Creative Thinking,2024,19,111,17.1171
+Research & Science,Critical Thinking,2024,2,111,1.8018
+Research & Science,Cross-Functional Collaboration,2024,3,111,2.7027
+Research & Science,Curriculum Development,2024,1,111,0.9009
+Research & Science,Customer Service,2024,8,111,7.2072
+Research & Science,Cybersecurity,2024,2,111,1.8018
+Research & Science,Data Analysis,2024,22,111,19.8198
+Research & Science,Data Collection,2024,5,111,4.5045
+Research & Science,Data Engineering,2024,1,111,0.9009
+Research & Science,Data Entry,2024,6,111,5.4054
+Research & Science,Data Mining,2024,1,111,0.9009
+Research & Science,Data Visualization,2024,3,111,2.7027
+Research & Science,Data Warehousing,2024,1,111,0.9009
+Research & Science,Database Management,2024,2,111,1.8018
+Research & Science,Decision Making,2024,5,111,4.5045
+Research & Science,Due Diligence,2024,2,111,1.8018
+Research & Science,Editing,2024,4,111,3.6036
+Research & Science,Electrical Engineering,2024,1,111,0.9009
+Research & Science,Environmental Engineering,2024,2,111,1.8018
+Research & Science,FDA Regulations,2024,2,111,1.8018
+Research & Science,Filing,2024,1,111,0.9009
+Research & Science,Financial Analysis,2024,2,111,1.8018
+Research & Science,Financial Planning,2024,1,111,0.9009
+Research & Science,GMP,2024,1,111,0.9009
+Research & Science,Git,2024,1,111,0.9009
+Research & Science,Google Workspace,2024,1,111,0.9009
+Research & Science,HTML,2024,1,111,0.9009
+Research & Science,Intellectual Property,2024,1,111,0.9009
+Research & Science,Interpersonal Skills,2024,7,111,6.3063
+Research & Science,Inventory Management,2024,2,111,1.8018
+Research & Science,Investment Analysis,2024,2,111,1.8018
+Research & Science,Java,2024,5,111,4.5045
+Research & Science,Lab Management,2024,2,111,1.8018
+Research & Science,Laboratory Skills,2024,2,111,1.8018
+Research & Science,Leadership,2024,11,111,9.9099
+Research & Science,Litigation,2024,1,111,0.9009
+Research & Science,Machine Learning,2024,7,111,6.3063
+Research & Science,Materials Science,2024,5,111,4.5045
+Research & Science,Mechanical Engineering,2024,4,111,3.6036
+Research & Science,Mental Health,2024,4,111,3.6036
+Research & Science,Mentoring,2024,3,111,2.7027
+Research & Science,Microsoft Excel,2024,17,111,15.3153
+Research & Science,Microsoft Office,2024,12,111,10.8108
+Research & Science,Microsoft PowerPoint,2024,7,111,6.3063
+Research & Science,Microsoft Word,2024,5,111,4.5045
+Research & Science,Multitasking,2024,4,111,3.6036
+Research & Science,Natural Language Processing,2024,3,111,2.7027
+Research & Science,Networking,2024,2,111,1.8018
+Research & Science,OSHA,2024,1,111,0.9009
+Research & Science,Organizational Skills,2024,26,111,23.4234
+Research & Science,PHP,2024,1,111,0.9009
+Research & Science,Patient Care,2024,6,111,5.4054
+Research & Science,Payroll,2024,3,111,2.7027
+Research & Science,Pharmacy,2024,4,111,3.6036
+Research & Science,Physical Therapy,2024,5,111,4.5045
+Research & Science,Power BI,2024,1,111,0.9009
+Research & Science,Presentation Skills,2024,4,111,3.6036
+Research & Science,Preventive Maintenance,2024,2,111,1.8018
+Research & Science,Problem Solving,2024,12,111,10.8108
+Research & Science,Process Improvement,2024,2,111,1.8018
+Research & Science,Project Management,2024,4,111,3.6036
+Research & Science,Python,2024,12,111,10.8108
+Research & Science,Quality Assurance,2024,8,111,7.2072
+Research & Science,Quantitative Analysis,2024,7,111,6.3063
+Research & Science,Radiology,2024,4,111,3.6036
+Research & Science,Recruiting,2024,15,111,13.5135
+Research & Science,Relationship Management,2024,1,111,0.9009
+Research & Science,Remote Work,2024,6,111,5.4054
+Research & Science,Reporting,2024,8,111,7.2072
+Research & Science,Research,2024,4,111,3.6036
+Research & Science,Risk Management,2024,3,111,2.7027
+Research & Science,SAS,2024,3,111,2.7027
+Research & Science,SQL,2024,4,111,3.6036
+Research & Science,SQL Server,2024,2,111,1.8018
+Research & Science,Scheduling,2024,1,111,0.9009
+Research & Science,Scientific Writing,2024,2,111,1.8018
+Research & Science,Self-Motivated,2024,20,111,18.018
+Research & Science,Series 7,2024,1,111,0.9009
+Research & Science,Social Media,2024,2,111,1.8018
+Research & Science,Statistical Analysis,2024,11,111,9.9099
+Research & Science,Supply Chain Management,2024,1,111,0.9009
+Research & Science,Survey Design,2024,1,111,0.9009
+Research & Science,Tableau,2024,5,111,4.5045
+Research & Science,Teamwork,2024,13,111,11.7117
+Research & Science,Technical Writing,2024,3,111,2.7027
+Research & Science,Time Management,2024,13,111,11.7117
+Research & Science,VBA,2024,1,111,0.9009
+Research & Science,Valuation,2024,2,111,1.8018
+Research & Science,Verbal Communication,2024,6,111,5.4054
+Research & Science,Workday,2024,3,111,2.7027
+Research & Science,Written Communication,2024,13,111,11.7117
+Sales & Business Development,AWS,2024,1,205,0.4878
+Sales & Business Development,Accounting,2024,2,205,0.9756
+Sales & Business Development,Adaptability,2024,62,205,30.2439
+Sales & Business Development,Agile,2024,2,205,0.9756
+Sales & Business Development,Bilingual,2024,3,205,1.4634
+Sales & Business Development,Bookkeeping,2024,1,205,0.4878
+Sales & Business Development,Business Development,2024,36,205,17.561
+Sales & Business Development,CRM Software,2024,26,205,12.6829
+Sales & Business Development,Clinical Research,2024,1,205,0.4878
+Sales & Business Development,Communication Skills,2024,82,205,40.0
+Sales & Business Development,Compliance,2024,28,205,13.6585
+Sales & Business Development,Contract Review,2024,1,205,0.4878
+Sales & Business Development,Creative Thinking,2024,32,205,15.6098
+Sales & Business Development,Critical Thinking,2024,22,205,10.7317
+Sales & Business Development,Cross-Functional Collaboration,2024,6,205,2.9268
+Sales & Business Development,Curriculum Development,2024,1,205,0.4878
+Sales & Business Development,Customer Service,2024,97,205,47.3171
+Sales & Business Development,Data Analysis,2024,9,205,4.3902
+Sales & Business Development,Data Collection,2024,1,205,0.4878
+Sales & Business Development,Data Entry,2024,11,205,5.3659
+Sales & Business Development,Data Mining,2024,1,205,0.4878
+Sales & Business Development,Database Management,2024,1,205,0.4878
+Sales & Business Development,Decision Making,2024,4,205,1.9512
+Sales & Business Development,Digital Marketing,2024,3,205,1.4634
+Sales & Business Development,Editing,2024,6,205,2.9268
+Sales & Business Development,Email Marketing,2024,2,205,0.9756
+Sales & Business Development,Emotional Intelligence,2024,15,205,7.3171
+Sales & Business Development,Event Planning,2024,4,205,1.9512
+Sales & Business Development,Filing,2024,7,205,3.4146
+Sales & Business Development,Financial Analysis,2024,1,205,0.4878
+Sales & Business Development,Financial Planning,2024,7,205,3.4146
+Sales & Business Development,Forecasting,2024,1,205,0.4878
+Sales & Business Development,Google Analytics,2024,1,205,0.4878
+Sales & Business Development,Google Workspace,2024,2,205,0.9756
+Sales & Business Development,HubSpot,2024,2,205,0.9756
+Sales & Business Development,Interpersonal Skills,2024,21,205,10.2439
+Sales & Business Development,Inventory Management,2024,3,205,1.4634
+Sales & Business Development,LMS,2024,1,205,0.4878
+Sales & Business Development,Leadership,2024,30,205,14.6341
+Sales & Business Development,Litigation,2024,1,205,0.4878
+Sales & Business Development,Market Research,2024,1,205,0.4878
+Sales & Business Development,Marketing Analytics,2024,1,205,0.4878
+Sales & Business Development,Mechanical Engineering,2024,1,205,0.4878
+Sales & Business Development,Mental Health,2024,25,205,12.1951
+Sales & Business Development,Mentoring,2024,27,205,13.1707
+Sales & Business Development,Microsoft Excel,2024,31,205,15.122
+Sales & Business Development,Microsoft Office,2024,34,205,16.5854
+Sales & Business Development,Microsoft PowerPoint,2024,15,205,7.3171
+Sales & Business Development,Microsoft Teams,2024,6,205,2.9268
+Sales & Business Development,Microsoft Word,2024,9,205,4.3902
+Sales & Business Development,Mobile Development,2024,1,205,0.4878
+Sales & Business Development,Multitasking,2024,11,205,5.3659
+Sales & Business Development,Negotiation,2024,11,205,5.3659
+Sales & Business Development,Networking,2024,5,205,2.439
+Sales & Business Development,Onboarding,2024,7,205,3.4146
+Sales & Business Development,Operations Management,2024,13,205,6.3415
+Sales & Business Development,Organizational Skills,2024,68,205,33.1707
+Sales & Business Development,Presentation Skills,2024,8,205,3.9024
+Sales & Business Development,Problem Solving,2024,38,205,18.5366
+Sales & Business Development,Process Improvement,2024,1,205,0.4878
+Sales & Business Development,Procurement,2024,4,205,1.9512
+Sales & Business Development,Project Management,2024,7,205,3.4146
+Sales & Business Development,Quantitative Analysis,2024,1,205,0.4878
+Sales & Business Development,QuickBooks,2024,1,205,0.4878
+Sales & Business Development,Recruiting,2024,16,205,7.8049
+Sales & Business Development,Relationship Management,2024,11,205,5.3659
+Sales & Business Development,Remote Work,2024,9,205,4.3902
+Sales & Business Development,Reporting,2024,13,205,6.3415
+Sales & Business Development,Revenue Analysis,2024,2,205,0.9756
+Sales & Business Development,Risk Management,2024,13,205,6.3415
+Sales & Business Development,SAP,2024,1,205,0.4878
+Sales & Business Development,SQL,2024,1,205,0.4878
+Sales & Business Development,Sales,2024,67,205,32.6829
+Sales & Business Development,Salesforce,2024,16,205,7.8049
+Sales & Business Development,Scheduling,2024,10,205,4.878
+Sales & Business Development,Self-Motivated,2024,58,205,28.2927
+Sales & Business Development,Series 63,2024,1,205,0.4878
+Sales & Business Development,Series 7,2024,7,205,3.4146
+Sales & Business Development,Social Media,2024,8,205,3.9024
+Sales & Business Development,Strategic Planning,2024,2,205,0.9756
+Sales & Business Development,Supply Chain Management,2024,10,205,4.878
+Sales & Business Development,Survey Design,2024,3,205,1.4634
+Sales & Business Development,Teamwork,2024,28,205,13.6585
+Sales & Business Development,Telehealth,2024,5,205,2.439
+Sales & Business Development,Time Management,2024,43,205,20.9756
+Sales & Business Development,Verbal Communication,2024,20,205,9.7561
+Sales & Business Development,Workday,2024,8,205,3.9024
+Sales & Business Development,Written Communication,2024,22,205,10.7317
+Software & Web Development,APIs,2024,11,128,8.5938
+Software & Web Development,AWS,2024,26,128,20.3125
+Software & Web Development,Accounting,2024,2,128,1.5625
+Software & Web Development,Active Listening,2024,1,128,0.7812
+Software & Web Development,Adaptability,2024,42,128,32.8125
+Software & Web Development,Agile,2024,42,128,32.8125
+Software & Web Development,Angular,2024,18,128,14.0625
+Software & Web Development,Artificial Intelligence,2024,3,128,2.3438
+Software & Web Development,Azure,2024,17,128,13.2812
+Software & Web Development,Big Data,2024,1,128,0.7812
+Software & Web Development,Business Development,2024,2,128,1.5625
+Software & Web Development,Business Intelligence,2024,7,128,5.4688
+Software & Web Development,C Programming,2024,1,128,0.7812
+Software & Web Development,CI/CD,2024,15,128,11.7188
+Software & Web Development,CISSP,2024,1,128,0.7812
+Software & Web Development,CRM Software,2024,4,128,3.125
+Software & Web Development,CSS,2024,13,128,10.1562
+Software & Web Development,Cloud Computing,2024,13,128,10.1562
+Software & Web Development,Communication Skills,2024,48,128,37.5
+Software & Web Development,CompTIA,2024,2,128,1.5625
+Software & Web Development,Compliance,2024,6,128,4.6875
+Software & Web Development,Computer Vision,2024,2,128,1.5625
+Software & Web Development,Confluence,2024,8,128,6.25
+Software & Web Development,Corporate Law,2024,1,128,0.7812
+Software & Web Development,Cost Analysis,2024,3,128,2.3438
+Software & Web Development,Creative Thinking,2024,30,128,23.4375
+Software & Web Development,Critical Thinking,2024,5,128,3.9062
+Software & Web Development,Cross-Functional Collaboration,2024,11,128,8.5938
+Software & Web Development,Customer Service,2024,13,128,10.1562
+Software & Web Development,Cybersecurity,2024,19,128,14.8438
+Software & Web Development,Data Analysis,2024,14,128,10.9375
+Software & Web Development,Data Engineering,2024,2,128,1.5625
+Software & Web Development,Data Entry,2024,1,128,0.7812
+Software & Web Development,Data Visualization,2024,3,128,2.3438
+Software & Web Development,Data Warehousing,2024,1,128,0.7812
+Software & Web Development,Database Management,2024,5,128,3.9062
+Software & Web Development,Decision Making,2024,4,128,3.125
+Software & Web Development,DevOps,2024,17,128,13.2812
+Software & Web Development,Digital Marketing,2024,1,128,0.7812
+Software & Web Development,Django,2024,1,128,0.7812
+Software & Web Development,Docker,2024,16,128,12.5
+Software & Web Development,Due Diligence,2024,1,128,0.7812
+Software & Web Development,ERP Systems,2024,1,128,0.7812
+Software & Web Development,Educational Technology,2024,1,128,0.7812
+Software & Web Development,Elasticsearch,2024,2,128,1.5625
+Software & Web Development,Electrical Engineering,2024,15,128,11.7188
+Software & Web Development,Email Marketing,2024,1,128,0.7812
+Software & Web Development,Filing,2024,3,128,2.3438
+Software & Web Development,Financial Analysis,2024,1,128,0.7812
+Software & Web Development,Financial Planning,2024,2,128,1.5625
+Software & Web Development,Flask,2024,1,128,0.7812
+Software & Web Development,Forecasting,2024,1,128,0.7812
+Software & Web Development,Git,2024,31,128,24.2188
+Software & Web Development,Go,2024,1,128,0.7812
+Software & Web Development,Google Cloud Platform,2024,9,128,7.0312
+Software & Web Development,HTML,2024,14,128,10.9375
+Software & Web Development,ICD Coding,2024,1,128,0.7812
+Software & Web Development,Interpersonal Skills,2024,9,128,7.0312
+Software & Web Development,Java,2024,56,128,43.75
+Software & Web Development,JavaScript,2024,37,128,28.9062
+Software & Web Development,Jira,2024,13,128,10.1562
+Software & Web Development,Kanban,2024,1,128,0.7812
+Software & Web Development,Kotlin,2024,2,128,1.5625
+Software & Web Development,Kubernetes,2024,10,128,7.8125
+Software & Web Development,Leadership,2024,11,128,8.5938
+Software & Web Development,Linux,2024,21,128,16.4062
+Software & Web Development,MATLAB,2024,6,128,4.6875
+Software & Web Development,Machine Learning,2024,14,128,10.9375
+Software & Web Development,Market Research,2024,1,128,0.7812
+Software & Web Development,Mental Health,2024,3,128,2.3438
+Software & Web Development,Mentoring,2024,7,128,5.4688
+Software & Web Development,Microsoft Excel,2024,10,128,7.8125
+Software & Web Development,Microsoft Office,2024,5,128,3.9062
+Software & Web Development,Microsoft PowerPoint,2024,5,128,3.9062
+Software & Web Development,Microsoft Word,2024,1,128,0.7812
+Software & Web Development,Mobile Development,2024,3,128,2.3438
+Software & Web Development,MongoDB,2024,2,128,1.5625
+Software & Web Development,Multitasking,2024,6,128,4.6875
+Software & Web Development,MySQL,2024,6,128,4.6875
+Software & Web Development,Natural Language Processing,2024,1,128,0.7812
+Software & Web Development,Networking,2024,10,128,7.8125
+Software & Web Development,NoSQL,2024,6,128,4.6875
+Software & Web Development,Node.js,2024,5,128,3.9062
+Software & Web Development,Objective-C,2024,1,128,0.7812
+Software & Web Development,Onboarding,2024,2,128,1.5625
+Software & Web Development,Oracle,2024,6,128,4.6875
+Software & Web Development,Organizational Skills,2024,23,128,17.9688
+Software & Web Development,PHP,2024,4,128,3.125
+Software & Web Development,PLC Programming,2024,6,128,4.6875
+Software & Web Development,PPC Advertising,2024,1,128,0.7812
+Software & Web Development,Perl,2024,8,128,6.25
+Software & Web Development,Pharmacy,2024,1,128,0.7812
+Software & Web Development,Physical Therapy,2024,4,128,3.125
+Software & Web Development,PostgreSQL,2024,11,128,8.5938
+Software & Web Development,Power BI,2024,7,128,5.4688
+Software & Web Development,Presentation Skills,2024,2,128,1.5625
+Software & Web Development,Problem Solving,2024,43,128,33.5938
+Software & Web Development,Process Improvement,2024,3,128,2.3438
+Software & Web Development,Procurement,2024,2,128,1.5625
+Software & Web Development,Project Management,2024,14,128,10.9375
+Software & Web Development,Python,2024,50,128,39.0625
+Software & Web Development,Quality Assurance,2024,8,128,6.25
+Software & Web Development,Quantitative Analysis,2024,6,128,4.6875
+Software & Web Development,React,2024,13,128,10.1562
+Software & Web Development,Recruiting,2024,5,128,3.9062
+Software & Web Development,Redis,2024,3,128,2.3438
+Software & Web Development,Remote Work,2024,6,128,4.6875
+Software & Web Development,Reporting,2024,11,128,8.5938
+Software & Web Development,Research,2024,1,128,0.7812
+Software & Web Development,Risk Management,2024,7,128,5.4688
+Software & Web Development,Robotics,2024,1,128,0.7812
+Software & Web Development,Root Cause Analysis,2024,2,128,1.5625
+Software & Web Development,Ruby,2024,5,128,3.9062
+Software & Web Development,Rust,2024,1,128,0.7812
+Software & Web Development,SAS,2024,1,128,0.7812
+Software & Web Development,SDLC,2024,14,128,10.9375
+Software & Web Development,SQL,2024,34,128,26.5625
+Software & Web Development,SQL Server,2024,7,128,5.4688
+Software & Web Development,Salesforce,2024,4,128,3.125
+Software & Web Development,Scheduling,2024,2,128,1.5625
+Software & Web Development,Scrum,2024,12,128,9.375
+Software & Web Development,Self-Motivated,2024,30,128,23.4375
+Software & Web Development,ServiceNow,2024,4,128,3.125
+Software & Web Development,Shell Scripting,2024,5,128,3.9062
+Software & Web Development,Social Media,2024,2,128,1.5625
+Software & Web Development,Spring,2024,6,128,4.6875
+Software & Web Development,Statistical Analysis,2024,13,128,10.1562
+Software & Web Development,Tableau,2024,1,128,0.7812
+Software & Web Development,Teamwork,2024,19,128,14.8438
+Software & Web Development,Time Management,2024,9,128,7.0312
+Software & Web Development,Tutoring,2024,1,128,0.7812
+Software & Web Development,TypeScript,2024,7,128,5.4688
+Software & Web Development,UI Design,2024,6,128,4.6875
+Software & Web Development,UX Design,2024,2,128,1.5625
+Software & Web Development,Underwriting,2024,1,128,0.7812
+Software & Web Development,VBA,2024,2,128,1.5625
+Software & Web Development,Valuation,2024,1,128,0.7812
+Software & Web Development,Verbal Communication,2024,12,128,9.375
+Software & Web Development,Vue.js,2024,5,128,3.9062
+Software & Web Development,Web Development,2024,15,128,11.7188
+Software & Web Development,Workday,2024,1,128,0.7812
+Software & Web Development,Written Communication,2024,16,128,12.5

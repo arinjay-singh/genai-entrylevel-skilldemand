@@ -1,0 +1,2240 @@
+occupation_group,skill,year,count,n_postings,pct
+Administrative & Support,APIs,2022,1,594,0.1684
+Administrative & Support,AWS,2022,1,594,0.1684
+Administrative & Support,Academic Advising,2022,5,594,0.8418
+Administrative & Support,Accounting,2022,34,594,5.7239
+Administrative & Support,Accounts Payable,2022,8,594,1.3468
+Administrative & Support,Accounts Receivable,2022,3,594,0.5051
+Administrative & Support,Active Listening,2022,1,594,0.1684
+Administrative & Support,Adaptability,2022,205,594,34.5118
+Administrative & Support,Adobe Creative Suite,2022,5,594,0.8418
+Administrative & Support,Agile,2022,2,594,0.3367
+Administrative & Support,Artificial Intelligence,2022,3,594,0.5051
+Administrative & Support,Asana,2022,4,594,0.6734
+Administrative & Support,Auditing,2022,4,594,0.6734
+Administrative & Support,AutoCAD,2022,12,594,2.0202
+Administrative & Support,Big Data,2022,2,594,0.3367
+Administrative & Support,Bilingual,2022,25,594,4.2088
+Administrative & Support,Bloomberg Terminal,2022,4,594,0.6734
+Administrative & Support,Bookkeeping,2022,1,594,0.1684
+Administrative & Support,Brand Management,2022,7,594,1.1785
+Administrative & Support,Budgeting,2022,13,594,2.1886
+Administrative & Support,Business Development,2022,7,594,1.1785
+Administrative & Support,Business Intelligence,2022,2,594,0.3367
+Administrative & Support,CAD,2022,10,594,1.6835
+Administrative & Support,CFA,2022,7,594,1.1785
+Administrative & Support,CPA,2022,3,594,0.5051
+Administrative & Support,CPR,2022,29,594,4.8822
+Administrative & Support,CRM Software,2022,36,594,6.0606
+Administrative & Support,CSS,2022,1,594,0.1684
+Administrative & Support,Care Coordination,2022,4,594,0.6734
+Administrative & Support,Case Management,2022,10,594,1.6835
+Administrative & Support,Civil Engineering,2022,4,594,0.6734
+Administrative & Support,Classroom Management,2022,3,594,0.5051
+Administrative & Support,Cloud Computing,2022,1,594,0.1684
+Administrative & Support,Communication Skills,2022,191,594,32.1549
+Administrative & Support,Compliance,2022,101,594,17.0034
+Administrative & Support,Conflict Resolution,2022,6,594,1.0101
+Administrative & Support,Contract Review,2022,2,594,0.3367
+Administrative & Support,Copywriting,2022,2,594,0.3367
+Administrative & Support,Corporate Law,2022,1,594,0.1684
+Administrative & Support,Cost Analysis,2022,1,594,0.1684
+Administrative & Support,Creative Thinking,2022,69,594,11.6162
+Administrative & Support,Critical Thinking,2022,3,594,0.5051
+Administrative & Support,Cross-Functional Collaboration,2022,16,594,2.6936
+Administrative & Support,Curriculum Development,2022,2,594,0.3367
+Administrative & Support,Customer Service,2022,109,594,18.3502
+Administrative & Support,Cybersecurity,2022,10,594,1.6835
+Administrative & Support,Data Analysis,2022,26,594,4.3771
+Administrative & Support,Data Collection,2022,4,594,0.6734
+Administrative & Support,Data Engineering,2022,2,594,0.3367
+Administrative & Support,Data Entry,2022,21,594,3.5354
+Administrative & Support,Data Visualization,2022,2,594,0.3367
+Administrative & Support,Database Management,2022,15,594,2.5253
+Administrative & Support,Decision Making,2022,10,594,1.6835
+Administrative & Support,Digital Marketing,2022,5,594,0.8418
+Administrative & Support,Due Diligence,2022,11,594,1.8519
+Administrative & Support,ERP Systems,2022,4,594,0.6734
+Administrative & Support,Editing,2022,28,594,4.7138
+Administrative & Support,Electrical Engineering,2022,2,594,0.3367
+Administrative & Support,Email Marketing,2022,1,594,0.1684
+Administrative & Support,Emotional Intelligence,2022,10,594,1.6835
+Administrative & Support,Event Planning,2022,20,594,3.367
+Administrative & Support,Filing,2022,22,594,3.7037
+Administrative & Support,Financial Analysis,2022,16,594,2.6936
+Administrative & Support,Financial Planning,2022,7,594,1.1785
+Administrative & Support,Financial Statements,2022,2,594,0.3367
+Administrative & Support,Forecasting,2022,19,594,3.1987
+Administrative & Support,Fundraising,2022,30,594,5.0505
+Administrative & Support,GMP,2022,4,594,0.6734
+Administrative & Support,Google Analytics,2022,4,594,0.6734
+Administrative & Support,Google Workspace,2022,8,594,1.3468
+Administrative & Support,Grant Writing,2022,2,594,0.3367
+Administrative & Support,HIPAA,2022,3,594,0.5051
+Administrative & Support,HRIS,2022,1,594,0.1684
+Administrative & Support,HTML,2022,6,594,1.0101
+Administrative & Support,Illustrator,2022,3,594,0.5051
+Administrative & Support,InDesign,2022,4,594,0.6734
+Administrative & Support,Instructional Design,2022,1,594,0.1684
+Administrative & Support,Intellectual Property,2022,6,594,1.0101
+Administrative & Support,Interpersonal Skills,2022,67,594,11.2795
+Administrative & Support,Inventory Management,2022,14,594,2.3569
+Administrative & Support,Java,2022,1,594,0.1684
+Administrative & Support,JavaScript,2022,2,594,0.3367
+Administrative & Support,Jira,2022,1,594,0.1684
+Administrative & Support,Kanban,2022,2,594,0.3367
+Administrative & Support,LMS,2022,3,594,0.5051
+Administrative & Support,Laboratory Skills,2022,1,594,0.1684
+Administrative & Support,Leadership,2022,126,594,21.2121
+Administrative & Support,Lean,2022,4,594,0.6734
+Administrative & Support,LexisNexis,2022,2,594,0.3367
+Administrative & Support,Linux,2022,1,594,0.1684
+Administrative & Support,Litigation,2022,14,594,2.3569
+Administrative & Support,MATLAB,2022,2,594,0.3367
+Administrative & Support,Machine Learning,2022,1,594,0.1684
+Administrative & Support,Market Research,2022,9,594,1.5152
+Administrative & Support,Mechanical Engineering,2022,5,594,0.8418
+Administrative & Support,Medical Terminology,2022,1,594,0.1684
+Administrative & Support,Mental Health,2022,21,594,3.5354
+Administrative & Support,Mentoring,2022,40,594,6.734
+Administrative & Support,Mergers and Acquisitions,2022,7,594,1.1785
+Administrative & Support,Microsoft Excel,2022,134,594,22.5589
+Administrative & Support,Microsoft Office,2022,122,594,20.5387
+Administrative & Support,Microsoft PowerPoint,2022,64,594,10.7744
+Administrative & Support,Microsoft Teams,2022,4,594,0.6734
+Administrative & Support,Microsoft Word,2022,16,594,2.6936
+Administrative & Support,Mobile Development,2022,5,594,0.8418
+Administrative & Support,Multitasking,2022,38,594,6.3973
+Administrative & Support,Negotiation,2022,11,594,1.8519
+Administrative & Support,Networking,2022,4,594,0.6734
+Administrative & Support,Node.js,2022,1,594,0.1684
+Administrative & Support,Nursing,2022,5,594,0.8418
+Administrative & Support,OSHA,2022,1,594,0.1684
+Administrative & Support,Onboarding,2022,13,594,2.1886
+Administrative & Support,Operations Management,2022,10,594,1.6835
+Administrative & Support,Oracle,2022,10,594,1.6835
+Administrative & Support,Organizational Skills,2022,168,594,28.2828
+Administrative & Support,PHP,2022,1,594,0.1684
+Administrative & Support,PHR,2022,1,594,0.1684
+Administrative & Support,PLC Programming,2022,1,594,0.1684
+Administrative & Support,PMP,2022,2,594,0.3367
+Administrative & Support,Paralegal Skills,2022,1,594,0.1684
+Administrative & Support,Patient Care,2022,22,594,3.7037
+Administrative & Support,Payroll,2022,22,594,3.7037
+Administrative & Support,Perl,2022,2,594,0.3367
+Administrative & Support,Pharmacy,2022,11,594,1.8519
+Administrative & Support,Photoshop,2022,6,594,1.0101
+Administrative & Support,Physical Therapy,2022,8,594,1.3468
+Administrative & Support,Power BI,2022,1,594,0.1684
+Administrative & Support,Predictive Modeling,2022,1,594,0.1684
+Administrative & Support,Presentation Skills,2022,15,594,2.5253
+Administrative & Support,Preventive Maintenance,2022,2,594,0.3367
+Administrative & Support,Problem Solving,2022,67,594,11.2795
+Administrative & Support,Process Improvement,2022,4,594,0.6734
+Administrative & Support,Procurement,2022,18,594,3.0303
+Administrative & Support,Project Management,2022,42,594,7.0707
+Administrative & Support,Public Relations,2022,15,594,2.5253
+Administrative & Support,Python,2022,5,594,0.8418
+Administrative & Support,Quality Assurance,2022,20,594,3.367
+Administrative & Support,Quality Management Systems,2022,1,594,0.1684
+Administrative & Support,Quantitative Analysis,2022,6,594,1.0101
+Administrative & Support,QuickBooks,2022,1,594,0.1684
+Administrative & Support,Radiology,2022,38,594,6.3973
+Administrative & Support,Recruiting,2022,45,594,7.5758
+Administrative & Support,Relationship Management,2022,9,594,1.5152
+Administrative & Support,Remote Work,2022,10,594,1.6835
+Administrative & Support,Reporting,2022,105,594,17.6768
+Administrative & Support,Research,2022,15,594,2.5253
+Administrative & Support,Risk Management,2022,21,594,3.5354
+Administrative & Support,Robotics,2022,3,594,0.5051
+Administrative & Support,Root Cause Analysis,2022,3,594,0.5051
+Administrative & Support,SAP,2022,19,594,3.1987
+Administrative & Support,SDLC,2022,1,594,0.1684
+Administrative & Support,SEO,2022,3,594,0.5051
+Administrative & Support,SHRM,2022,1,594,0.1684
+Administrative & Support,SQL,2022,12,594,2.0202
+Administrative & Support,Sales,2022,14,594,2.3569
+Administrative & Support,Salesforce,2022,14,594,2.3569
+Administrative & Support,Scala,2022,1,594,0.1684
+Administrative & Support,Scheduling,2022,76,594,12.7946
+Administrative & Support,Scientific Writing,2022,7,594,1.1785
+Administrative & Support,Scrum,2022,1,594,0.1684
+Administrative & Support,Self-Motivated,2022,162,594,27.2727
+Administrative & Support,Series 63,2022,1,594,0.1684
+Administrative & Support,Series 7,2022,1,594,0.1684
+Administrative & Support,ServiceNow,2022,2,594,0.3367
+Administrative & Support,Six Sigma,2022,4,594,0.6734
+Administrative & Support,Sketch,2022,1,594,0.1684
+Administrative & Support,Slack,2022,1,594,0.1684
+Administrative & Support,Social Media,2022,32,594,5.3872
+Administrative & Support,Social Media Marketing,2022,2,594,0.3367
+Administrative & Support,Special Education,2022,19,594,3.1987
+Administrative & Support,Statistical Analysis,2022,9,594,1.5152
+Administrative & Support,Strategic Planning,2022,8,594,1.3468
+Administrative & Support,Supply Chain Management,2022,9,594,1.5152
+Administrative & Support,Survey Design,2022,5,594,0.8418
+Administrative & Support,Tableau,2022,2,594,0.3367
+Administrative & Support,Teamwork,2022,97,594,16.33
+Administrative & Support,Time Management,2022,64,594,10.7744
+Administrative & Support,Travel Coordination,2022,1,594,0.1684
+Administrative & Support,Tutoring,2022,1,594,0.1684
+Administrative & Support,UX Design,2022,3,594,0.5051
+Administrative & Support,Underwriting,2022,15,594,2.5253
+Administrative & Support,VBA,2022,7,594,1.1785
+Administrative & Support,Valuation,2022,7,594,1.1785
+Administrative & Support,Verbal Communication,2022,39,594,6.5657
+Administrative & Support,Web Development,2022,1,594,0.1684
+Administrative & Support,Workday,2022,5,594,0.8418
+Administrative & Support,Written Communication,2022,81,594,13.6364
+Compliance & Risk,Accounting,2022,10,128,7.8125
+Compliance & Risk,Accounts Payable,2022,1,128,0.7812
+Compliance & Risk,Accounts Receivable,2022,2,128,1.5625
+Compliance & Risk,Adaptability,2022,38,128,29.6875
+Compliance & Risk,Agile,2022,1,128,0.7812
+Compliance & Risk,Artificial Intelligence,2022,2,128,1.5625
+Compliance & Risk,Auditing,2022,19,128,14.8438
+Compliance & Risk,AutoCAD,2022,2,128,1.5625
+Compliance & Risk,Bookkeeping,2022,1,128,0.7812
+Compliance & Risk,Brand Management,2022,1,128,0.7812
+Compliance & Risk,Budgeting,2022,1,128,0.7812
+Compliance & Risk,CISSP,2022,3,128,2.3438
+Compliance & Risk,CPA,2022,2,128,1.5625
+Compliance & Risk,Clinical Research,2022,1,128,0.7812
+Compliance & Risk,Communication Skills,2022,51,128,39.8438
+Compliance & Risk,CompTIA,2022,1,128,0.7812
+Compliance & Risk,Compliance,2022,113,128,88.2812
+Compliance & Risk,Contract Review,2022,1,128,0.7812
+Compliance & Risk,Cost Analysis,2022,1,128,0.7812
+Compliance & Risk,Creative Thinking,2022,30,128,23.4375
+Compliance & Risk,Critical Thinking,2022,4,128,3.125
+Compliance & Risk,Cross-Functional Collaboration,2022,8,128,6.25
+Compliance & Risk,Customer Service,2022,18,128,14.0625
+Compliance & Risk,Cybersecurity,2022,6,128,4.6875
+Compliance & Risk,Data Analysis,2022,12,128,9.375
+Compliance & Risk,Data Collection,2022,3,128,2.3438
+Compliance & Risk,Data Engineering,2022,1,128,0.7812
+Compliance & Risk,Data Mining,2022,1,128,0.7812
+Compliance & Risk,Data Visualization,2022,8,128,6.25
+Compliance & Risk,Database Management,2022,2,128,1.5625
+Compliance & Risk,Decision Making,2022,15,128,11.7188
+Compliance & Risk,Due Diligence,2022,2,128,1.5625
+Compliance & Risk,Editing,2022,3,128,2.3438
+Compliance & Risk,Environmental Engineering,2022,1,128,0.7812
+Compliance & Risk,Filing,2022,12,128,9.375
+Compliance & Risk,Financial Analysis,2022,4,128,3.125
+Compliance & Risk,Financial Planning,2022,1,128,0.7812
+Compliance & Risk,Forecasting,2022,1,128,0.7812
+Compliance & Risk,Fundraising,2022,1,128,0.7812
+Compliance & Risk,GMP,2022,3,128,2.3438
+Compliance & Risk,ICD Coding,2022,1,128,0.7812
+Compliance & Risk,Intellectual Property,2022,1,128,0.7812
+Compliance & Risk,Interpersonal Skills,2022,6,128,4.6875
+Compliance & Risk,LMS,2022,1,128,0.7812
+Compliance & Risk,Leadership,2022,32,128,25.0
+Compliance & Risk,Litigation,2022,2,128,1.5625
+Compliance & Risk,MATLAB,2022,1,128,0.7812
+Compliance & Risk,Machine Learning,2022,2,128,1.5625
+Compliance & Risk,Market Research,2022,2,128,1.5625
+Compliance & Risk,Mental Health,2022,1,128,0.7812
+Compliance & Risk,Mentoring,2022,1,128,0.7812
+Compliance & Risk,Microsoft Excel,2022,39,128,30.4688
+Compliance & Risk,Microsoft Office,2022,23,128,17.9688
+Compliance & Risk,Microsoft PowerPoint,2022,13,128,10.1562
+Compliance & Risk,Microsoft Word,2022,7,128,5.4688
+Compliance & Risk,Multitasking,2022,11,128,8.5938
+Compliance & Risk,MySQL,2022,1,128,0.7812
+Compliance & Risk,Negotiation,2022,16,128,12.5
+Compliance & Risk,Networking,2022,4,128,3.125
+Compliance & Risk,OSHA,2022,2,128,1.5625
+Compliance & Risk,Onboarding,2022,2,128,1.5625
+Compliance & Risk,Oracle,2022,9,128,7.0312
+Compliance & Risk,Organizational Skills,2022,55,128,42.9688
+Compliance & Risk,Paralegal Skills,2022,3,128,2.3438
+Compliance & Risk,Pharmacy,2022,1,128,0.7812
+Compliance & Risk,Physical Therapy,2022,1,128,0.7812
+Compliance & Risk,Presentation Skills,2022,7,128,5.4688
+Compliance & Risk,Problem Solving,2022,58,128,45.3125
+Compliance & Risk,Process Improvement,2022,2,128,1.5625
+Compliance & Risk,Procurement,2022,1,128,0.7812
+Compliance & Risk,Project Management,2022,22,128,17.1875
+Compliance & Risk,Python,2022,9,128,7.0312
+Compliance & Risk,Quality Assurance,2022,10,128,7.8125
+Compliance & Risk,Quality Management Systems,2022,1,128,0.7812
+Compliance & Risk,Quantitative Analysis,2022,3,128,2.3438
+Compliance & Risk,Recruiting,2022,13,128,10.1562
+Compliance & Risk,Regression Analysis,2022,1,128,0.7812
+Compliance & Risk,Regulatory Affairs,2022,3,128,2.3438
+Compliance & Risk,Relationship Management,2022,3,128,2.3438
+Compliance & Risk,Reporting,2022,44,128,34.375
+Compliance & Risk,Research,2022,3,128,2.3438
+Compliance & Risk,Risk Management,2022,33,128,25.7812
+Compliance & Risk,Robotics,2022,1,128,0.7812
+Compliance & Risk,Root Cause Analysis,2022,1,128,0.7812
+Compliance & Risk,SAP,2022,5,128,3.9062
+Compliance & Risk,SAS,2022,23,128,17.9688
+Compliance & Risk,SDLC,2022,1,128,0.7812
+Compliance & Risk,SQL,2022,15,128,11.7188
+Compliance & Risk,SQL Server,2022,9,128,7.0312
+Compliance & Risk,Salesforce,2022,1,128,0.7812
+Compliance & Risk,Scheduling,2022,5,128,3.9062
+Compliance & Risk,Self-Motivated,2022,20,128,15.625
+Compliance & Risk,Slack,2022,1,128,0.7812
+Compliance & Risk,Social Media,2022,1,128,0.7812
+Compliance & Risk,Statistical Analysis,2022,8,128,6.25
+Compliance & Risk,Strategic Planning,2022,1,128,0.7812
+Compliance & Risk,Supply Chain Management,2022,5,128,3.9062
+Compliance & Risk,Tableau,2022,8,128,6.25
+Compliance & Risk,Teamwork,2022,27,128,21.0938
+Compliance & Risk,Technical Writing,2022,1,128,0.7812
+Compliance & Risk,Time Management,2022,17,128,13.2812
+Compliance & Risk,Underwriting,2022,1,128,0.7812
+Compliance & Risk,VBA,2022,1,128,0.7812
+Compliance & Risk,Valuation,2022,1,128,0.7812
+Compliance & Risk,Verbal Communication,2022,14,128,10.9375
+Compliance & Risk,Workday,2022,2,128,1.5625
+Compliance & Risk,Written Communication,2022,25,128,19.5312
+Data & Analytics,A/B Testing,2022,1,216,0.463
+Data & Analytics,APIs,2022,4,216,1.8519
+Data & Analytics,AWS,2022,4,216,1.8519
+Data & Analytics,Accounting,2022,29,216,13.4259
+Data & Analytics,Adaptability,2022,55,216,25.463
+Data & Analytics,Agile,2022,42,216,19.4444
+Data & Analytics,Artificial Intelligence,2022,5,216,2.3148
+Data & Analytics,Asana,2022,1,216,0.463
+Data & Analytics,Auditing,2022,6,216,2.7778
+Data & Analytics,Azure,2022,8,216,3.7037
+Data & Analytics,Big Data,2022,8,216,3.7037
+Data & Analytics,Bilingual,2022,1,216,0.463
+Data & Analytics,Bloomberg Terminal,2022,2,216,0.9259
+Data & Analytics,Brand Management,2022,1,216,0.463
+Data & Analytics,Budgeting,2022,3,216,1.3889
+Data & Analytics,Business Development,2022,4,216,1.8519
+Data & Analytics,Business Intelligence,2022,28,216,12.963
+Data & Analytics,CI/CD,2022,3,216,1.3889
+Data & Analytics,CPA,2022,2,216,0.9259
+Data & Analytics,CRM Software,2022,10,216,4.6296
+Data & Analytics,CSS,2022,6,216,2.7778
+Data & Analytics,Case Management,2022,5,216,2.3148
+Data & Analytics,Clinical Research,2022,1,216,0.463
+Data & Analytics,Cloud Computing,2022,5,216,2.3148
+Data & Analytics,Communication Skills,2022,95,216,43.9815
+Data & Analytics,Compliance,2022,40,216,18.5185
+Data & Analytics,Computer Vision,2022,1,216,0.463
+Data & Analytics,Confluence,2022,7,216,3.2407
+Data & Analytics,Contract Review,2022,3,216,1.3889
+Data & Analytics,Cost Analysis,2022,4,216,1.8519
+Data & Analytics,Creative Thinking,2022,22,216,10.1852
+Data & Analytics,Critical Thinking,2022,12,216,5.5556
+Data & Analytics,Cross-Functional Collaboration,2022,27,216,12.5
+Data & Analytics,Customer Service,2022,27,216,12.5
+Data & Analytics,Cybersecurity,2022,4,216,1.8519
+Data & Analytics,Data Analysis,2022,96,216,44.4444
+Data & Analytics,Data Collection,2022,9,216,4.1667
+Data & Analytics,Data Engineering,2022,19,216,8.7963
+Data & Analytics,Data Entry,2022,2,216,0.9259
+Data & Analytics,Data Mining,2022,7,216,3.2407
+Data & Analytics,Data Visualization,2022,22,216,10.1852
+Data & Analytics,Data Warehousing,2022,19,216,8.7963
+Data & Analytics,Database Management,2022,8,216,3.7037
+Data & Analytics,Decision Making,2022,18,216,8.3333
+Data & Analytics,Deep Learning,2022,5,216,2.3148
+Data & Analytics,DevOps,2022,7,216,3.2407
+Data & Analytics,Digital Marketing,2022,2,216,0.9259
+Data & Analytics,Django,2022,4,216,1.8519
+Data & Analytics,Docker,2022,4,216,1.8519
+Data & Analytics,ERP Systems,2022,6,216,2.7778
+Data & Analytics,Editing,2022,2,216,0.9259
+Data & Analytics,Educational Technology,2022,1,216,0.463
+Data & Analytics,Electrical Engineering,2022,5,216,2.3148
+Data & Analytics,Electronic Health Records,2022,2,216,0.9259
+Data & Analytics,Email Marketing,2022,1,216,0.463
+Data & Analytics,Emotional Intelligence,2022,1,216,0.463
+Data & Analytics,Filing,2022,6,216,2.7778
+Data & Analytics,Financial Analysis,2022,5,216,2.3148
+Data & Analytics,Financial Statements,2022,2,216,0.9259
+Data & Analytics,Forecasting,2022,9,216,4.1667
+Data & Analytics,Fundraising,2022,1,216,0.463
+Data & Analytics,Git,2022,13,216,6.0185
+Data & Analytics,Google Analytics,2022,8,216,3.7037
+Data & Analytics,Google Cloud Platform,2022,3,216,1.3889
+Data & Analytics,Google Workspace,2022,5,216,2.3148
+Data & Analytics,HIPAA,2022,4,216,1.8519
+Data & Analytics,HRIS,2022,1,216,0.463
+Data & Analytics,HTML,2022,1,216,0.463
+Data & Analytics,Instructional Design,2022,1,216,0.463
+Data & Analytics,Intellectual Property,2022,1,216,0.463
+Data & Analytics,Interpersonal Skills,2022,16,216,7.4074
+Data & Analytics,Inventory Management,2022,2,216,0.9259
+Data & Analytics,Java,2022,17,216,7.8704
+Data & Analytics,JavaScript,2022,7,216,3.2407
+Data & Analytics,Jira,2022,14,216,6.4815
+Data & Analytics,Kanban,2022,1,216,0.463
+Data & Analytics,Kubernetes,2022,2,216,0.9259
+Data & Analytics,LMS,2022,3,216,1.3889
+Data & Analytics,Leadership,2022,31,216,14.3519
+Data & Analytics,Lean,2022,1,216,0.463
+Data & Analytics,Linux,2022,5,216,2.3148
+Data & Analytics,Literature Review,2022,1,216,0.463
+Data & Analytics,Litigation,2022,1,216,0.463
+Data & Analytics,Machine Learning,2022,24,216,11.1111
+Data & Analytics,Market Research,2022,3,216,1.3889
+Data & Analytics,Marketing Analytics,2022,1,216,0.463
+Data & Analytics,Marketing Automation,2022,1,216,0.463
+Data & Analytics,Marketo,2022,1,216,0.463
+Data & Analytics,Medical Terminology,2022,2,216,0.9259
+Data & Analytics,Mental Health,2022,4,216,1.8519
+Data & Analytics,Mentoring,2022,3,216,1.3889
+Data & Analytics,Mergers and Acquisitions,2022,1,216,0.463
+Data & Analytics,Microsoft Excel,2022,86,216,39.8148
+Data & Analytics,Microsoft Office,2022,41,216,18.9815
+Data & Analytics,Microsoft PowerPoint,2022,21,216,9.7222
+Data & Analytics,Microsoft Word,2022,9,216,4.1667
+Data & Analytics,Multitasking,2022,9,216,4.1667
+Data & Analytics,MySQL,2022,1,216,0.463
+Data & Analytics,Natural Language Processing,2022,5,216,2.3148
+Data & Analytics,Negotiation,2022,2,216,0.9259
+Data & Analytics,Networking,2022,4,216,1.8519
+Data & Analytics,NoSQL,2022,3,216,1.3889
+Data & Analytics,OSHA,2022,2,216,0.9259
+Data & Analytics,Onboarding,2022,5,216,2.3148
+Data & Analytics,Oracle,2022,11,216,5.0926
+Data & Analytics,Organizational Skills,2022,68,216,31.4815
+Data & Analytics,PHP,2022,5,216,2.3148
+Data & Analytics,PLC Programming,2022,4,216,1.8519
+Data & Analytics,PMP,2022,4,216,1.8519
+Data & Analytics,Payroll,2022,3,216,1.3889
+Data & Analytics,Perl,2022,3,216,1.3889
+Data & Analytics,Pharmacy,2022,2,216,0.9259
+Data & Analytics,Physical Therapy,2022,5,216,2.3148
+Data & Analytics,PostgreSQL,2022,3,216,1.3889
+Data & Analytics,Power BI,2022,30,216,13.8889
+Data & Analytics,Predictive Modeling,2022,3,216,1.3889
+Data & Analytics,Presentation Skills,2022,14,216,6.4815
+Data & Analytics,Preventive Maintenance,2022,1,216,0.463
+Data & Analytics,Problem Solving,2022,57,216,26.3889
+Data & Analytics,Process Improvement,2022,15,216,6.9444
+Data & Analytics,Procurement,2022,4,216,1.8519
+Data & Analytics,Project Management,2022,44,216,20.3704
+Data & Analytics,Python,2022,51,216,23.6111
+Data & Analytics,Quality Assurance,2022,15,216,6.9444
+Data & Analytics,Quantitative Analysis,2022,3,216,1.3889
+Data & Analytics,R Programming,2022,1,216,0.463
+Data & Analytics,Radiology,2022,1,216,0.463
+Data & Analytics,React,2022,1,216,0.463
+Data & Analytics,Recruiting,2022,16,216,7.4074
+Data & Analytics,Redis,2022,1,216,0.463
+Data & Analytics,Relationship Management,2022,8,216,3.7037
+Data & Analytics,Remote Work,2022,7,216,3.2407
+Data & Analytics,Reporting,2022,67,216,31.0185
+Data & Analytics,Research,2022,5,216,2.3148
+Data & Analytics,Risk Management,2022,4,216,1.8519
+Data & Analytics,Root Cause Analysis,2022,5,216,2.3148
+Data & Analytics,SAP,2022,3,216,1.3889
+Data & Analytics,SAS,2022,18,216,8.3333
+Data & Analytics,SDLC,2022,11,216,5.0926
+Data & Analytics,SQL,2022,90,216,41.6667
+Data & Analytics,SQL Server,2022,10,216,4.6296
+Data & Analytics,Sales,2022,5,216,2.3148
+Data & Analytics,Salesforce,2022,13,216,6.0185
+Data & Analytics,Scala,2022,5,216,2.3148
+Data & Analytics,Scheduling,2022,3,216,1.3889
+Data & Analytics,Scientific Writing,2022,2,216,0.9259
+Data & Analytics,Scrum,2022,15,216,6.9444
+Data & Analytics,Self-Motivated,2022,49,216,22.6852
+Data & Analytics,ServiceNow,2022,2,216,0.9259
+Data & Analytics,Shell Scripting,2022,4,216,1.8519
+Data & Analytics,Six Sigma,2022,2,216,0.9259
+Data & Analytics,Social Media,2022,3,216,1.3889
+Data & Analytics,Stakeholder Management,2022,1,216,0.463
+Data & Analytics,Statistical Analysis,2022,38,216,17.5926
+Data & Analytics,Strategic Planning,2022,7,216,3.2407
+Data & Analytics,Supply Chain Management,2022,4,216,1.8519
+Data & Analytics,Tableau,2022,40,216,18.5185
+Data & Analytics,Teamwork,2022,29,216,13.4259
+Data & Analytics,Technical Writing,2022,4,216,1.8519
+Data & Analytics,Time Management,2022,24,216,11.1111
+Data & Analytics,UI Design,2022,1,216,0.463
+Data & Analytics,UX Design,2022,4,216,1.8519
+Data & Analytics,VBA,2022,17,216,7.8704
+Data & Analytics,Vendor Management,2022,1,216,0.463
+Data & Analytics,Verbal Communication,2022,29,216,13.4259
+Data & Analytics,Web Development,2022,3,216,1.3889
+Data & Analytics,Workday,2022,2,216,0.9259
+Data & Analytics,Written Communication,2022,32,216,14.8148
+Education & Training,3D Printing,2022,2,430,0.4651
+Education & Training,AWS,2022,11,430,2.5581
+Education & Training,Academic Advising,2022,8,430,1.8605
+Education & Training,Accounting,2022,14,430,3.2558
+Education & Training,Active Listening,2022,1,430,0.2326
+Education & Training,Adaptability,2022,127,430,29.5349
+Education & Training,Adobe Creative Suite,2022,2,430,0.4651
+Education & Training,Agile,2022,1,430,0.2326
+Education & Training,Artificial Intelligence,2022,3,430,0.6977
+Education & Training,Auditing,2022,1,430,0.2326
+Education & Training,Azure,2022,11,430,2.5581
+Education & Training,Big Data,2022,1,430,0.2326
+Education & Training,Bilingual,2022,5,430,1.1628
+Education & Training,Bloomberg Terminal,2022,14,430,3.2558
+Education & Training,Business Development,2022,1,430,0.2326
+Education & Training,CAD,2022,1,430,0.2326
+Education & Training,CISSP,2022,1,430,0.2326
+Education & Training,CPA,2022,6,430,1.3953
+Education & Training,CPR,2022,3,430,0.6977
+Education & Training,CSS,2022,1,430,0.2326
+Education & Training,Case Management,2022,1,430,0.2326
+Education & Training,Classroom Management,2022,36,430,8.3721
+Education & Training,Clinical Research,2022,2,430,0.4651
+Education & Training,Cloud Computing,2022,1,430,0.2326
+Education & Training,Communication Skills,2022,71,430,16.5116
+Education & Training,Compliance,2022,117,430,27.2093
+Education & Training,Computer Vision,2022,1,430,0.2326
+Education & Training,Conflict Resolution,2022,8,430,1.8605
+Education & Training,Corporate Law,2022,1,430,0.2326
+Education & Training,Creative Thinking,2022,55,430,12.7907
+Education & Training,Critical Thinking,2022,28,430,6.5116
+Education & Training,Cross-Functional Collaboration,2022,1,430,0.2326
+Education & Training,Curriculum Development,2022,35,430,8.1395
+Education & Training,Customer Service,2022,5,430,1.1628
+Education & Training,Cybersecurity,2022,6,430,1.3953
+Education & Training,Data Analysis,2022,45,430,10.4651
+Education & Training,Data Collection,2022,1,430,0.2326
+Education & Training,Data Entry,2022,4,430,0.9302
+Education & Training,Data Mining,2022,12,430,2.7907
+Education & Training,Database Management,2022,1,430,0.2326
+Education & Training,Decision Making,2022,13,430,3.0233
+Education & Training,Deep Learning,2022,1,430,0.2326
+Education & Training,Editing,2022,1,430,0.2326
+Education & Training,Educational Technology,2022,1,430,0.2326
+Education & Training,Electrical Engineering,2022,3,430,0.6977
+Education & Training,Emotional Intelligence,2022,1,430,0.2326
+Education & Training,Event Planning,2022,2,430,0.4651
+Education & Training,Filing,2022,8,430,1.8605
+Education & Training,Financial Analysis,2022,2,430,0.4651
+Education & Training,Forecasting,2022,1,430,0.2326
+Education & Training,Fundraising,2022,1,430,0.2326
+Education & Training,Google Workspace,2022,1,430,0.2326
+Education & Training,HTML,2022,8,430,1.8605
+Education & Training,Interpersonal Skills,2022,12,430,2.7907
+Education & Training,LMS,2022,3,430,0.6977
+Education & Training,Leadership,2022,64,430,14.8837
+Education & Training,Machine Learning,2022,3,430,0.6977
+Education & Training,Materials Science,2022,2,430,0.4651
+Education & Training,Mechanical Engineering,2022,12,430,2.7907
+Education & Training,Mental Health,2022,3,430,0.6977
+Education & Training,Mentoring,2022,99,430,23.0233
+Education & Training,Microsoft Excel,2022,37,430,8.6047
+Education & Training,Microsoft Office,2022,11,430,2.5581
+Education & Training,Microsoft PowerPoint,2022,6,430,1.3953
+Education & Training,Microsoft Teams,2022,1,430,0.2326
+Education & Training,Microsoft Word,2022,4,430,0.9302
+Education & Training,Multitasking,2022,2,430,0.4651
+Education & Training,MySQL,2022,3,430,0.6977
+Education & Training,Natural Language Processing,2022,1,430,0.2326
+Education & Training,Networking,2022,2,430,0.4651
+Education & Training,Operations Management,2022,10,430,2.3256
+Education & Training,Organizational Skills,2022,69,430,16.0465
+Education & Training,PHP,2022,5,430,1.1628
+Education & Training,Patient Care,2022,3,430,0.6977
+Education & Training,Payroll,2022,1,430,0.2326
+Education & Training,Pharmacy,2022,6,430,1.3953
+Education & Training,Physical Therapy,2022,14,430,3.2558
+Education & Training,Predictive Modeling,2022,11,430,2.5581
+Education & Training,Presentation Skills,2022,10,430,2.3256
+Education & Training,Problem Solving,2022,39,430,9.0698
+Education & Training,Process Improvement,2022,2,430,0.4651
+Education & Training,Procurement,2022,1,430,0.2326
+Education & Training,Project Management,2022,16,430,3.7209
+Education & Training,Public Relations,2022,3,430,0.6977
+Education & Training,Python,2022,12,430,2.7907
+Education & Training,Quantitative Analysis,2022,15,430,3.4884
+Education & Training,Radiology,2022,4,430,0.9302
+Education & Training,React,2022,1,430,0.2326
+Education & Training,Recruiting,2022,47,430,10.9302
+Education & Training,Remote Work,2022,2,430,0.4651
+Education & Training,Reporting,2022,19,430,4.4186
+Education & Training,Research,2022,7,430,1.6279
+Education & Training,Risk Management,2022,1,430,0.2326
+Education & Training,Robotics,2022,2,430,0.4651
+Education & Training,SAP,2022,1,430,0.2326
+Education & Training,SQL,2022,1,430,0.2326
+Education & Training,Sales,2022,1,430,0.2326
+Education & Training,Scheduling,2022,111,430,25.814
+Education & Training,Scientific Writing,2022,2,430,0.4651
+Education & Training,Self-Motivated,2022,42,430,9.7674
+Education & Training,Social Media,2022,8,430,1.8605
+Education & Training,Social Media Marketing,2022,1,430,0.2326
+Education & Training,Special Education,2022,19,430,4.4186
+Education & Training,Statistical Analysis,2022,49,430,11.3953
+Education & Training,Strategic Planning,2022,1,430,0.2326
+Education & Training,Student Assessment,2022,1,430,0.2326
+Education & Training,Supply Chain Management,2022,9,430,2.093
+Education & Training,Survey Design,2022,1,430,0.2326
+Education & Training,Teamwork,2022,16,430,3.7209
+Education & Training,Time Management,2022,9,430,2.093
+Education & Training,Tutoring,2022,10,430,2.3256
+Education & Training,Verbal Communication,2022,28,430,6.5116
+Education & Training,Web Development,2022,2,430,0.4651
+Education & Training,Welding,2022,1,430,0.2326
+Education & Training,Written Communication,2022,15,430,3.4884
+Engineering (Non-Software),3D Printing,2022,3,151,1.9868
+Engineering (Non-Software),APIs,2022,5,151,3.3113
+Engineering (Non-Software),AWS,2022,3,151,1.9868
+Engineering (Non-Software),Accounting,2022,1,151,0.6623
+Engineering (Non-Software),Adaptability,2022,26,151,17.2185
+Engineering (Non-Software),Agile,2022,5,151,3.3113
+Engineering (Non-Software),Auditing,2022,1,151,0.6623
+Engineering (Non-Software),AutoCAD,2022,32,151,21.1921
+Engineering (Non-Software),Azure,2022,2,151,1.3245
+Engineering (Non-Software),Budgeting,2022,1,151,0.6623
+Engineering (Non-Software),Business Development,2022,2,151,1.3245
+Engineering (Non-Software),Business Intelligence,2022,1,151,0.6623
+Engineering (Non-Software),CAD,2022,37,151,24.5033
+Engineering (Non-Software),CI/CD,2022,2,151,1.3245
+Engineering (Non-Software),CNC,2022,3,151,1.9868
+Engineering (Non-Software),Chemical Engineering,2022,8,151,5.298
+Engineering (Non-Software),Civil Engineering,2022,7,151,4.6358
+Engineering (Non-Software),Clinical Research,2022,1,151,0.6623
+Engineering (Non-Software),Cloud Computing,2022,1,151,0.6623
+Engineering (Non-Software),Communication Skills,2022,57,151,37.7483
+Engineering (Non-Software),Compliance,2022,31,151,20.5298
+Engineering (Non-Software),Cost Analysis,2022,3,151,1.9868
+Engineering (Non-Software),Creative Thinking,2022,39,151,25.8278
+Engineering (Non-Software),Critical Thinking,2022,6,151,3.9735
+Engineering (Non-Software),Cross-Functional Collaboration,2022,12,151,7.947
+Engineering (Non-Software),Customer Service,2022,16,151,10.596
+Engineering (Non-Software),Cybersecurity,2022,3,151,1.9868
+Engineering (Non-Software),Data Analysis,2022,11,151,7.2848
+Engineering (Non-Software),Data Collection,2022,3,151,1.9868
+Engineering (Non-Software),Data Entry,2022,1,151,0.6623
+Engineering (Non-Software),Data Mining,2022,1,151,0.6623
+Engineering (Non-Software),Database Management,2022,1,151,0.6623
+Engineering (Non-Software),Decision Making,2022,2,151,1.3245
+Engineering (Non-Software),DevOps,2022,2,151,1.3245
+Engineering (Non-Software),Docker,2022,1,151,0.6623
+Engineering (Non-Software),ERP Systems,2022,5,151,3.3113
+Engineering (Non-Software),Electrical Engineering,2022,31,151,20.5298
+Engineering (Non-Software),Environmental Engineering,2022,7,151,4.6358
+Engineering (Non-Software),Event Planning,2022,3,151,1.9868
+Engineering (Non-Software),Failure Analysis,2022,3,151,1.9868
+Engineering (Non-Software),Filing,2022,3,151,1.9868
+Engineering (Non-Software),Financial Planning,2022,1,151,0.6623
+Engineering (Non-Software),Git,2022,3,151,1.9868
+Engineering (Non-Software),Go,2022,1,151,0.6623
+Engineering (Non-Software),Google Workspace,2022,5,151,3.3113
+Engineering (Non-Software),HRIS,2022,1,151,0.6623
+Engineering (Non-Software),Intellectual Property,2022,1,151,0.6623
+Engineering (Non-Software),Interpersonal Skills,2022,15,151,9.9338
+Engineering (Non-Software),Inventory Management,2022,2,151,1.3245
+Engineering (Non-Software),Java,2022,2,151,1.3245
+Engineering (Non-Software),Kanban,2022,1,151,0.6623
+Engineering (Non-Software),Kubernetes,2022,1,151,0.6623
+Engineering (Non-Software),Leadership,2022,30,151,19.8675
+Engineering (Non-Software),Lean,2022,6,151,3.9735
+Engineering (Non-Software),Linux,2022,2,151,1.3245
+Engineering (Non-Software),MATLAB,2022,9,151,5.9603
+Engineering (Non-Software),Machine Learning,2022,1,151,0.6623
+Engineering (Non-Software),Materials Science,2022,5,151,3.3113
+Engineering (Non-Software),Mechanical Engineering,2022,32,151,21.1921
+Engineering (Non-Software),Mentoring,2022,11,151,7.2848
+Engineering (Non-Software),Microsoft Excel,2022,42,151,27.8146
+Engineering (Non-Software),Microsoft Office,2022,23,151,15.2318
+Engineering (Non-Software),Microsoft PowerPoint,2022,19,151,12.5828
+Engineering (Non-Software),Microsoft Word,2022,6,151,3.9735
+Engineering (Non-Software),Multitasking,2022,5,151,3.3113
+Engineering (Non-Software),Networking,2022,14,151,9.2715
+Engineering (Non-Software),Onboarding,2022,1,151,0.6623
+Engineering (Non-Software),Organizational Skills,2022,31,151,20.5298
+Engineering (Non-Software),PHP,2022,1,151,0.6623
+Engineering (Non-Software),PLC Programming,2022,22,151,14.5695
+Engineering (Non-Software),Perl,2022,2,151,1.3245
+Engineering (Non-Software),Presentation Skills,2022,13,151,8.6093
+Engineering (Non-Software),Preventive Maintenance,2022,3,151,1.9868
+Engineering (Non-Software),Problem Solving,2022,48,151,31.7881
+Engineering (Non-Software),Process Improvement,2022,8,151,5.298
+Engineering (Non-Software),Procurement,2022,9,151,5.9603
+Engineering (Non-Software),Project Management,2022,23,151,15.2318
+Engineering (Non-Software),Python,2022,12,151,7.947
+Engineering (Non-Software),Quality Assurance,2022,16,151,10.596
+Engineering (Non-Software),React,2022,1,151,0.6623
+Engineering (Non-Software),Recruiting,2022,24,151,15.894
+Engineering (Non-Software),Regulatory Affairs,2022,1,151,0.6623
+Engineering (Non-Software),Relationship Management,2022,1,151,0.6623
+Engineering (Non-Software),Remote Work,2022,5,151,3.3113
+Engineering (Non-Software),Reporting,2022,11,151,7.2848
+Engineering (Non-Software),Revenue Analysis,2022,1,151,0.6623
+Engineering (Non-Software),Risk Management,2022,7,151,4.6358
+Engineering (Non-Software),Robotics,2022,6,151,3.9735
+Engineering (Non-Software),Root Cause Analysis,2022,3,151,1.9868
+Engineering (Non-Software),SAP,2022,14,151,9.2715
+Engineering (Non-Software),SHRM,2022,2,151,1.3245
+Engineering (Non-Software),SQL,2022,1,151,0.6623
+Engineering (Non-Software),Scheduling,2022,6,151,3.9735
+Engineering (Non-Software),Scrum,2022,1,151,0.6623
+Engineering (Non-Software),Self-Motivated,2022,35,151,23.1788
+Engineering (Non-Software),Shell Scripting,2022,1,151,0.6623
+Engineering (Non-Software),Six Sigma,2022,3,151,1.9868
+Engineering (Non-Software),Social Media,2022,1,151,0.6623
+Engineering (Non-Software),SolidWorks,2022,9,151,5.9603
+Engineering (Non-Software),Statistical Analysis,2022,4,151,2.649
+Engineering (Non-Software),Strategic Planning,2022,1,151,0.6623
+Engineering (Non-Software),Supply Chain Management,2022,2,151,1.3245
+Engineering (Non-Software),Survey Design,2022,2,151,1.3245
+Engineering (Non-Software),Teamwork,2022,13,151,8.6093
+Engineering (Non-Software),Technical Writing,2022,10,151,6.6225
+Engineering (Non-Software),Time Management,2022,23,151,15.2318
+Engineering (Non-Software),TypeScript,2022,1,151,0.6623
+Engineering (Non-Software),UX Design,2022,1,151,0.6623
+Engineering (Non-Software),VBA,2022,2,151,1.3245
+Engineering (Non-Software),Verbal Communication,2022,20,151,13.245
+Engineering (Non-Software),Welding,2022,2,151,1.3245
+Engineering (Non-Software),Written Communication,2022,20,151,13.245
+Engineering (Non-Software),Zoom,2022,5,151,3.3113
+Finance & Accounting,Accounting,2022,355,493,72.0081
+Finance & Accounting,Accounts Payable,2022,28,493,5.6795
+Finance & Accounting,Accounts Receivable,2022,29,493,5.8824
+Finance & Accounting,Active Listening,2022,1,493,0.2028
+Finance & Accounting,Adaptability,2022,113,493,22.9209
+Finance & Accounting,Agile,2022,7,493,1.4199
+Finance & Accounting,Auditing,2022,47,493,9.5335
+Finance & Accounting,Big Data,2022,1,493,0.2028
+Finance & Accounting,Bilingual,2022,10,493,2.0284
+Finance & Accounting,Bloomberg Terminal,2022,3,493,0.6085
+Finance & Accounting,Bookkeeping,2022,5,493,1.0142
+Finance & Accounting,Budgeting,2022,53,493,10.7505
+Finance & Accounting,Business Development,2022,13,493,2.6369
+Finance & Accounting,Business Intelligence,2022,6,493,1.217
+Finance & Accounting,CFA,2022,12,493,2.4341
+Finance & Accounting,CISSP,2022,1,493,0.2028
+Finance & Accounting,CPA,2022,89,493,18.0527
+Finance & Accounting,CRM Software,2022,2,493,0.4057
+Finance & Accounting,Clinical Research,2022,3,493,0.6085
+Finance & Accounting,Communication Skills,2022,197,493,39.9594
+Finance & Accounting,Compliance,2022,155,493,31.4402
+Finance & Accounting,Conflict Resolution,2022,3,493,0.6085
+Finance & Accounting,Contract Review,2022,2,493,0.4057
+Finance & Accounting,Cost Analysis,2022,4,493,0.8114
+Finance & Accounting,Creative Thinking,2022,55,493,11.1562
+Finance & Accounting,Critical Thinking,2022,20,493,4.0568
+Finance & Accounting,Cross-Functional Collaboration,2022,26,493,5.2738
+Finance & Accounting,Customer Service,2022,101,493,20.4868
+Finance & Accounting,Cybersecurity,2022,4,493,0.8114
+Finance & Accounting,Data Analysis,2022,137,493,27.789
+Finance & Accounting,Data Collection,2022,5,493,1.0142
+Finance & Accounting,Data Engineering,2022,1,493,0.2028
+Finance & Accounting,Data Entry,2022,18,493,3.6511
+Finance & Accounting,Data Mining,2022,3,493,0.6085
+Finance & Accounting,Data Visualization,2022,9,493,1.8256
+Finance & Accounting,Data Warehousing,2022,3,493,0.6085
+Finance & Accounting,Database Management,2022,2,493,0.4057
+Finance & Accounting,Decision Making,2022,32,493,6.4909
+Finance & Accounting,Due Diligence,2022,20,493,4.0568
+Finance & Accounting,ERP Systems,2022,22,493,4.4625
+Finance & Accounting,Editing,2022,2,493,0.4057
+Finance & Accounting,Electronic Health Records,2022,1,493,0.2028
+Finance & Accounting,Emotional Intelligence,2022,2,493,0.4057
+Finance & Accounting,Filing,2022,19,493,3.854
+Finance & Accounting,Financial Analysis,2022,151,493,30.6288
+Finance & Accounting,Financial Planning,2022,59,493,11.9675
+Finance & Accounting,Financial Statements,2022,43,493,8.7221
+Finance & Accounting,Forecasting,2022,74,493,15.0101
+Finance & Accounting,HTML,2022,6,493,1.217
+Finance & Accounting,ICD Coding,2022,1,493,0.2028
+Finance & Accounting,Intellectual Property,2022,3,493,0.6085
+Finance & Accounting,Interpersonal Skills,2022,72,493,14.6045
+Finance & Accounting,Inventory Management,2022,2,493,0.4057
+Finance & Accounting,Investment Analysis,2022,2,493,0.4057
+Finance & Accounting,Java,2022,2,493,0.4057
+Finance & Accounting,JavaScript,2022,1,493,0.2028
+Finance & Accounting,Leadership,2022,135,493,27.3834
+Finance & Accounting,LexisNexis,2022,2,493,0.4057
+Finance & Accounting,Machine Learning,2022,1,493,0.2028
+Finance & Accounting,Market Research,2022,6,493,1.217
+Finance & Accounting,Medical Terminology,2022,1,493,0.2028
+Finance & Accounting,Mental Health,2022,1,493,0.2028
+Finance & Accounting,Mentoring,2022,53,493,10.7505
+Finance & Accounting,Mergers and Acquisitions,2022,18,493,3.6511
+Finance & Accounting,Microsoft Excel,2022,263,493,53.3469
+Finance & Accounting,Microsoft Office,2022,111,493,22.5152
+Finance & Accounting,Microsoft PowerPoint,2022,63,493,12.7789
+Finance & Accounting,Microsoft Word,2022,15,493,3.0426
+Finance & Accounting,Mobile Development,2022,1,493,0.2028
+Finance & Accounting,Multitasking,2022,61,493,12.3732
+Finance & Accounting,Negotiation,2022,15,493,3.0426
+Finance & Accounting,Networking,2022,12,493,2.4341
+Finance & Accounting,OSHA,2022,1,493,0.2028
+Finance & Accounting,Onboarding,2022,10,493,2.0284
+Finance & Accounting,Operations Management,2022,3,493,0.6085
+Finance & Accounting,Oracle,2022,18,493,3.6511
+Finance & Accounting,Organizational Skills,2022,154,493,31.2373
+Finance & Accounting,PLC Programming,2022,1,493,0.2028
+Finance & Accounting,Paralegal Skills,2022,2,493,0.4057
+Finance & Accounting,Payroll,2022,32,493,6.4909
+Finance & Accounting,Physical Therapy,2022,2,493,0.4057
+Finance & Accounting,Power BI,2022,11,493,2.2312
+Finance & Accounting,Predictive Modeling,2022,1,493,0.2028
+Finance & Accounting,Presentation Skills,2022,11,493,2.2312
+Finance & Accounting,Problem Solving,2022,111,493,22.5152
+Finance & Accounting,Process Improvement,2022,20,493,4.0568
+Finance & Accounting,Procurement,2022,13,493,2.6369
+Finance & Accounting,Project Management,2022,35,493,7.0994
+Finance & Accounting,Python,2022,4,493,0.8114
+Finance & Accounting,Quality Assurance,2022,7,493,1.4199
+Finance & Accounting,Quantitative Analysis,2022,7,493,1.4199
+Finance & Accounting,QuickBooks,2022,6,493,1.217
+Finance & Accounting,Radiology,2022,1,493,0.2028
+Finance & Accounting,React,2022,1,493,0.2028
+Finance & Accounting,Recruiting,2022,49,493,9.9391
+Finance & Accounting,Relationship Management,2022,5,493,1.0142
+Finance & Accounting,Remote Work,2022,17,493,3.4483
+Finance & Accounting,Reporting,2022,221,493,44.8276
+Finance & Accounting,Research,2022,9,493,1.8256
+Finance & Accounting,Revenue Analysis,2022,1,493,0.2028
+Finance & Accounting,Risk Management,2022,19,493,3.854
+Finance & Accounting,Robotics,2022,1,493,0.2028
+Finance & Accounting,Root Cause Analysis,2022,1,493,0.2028
+Finance & Accounting,SAP,2022,38,493,7.7079
+Finance & Accounting,SAS,2022,8,493,1.6227
+Finance & Accounting,SQL,2022,40,493,8.1136
+Finance & Accounting,SQL Server,2022,1,493,0.2028
+Finance & Accounting,Sales,2022,8,493,1.6227
+Finance & Accounting,Salesforce,2022,2,493,0.4057
+Finance & Accounting,Scheduling,2022,6,493,1.217
+Finance & Accounting,Scientific Writing,2022,1,493,0.2028
+Finance & Accounting,Self-Motivated,2022,144,493,29.2089
+Finance & Accounting,Six Sigma,2022,9,493,1.8256
+Finance & Accounting,Stakeholder Management,2022,1,493,0.2028
+Finance & Accounting,Statistical Analysis,2022,27,493,5.4767
+Finance & Accounting,Strategic Planning,2022,10,493,2.0284
+Finance & Accounting,Supply Chain Management,2022,7,493,1.4199
+Finance & Accounting,Survey Design,2022,10,493,2.0284
+Finance & Accounting,Tableau,2022,13,493,2.6369
+Finance & Accounting,Tax Preparation,2022,59,493,11.9675
+Finance & Accounting,Teamwork,2022,62,493,12.5761
+Finance & Accounting,Time Management,2022,91,493,18.4584
+Finance & Accounting,Underwriting,2022,35,493,7.0994
+Finance & Accounting,VBA,2022,10,493,2.0284
+Finance & Accounting,Valuation,2022,22,493,4.4625
+Finance & Accounting,Verbal Communication,2022,55,493,11.1562
+Finance & Accounting,Web Development,2022,1,493,0.2028
+Finance & Accounting,Workday,2022,5,493,1.0142
+Finance & Accounting,Written Communication,2022,68,493,13.7931
+Healthcare (Non-Nursing),Adaptability,2022,24,125,19.2
+Healthcare (Non-Nursing),Adobe Creative Suite,2022,2,125,1.6
+Healthcare (Non-Nursing),Auditing,2022,1,125,0.8
+Healthcare (Non-Nursing),Bilingual,2022,8,125,6.4
+Healthcare (Non-Nursing),Budgeting,2022,1,125,0.8
+Healthcare (Non-Nursing),Business Development,2022,1,125,0.8
+Healthcare (Non-Nursing),CAD,2022,1,125,0.8
+Healthcare (Non-Nursing),CPR,2022,45,125,36.0
+Healthcare (Non-Nursing),Case Management,2022,5,125,4.0
+Healthcare (Non-Nursing),Clinical Research,2022,12,125,9.6
+Healthcare (Non-Nursing),Communication Skills,2022,24,125,19.2
+Healthcare (Non-Nursing),Compliance,2022,34,125,27.2
+Healthcare (Non-Nursing),Conflict Resolution,2022,3,125,2.4
+Healthcare (Non-Nursing),Contract Review,2022,1,125,0.8
+Healthcare (Non-Nursing),Cost Analysis,2022,1,125,0.8
+Healthcare (Non-Nursing),Creative Thinking,2022,6,125,4.8
+Healthcare (Non-Nursing),Critical Thinking,2022,1,125,0.8
+Healthcare (Non-Nursing),Customer Service,2022,16,125,12.8
+Healthcare (Non-Nursing),Data Analysis,2022,3,125,2.4
+Healthcare (Non-Nursing),Data Collection,2022,4,125,3.2
+Healthcare (Non-Nursing),Data Entry,2022,2,125,1.6
+Healthcare (Non-Nursing),Database Management,2022,1,125,0.8
+Healthcare (Non-Nursing),Decision Making,2022,1,125,0.8
+Healthcare (Non-Nursing),Editing,2022,3,125,2.4
+Healthcare (Non-Nursing),Electronic Health Records,2022,4,125,3.2
+Healthcare (Non-Nursing),Emotional Intelligence,2022,1,125,0.8
+Healthcare (Non-Nursing),FDA Regulations,2022,1,125,0.8
+Healthcare (Non-Nursing),Grant Writing,2022,1,125,0.8
+Healthcare (Non-Nursing),HIPAA,2022,4,125,3.2
+Healthcare (Non-Nursing),HTML,2022,1,125,0.8
+Healthcare (Non-Nursing),Interpersonal Skills,2022,11,125,8.8
+Healthcare (Non-Nursing),Inventory Management,2022,1,125,0.8
+Healthcare (Non-Nursing),Leadership,2022,16,125,12.8
+Healthcare (Non-Nursing),Legal Compliance,2022,2,125,1.6
+Healthcare (Non-Nursing),Literature Review,2022,1,125,0.8
+Healthcare (Non-Nursing),Medical Terminology,2022,8,125,6.4
+Healthcare (Non-Nursing),Mental Health,2022,13,125,10.4
+Healthcare (Non-Nursing),Mentoring,2022,6,125,4.8
+Healthcare (Non-Nursing),Microsoft Excel,2022,13,125,10.4
+Healthcare (Non-Nursing),Microsoft Office,2022,7,125,5.6
+Healthcare (Non-Nursing),Microsoft PowerPoint,2022,2,125,1.6
+Healthcare (Non-Nursing),Microsoft Word,2022,1,125,0.8
+Healthcare (Non-Nursing),Multitasking,2022,3,125,2.4
+Healthcare (Non-Nursing),Natural Language Processing,2022,1,125,0.8
+Healthcare (Non-Nursing),Negotiation,2022,1,125,0.8
+Healthcare (Non-Nursing),Networking,2022,6,125,4.8
+Healthcare (Non-Nursing),Nursing,2022,3,125,2.4
+Healthcare (Non-Nursing),OSHA,2022,3,125,2.4
+Healthcare (Non-Nursing),Organizational Skills,2022,19,125,15.2
+Healthcare (Non-Nursing),Patient Care,2022,35,125,28.0
+Healthcare (Non-Nursing),Payroll,2022,4,125,3.2
+Healthcare (Non-Nursing),Pharmacy,2022,11,125,8.8
+Healthcare (Non-Nursing),Phlebotomy,2022,2,125,1.6
+Healthcare (Non-Nursing),Photoshop,2022,2,125,1.6
+Healthcare (Non-Nursing),Physical Therapy,2022,9,125,7.2
+Healthcare (Non-Nursing),Power BI,2022,1,125,0.8
+Healthcare (Non-Nursing),Presentation Skills,2022,6,125,4.8
+Healthcare (Non-Nursing),Preventive Maintenance,2022,3,125,2.4
+Healthcare (Non-Nursing),Problem Solving,2022,10,125,8.0
+Healthcare (Non-Nursing),Process Improvement,2022,1,125,0.8
+Healthcare (Non-Nursing),Procurement,2022,3,125,2.4
+Healthcare (Non-Nursing),Project Management,2022,4,125,3.2
+Healthcare (Non-Nursing),Python,2022,2,125,1.6
+Healthcare (Non-Nursing),Quality Assurance,2022,14,125,11.2
+Healthcare (Non-Nursing),Quality Management Systems,2022,2,125,1.6
+Healthcare (Non-Nursing),Radiology,2022,12,125,9.6
+Healthcare (Non-Nursing),Recruiting,2022,5,125,4.0
+Healthcare (Non-Nursing),Remote Work,2022,1,125,0.8
+Healthcare (Non-Nursing),Reporting,2022,12,125,9.6
+Healthcare (Non-Nursing),Research,2022,1,125,0.8
+Healthcare (Non-Nursing),SAS,2022,1,125,0.8
+Healthcare (Non-Nursing),Sales,2022,2,125,1.6
+Healthcare (Non-Nursing),Scheduling,2022,6,125,4.8
+Healthcare (Non-Nursing),Self-Motivated,2022,8,125,6.4
+Healthcare (Non-Nursing),Social Media,2022,1,125,0.8
+Healthcare (Non-Nursing),Special Education,2022,2,125,1.6
+Healthcare (Non-Nursing),Statistical Analysis,2022,3,125,2.4
+Healthcare (Non-Nursing),Survey Design,2022,7,125,5.6
+Healthcare (Non-Nursing),Teamwork,2022,10,125,8.0
+Healthcare (Non-Nursing),Technical Writing,2022,1,125,0.8
+Healthcare (Non-Nursing),Telehealth,2022,1,125,0.8
+Healthcare (Non-Nursing),Time Management,2022,10,125,8.0
+Healthcare (Non-Nursing),Verbal Communication,2022,6,125,4.8
+Healthcare (Non-Nursing),Vital Signs,2022,3,125,2.4
+Healthcare (Non-Nursing),Written Communication,2022,11,125,8.8
+Human Resources,Academic Advising,2022,1,60,1.6667
+Human Resources,Accounting,2022,1,60,1.6667
+Human Resources,Adaptability,2022,23,60,38.3333
+Human Resources,Auditing,2022,2,60,3.3333
+Human Resources,Business Intelligence,2022,3,60,5.0
+Human Resources,CFA,2022,6,60,10.0
+Human Resources,CRM Software,2022,2,60,3.3333
+Human Resources,Communication Skills,2022,36,60,60.0
+Human Resources,Compliance,2022,23,60,38.3333
+Human Resources,Conflict Resolution,2022,2,60,3.3333
+Human Resources,Copywriting,2022,1,60,1.6667
+Human Resources,Creative Thinking,2022,10,60,16.6667
+Human Resources,Critical Thinking,2022,1,60,1.6667
+Human Resources,Customer Service,2022,22,60,36.6667
+Human Resources,Data Analysis,2022,3,60,5.0
+Human Resources,Data Entry,2022,5,60,8.3333
+Human Resources,Database Management,2022,1,60,1.6667
+Human Resources,Decision Making,2022,6,60,10.0
+Human Resources,ERP Systems,2022,1,60,1.6667
+Human Resources,Emotional Intelligence,2022,1,60,1.6667
+Human Resources,Event Planning,2022,3,60,5.0
+Human Resources,Filing,2022,4,60,6.6667
+Human Resources,Financial Planning,2022,1,60,1.6667
+Human Resources,Forecasting,2022,1,60,1.6667
+Human Resources,Google Workspace,2022,3,60,5.0
+Human Resources,HRIS,2022,11,60,18.3333
+Human Resources,Interpersonal Skills,2022,8,60,13.3333
+Human Resources,Leadership,2022,16,60,26.6667
+Human Resources,Legal Compliance,2022,2,60,3.3333
+Human Resources,Market Research,2022,1,60,1.6667
+Human Resources,Mental Health,2022,2,60,3.3333
+Human Resources,Mentoring,2022,5,60,8.3333
+Human Resources,Microsoft Excel,2022,35,60,58.3333
+Human Resources,Microsoft Office,2022,23,60,38.3333
+Human Resources,Microsoft PowerPoint,2022,22,60,36.6667
+Human Resources,Microsoft Word,2022,8,60,13.3333
+Human Resources,Multitasking,2022,9,60,15.0
+Human Resources,Negotiation,2022,3,60,5.0
+Human Resources,Networking,2022,1,60,1.6667
+Human Resources,OSHA,2022,2,60,3.3333
+Human Resources,Onboarding,2022,17,60,28.3333
+Human Resources,Operations Management,2022,2,60,3.3333
+Human Resources,Oracle,2022,1,60,1.6667
+Human Resources,Organizational Skills,2022,32,60,53.3333
+Human Resources,PHR,2022,1,60,1.6667
+Human Resources,Patient Care,2022,1,60,1.6667
+Human Resources,Payroll,2022,12,60,20.0
+Human Resources,Photoshop,2022,1,60,1.6667
+Human Resources,Presentation Skills,2022,3,60,5.0
+Human Resources,Problem Solving,2022,6,60,10.0
+Human Resources,Process Improvement,2022,2,60,3.3333
+Human Resources,Project Management,2022,4,60,6.6667
+Human Resources,Quality Assurance,2022,1,60,1.6667
+Human Resources,Recruiting,2022,31,60,51.6667
+Human Resources,Remote Work,2022,1,60,1.6667
+Human Resources,Reporting,2022,13,60,21.6667
+Human Resources,Salesforce,2022,1,60,1.6667
+Human Resources,Scheduling,2022,14,60,23.3333
+Human Resources,Self-Motivated,2022,19,60,31.6667
+Human Resources,ServiceNow,2022,3,60,5.0
+Human Resources,Social Media,2022,6,60,10.0
+Human Resources,Social Media Marketing,2022,1,60,1.6667
+Human Resources,Special Education,2022,2,60,3.3333
+Human Resources,Statistical Analysis,2022,3,60,5.0
+Human Resources,Strategic Planning,2022,2,60,3.3333
+Human Resources,Teamwork,2022,17,60,28.3333
+Human Resources,Time Management,2022,11,60,18.3333
+Human Resources,Verbal Communication,2022,9,60,15.0
+Human Resources,Web Development,2022,2,60,3.3333
+Human Resources,Workday,2022,7,60,11.6667
+Human Resources,Written Communication,2022,11,60,18.3333
+IT & Systems,3D Printing,2022,2,186,1.0753
+IT & Systems,APIs,2022,4,186,2.1505
+IT & Systems,AWS,2022,14,186,7.5269
+IT & Systems,Accounting,2022,12,186,6.4516
+IT & Systems,Accounts Payable,2022,4,186,2.1505
+IT & Systems,Accounts Receivable,2022,4,186,2.1505
+IT & Systems,Adaptability,2022,35,186,18.8172
+IT & Systems,Agile,2022,14,186,7.5269
+IT & Systems,Auditing,2022,9,186,4.8387
+IT & Systems,AutoCAD,2022,1,186,0.5376
+IT & Systems,Azure,2022,13,186,6.9892
+IT & Systems,Big Data,2022,1,186,0.5376
+IT & Systems,Budgeting,2022,2,186,1.0753
+IT & Systems,Business Development,2022,1,186,0.5376
+IT & Systems,Business Intelligence,2022,5,186,2.6882
+IT & Systems,CAD,2022,4,186,2.1505
+IT & Systems,CISSP,2022,27,186,14.5161
+IT & Systems,CPA,2022,2,186,1.0753
+IT & Systems,CPR,2022,1,186,0.5376
+IT & Systems,CRM Software,2022,4,186,2.1505
+IT & Systems,Clinical Research,2022,16,186,8.6022
+IT & Systems,Cloud Computing,2022,7,186,3.7634
+IT & Systems,Communication Skills,2022,56,186,30.1075
+IT & Systems,CompTIA,2022,9,186,4.8387
+IT & Systems,Compliance,2022,51,186,27.4194
+IT & Systems,Computer Vision,2022,1,186,0.5376
+IT & Systems,Conflict Resolution,2022,3,186,1.6129
+IT & Systems,Cost Analysis,2022,1,186,0.5376
+IT & Systems,Creative Thinking,2022,36,186,19.3548
+IT & Systems,Critical Thinking,2022,7,186,3.7634
+IT & Systems,Cross-Functional Collaboration,2022,7,186,3.7634
+IT & Systems,Customer Service,2022,42,186,22.5806
+IT & Systems,Cybersecurity,2022,60,186,32.2581
+IT & Systems,Data Analysis,2022,23,186,12.3656
+IT & Systems,Data Collection,2022,4,186,2.1505
+IT & Systems,Data Engineering,2022,1,186,0.5376
+IT & Systems,Data Entry,2022,1,186,0.5376
+IT & Systems,Data Mining,2022,2,186,1.0753
+IT & Systems,Data Visualization,2022,1,186,0.5376
+IT & Systems,Data Warehousing,2022,1,186,0.5376
+IT & Systems,Database Management,2022,1,186,0.5376
+IT & Systems,Decision Making,2022,2,186,1.0753
+IT & Systems,DevOps,2022,3,186,1.6129
+IT & Systems,Docker,2022,1,186,0.5376
+IT & Systems,ERP Systems,2022,7,186,3.7634
+IT & Systems,Editing,2022,2,186,1.0753
+IT & Systems,Electrical Engineering,2022,11,186,5.914
+IT & Systems,Emotional Intelligence,2022,3,186,1.6129
+IT & Systems,Event Planning,2022,1,186,0.5376
+IT & Systems,Filing,2022,1,186,0.5376
+IT & Systems,Financial Analysis,2022,1,186,0.5376
+IT & Systems,Financial Planning,2022,1,186,0.5376
+IT & Systems,Forecasting,2022,1,186,0.5376
+IT & Systems,GMP,2022,2,186,1.0753
+IT & Systems,Git,2022,1,186,0.5376
+IT & Systems,Google Cloud Platform,2022,10,186,5.3763
+IT & Systems,Google Workspace,2022,1,186,0.5376
+IT & Systems,HIPAA,2022,24,186,12.9032
+IT & Systems,HRIS,2022,1,186,0.5376
+IT & Systems,Intellectual Property,2022,1,186,0.5376
+IT & Systems,Interpersonal Skills,2022,17,186,9.1398
+IT & Systems,Java,2022,5,186,2.6882
+IT & Systems,JavaScript,2022,3,186,1.6129
+IT & Systems,Kanban,2022,2,186,1.0753
+IT & Systems,Leadership,2022,37,186,19.8925
+IT & Systems,Linux,2022,21,186,11.2903
+IT & Systems,MATLAB,2022,3,186,1.6129
+IT & Systems,Mechanical Engineering,2022,1,186,0.5376
+IT & Systems,Mental Health,2022,1,186,0.5376
+IT & Systems,Mentoring,2022,2,186,1.0753
+IT & Systems,Mergers and Acquisitions,2022,1,186,0.5376
+IT & Systems,Microsoft Excel,2022,15,186,8.0645
+IT & Systems,Microsoft Office,2022,28,186,15.0538
+IT & Systems,Microsoft PowerPoint,2022,6,186,3.2258
+IT & Systems,Microsoft Word,2022,3,186,1.6129
+IT & Systems,Multitasking,2022,8,186,4.3011
+IT & Systems,Negotiation,2022,2,186,1.0753
+IT & Systems,Networking,2022,45,186,24.1935
+IT & Systems,Onboarding,2022,1,186,0.5376
+IT & Systems,Operations Management,2022,1,186,0.5376
+IT & Systems,Oracle,2022,13,186,6.9892
+IT & Systems,Organizational Skills,2022,22,186,11.828
+IT & Systems,PHP,2022,3,186,1.6129
+IT & Systems,PLC Programming,2022,1,186,0.5376
+IT & Systems,PMP,2022,5,186,2.6882
+IT & Systems,Patient Care,2022,1,186,0.5376
+IT & Systems,Perl,2022,3,186,1.6129
+IT & Systems,Pharmacy,2022,1,186,0.5376
+IT & Systems,Power BI,2022,3,186,1.6129
+IT & Systems,Presentation Skills,2022,6,186,3.2258
+IT & Systems,Problem Solving,2022,73,186,39.2473
+IT & Systems,Process Improvement,2022,11,186,5.914
+IT & Systems,Procurement,2022,13,186,6.9892
+IT & Systems,Project Management,2022,19,186,10.2151
+IT & Systems,Python,2022,12,186,6.4516
+IT & Systems,Quality Assurance,2022,10,186,5.3763
+IT & Systems,Quality Management Systems,2022,2,186,1.0753
+IT & Systems,Quantitative Analysis,2022,1,186,0.5376
+IT & Systems,Radiology,2022,2,186,1.0753
+IT & Systems,Recruiting,2022,14,186,7.5269
+IT & Systems,Relationship Management,2022,2,186,1.0753
+IT & Systems,Remote Work,2022,1,186,0.5376
+IT & Systems,Reporting,2022,35,186,18.8172
+IT & Systems,Risk Management,2022,18,186,9.6774
+IT & Systems,Robotics,2022,1,186,0.5376
+IT & Systems,Root Cause Analysis,2022,2,186,1.0753
+IT & Systems,Ruby,2022,2,186,1.0753
+IT & Systems,SAP,2022,5,186,2.6882
+IT & Systems,SDLC,2022,7,186,3.7634
+IT & Systems,SQL,2022,18,186,9.6774
+IT & Systems,SQL Server,2022,2,186,1.0753
+IT & Systems,Sales,2022,1,186,0.5376
+IT & Systems,Salesforce,2022,3,186,1.6129
+IT & Systems,Scheduling,2022,5,186,2.6882
+IT & Systems,Scrum,2022,5,186,2.6882
+IT & Systems,Self-Motivated,2022,42,186,22.5806
+IT & Systems,ServiceNow,2022,24,186,12.9032
+IT & Systems,Shell Scripting,2022,5,186,2.6882
+IT & Systems,Six Sigma,2022,3,186,1.6129
+IT & Systems,SolidWorks,2022,3,186,1.6129
+IT & Systems,Supply Chain Management,2022,4,186,2.1505
+IT & Systems,Tableau,2022,2,186,1.0753
+IT & Systems,Teamwork,2022,17,186,9.1398
+IT & Systems,Technical Writing,2022,3,186,1.6129
+IT & Systems,Time Management,2022,11,186,5.914
+IT & Systems,UX Design,2022,2,186,1.0753
+IT & Systems,Verbal Communication,2022,13,186,6.9892
+IT & Systems,Web Development,2022,2,186,1.0753
+IT & Systems,Windows Server,2022,7,186,3.7634
+IT & Systems,Workday,2022,5,186,2.6882
+IT & Systems,Written Communication,2022,29,186,15.5914
+Legal,Accounting,2022,4,68,5.8824
+Legal,Active Listening,2022,2,68,2.9412
+Legal,Adaptability,2022,19,68,27.9412
+Legal,Auditing,2022,1,68,1.4706
+Legal,Bilingual,2022,2,68,2.9412
+Legal,Business Development,2022,4,68,5.8824
+Legal,CRM Software,2022,1,68,1.4706
+Legal,Case Management,2022,4,68,5.8824
+Legal,Chemical Engineering,2022,1,68,1.4706
+Legal,Communication Skills,2022,36,68,52.9412
+Legal,Compliance,2022,7,68,10.2941
+Legal,Content Marketing,2022,1,68,1.4706
+Legal,Contract Review,2022,1,68,1.4706
+Legal,Copywriting,2022,1,68,1.4706
+Legal,Critical Thinking,2022,4,68,5.8824
+Legal,Customer Service,2022,19,68,27.9412
+Legal,Data Analysis,2022,1,68,1.4706
+Legal,Data Collection,2022,6,68,8.8235
+Legal,Data Entry,2022,1,68,1.4706
+Legal,Database Management,2022,2,68,2.9412
+Legal,Due Diligence,2022,1,68,1.4706
+Legal,Editing,2022,5,68,7.3529
+Legal,Electrical Engineering,2022,3,68,4.4118
+Legal,Electronic Health Records,2022,1,68,1.4706
+Legal,Event Planning,2022,1,68,1.4706
+Legal,Filing,2022,8,68,11.7647
+Legal,HTML,2022,3,68,4.4118
+Legal,Intellectual Property,2022,5,68,7.3529
+Legal,Interpersonal Skills,2022,11,68,16.1765
+Legal,Leadership,2022,12,68,17.6471
+Legal,Legal Research,2022,6,68,8.8235
+Legal,Legal Writing,2022,1,68,1.4706
+Legal,Litigation,2022,23,68,33.8235
+Legal,Market Research,2022,9,68,13.2353
+Legal,Mechanical Engineering,2022,2,68,2.9412
+Legal,Medical Terminology,2022,1,68,1.4706
+Legal,Mental Health,2022,1,68,1.4706
+Legal,Microsoft Excel,2022,33,68,48.5294
+Legal,Microsoft Office,2022,6,68,8.8235
+Legal,Microsoft PowerPoint,2022,22,68,32.3529
+Legal,Microsoft Word,2022,18,68,26.4706
+Legal,Multitasking,2022,4,68,5.8824
+Legal,Negotiation,2022,6,68,8.8235
+Legal,OSHA,2022,1,68,1.4706
+Legal,Onboarding,2022,17,68,25.0
+Legal,Oracle,2022,2,68,2.9412
+Legal,Organizational Skills,2022,37,68,54.4118
+Legal,Paralegal Skills,2022,15,68,22.0588
+Legal,Pharmacy,2022,1,68,1.4706
+Legal,Presentation Skills,2022,1,68,1.4706
+Legal,Problem Solving,2022,7,68,10.2941
+Legal,Procurement,2022,4,68,5.8824
+Legal,Project Management,2022,16,68,23.5294
+Legal,Quality Assurance,2022,1,68,1.4706
+Legal,Radiology,2022,2,68,2.9412
+Legal,Recruiting,2022,26,68,38.2353
+Legal,Relationship Management,2022,1,68,1.4706
+Legal,Reporting,2022,19,68,27.9412
+Legal,Risk Management,2022,1,68,1.4706
+Legal,SHRM,2022,1,68,1.4706
+Legal,Scheduling,2022,14,68,20.5882
+Legal,Self-Motivated,2022,32,68,47.0588
+Legal,Social Media,2022,1,68,1.4706
+Legal,Statistical Analysis,2022,10,68,14.7059
+Legal,Strategic Planning,2022,1,68,1.4706
+Legal,Tax Preparation,2022,2,68,2.9412
+Legal,Teamwork,2022,9,68,13.2353
+Legal,Time Management,2022,8,68,11.7647
+Legal,Verbal Communication,2022,24,68,35.2941
+Legal,Westlaw,2022,1,68,1.4706
+Legal,Workday,2022,9,68,13.2353
+Legal,Written Communication,2022,19,68,27.9412
+Manufacturing & Trades,3D Printing,2022,1,491,0.2037
+Manufacturing & Trades,APIs,2022,24,491,4.888
+Manufacturing & Trades,Accounting,2022,3,491,0.611
+Manufacturing & Trades,Adaptability,2022,216,491,43.9919
+Manufacturing & Trades,Adobe Creative Suite,2022,1,491,0.2037
+Manufacturing & Trades,Agile,2022,30,491,6.11
+Manufacturing & Trades,Artificial Intelligence,2022,1,491,0.2037
+Manufacturing & Trades,Assembly,2022,12,491,2.444
+Manufacturing & Trades,Auditing,2022,1,491,0.2037
+Manufacturing & Trades,AutoCAD,2022,2,491,0.4073
+Manufacturing & Trades,Azure,2022,23,491,4.6843
+Manufacturing & Trades,Bilingual,2022,4,491,0.8147
+Manufacturing & Trades,Blueprint Reading,2022,2,491,0.4073
+Manufacturing & Trades,Brand Management,2022,1,491,0.2037
+Manufacturing & Trades,CAD,2022,5,491,1.0183
+Manufacturing & Trades,CNC,2022,14,491,2.8513
+Manufacturing & Trades,CRM Software,2022,5,491,1.0183
+Manufacturing & Trades,Case Management,2022,1,491,0.2037
+Manufacturing & Trades,Communication Skills,2022,114,491,23.2179
+Manufacturing & Trades,Compliance,2022,53,491,10.7943
+Manufacturing & Trades,Conflict Resolution,2022,2,491,0.4073
+Manufacturing & Trades,Contract Review,2022,1,491,0.2037
+Manufacturing & Trades,Cost Analysis,2022,1,491,0.2037
+Manufacturing & Trades,Creative Thinking,2022,25,491,5.0916
+Manufacturing & Trades,Critical Thinking,2022,3,491,0.611
+Manufacturing & Trades,Cross-Functional Collaboration,2022,28,491,5.7026
+Manufacturing & Trades,Customer Service,2022,38,491,7.7393
+Manufacturing & Trades,Data Analysis,2022,14,491,2.8513
+Manufacturing & Trades,Data Collection,2022,16,491,3.2587
+Manufacturing & Trades,Data Engineering,2022,1,491,0.2037
+Manufacturing & Trades,Data Entry,2022,5,491,1.0183
+Manufacturing & Trades,Data Mining,2022,1,491,0.2037
+Manufacturing & Trades,Data Warehousing,2022,1,491,0.2037
+Manufacturing & Trades,Database Management,2022,2,491,0.4073
+Manufacturing & Trades,Decision Making,2022,5,491,1.0183
+Manufacturing & Trades,DevOps,2022,23,491,4.6843
+Manufacturing & Trades,ERP Systems,2022,4,491,0.8147
+Manufacturing & Trades,Editing,2022,5,491,1.0183
+Manufacturing & Trades,Emotional Intelligence,2022,4,491,0.8147
+Manufacturing & Trades,Event Planning,2022,3,491,0.611
+Manufacturing & Trades,Filing,2022,7,491,1.4257
+Manufacturing & Trades,Financial Planning,2022,1,491,0.2037
+Manufacturing & Trades,Forecasting,2022,2,491,0.4073
+Manufacturing & Trades,Fundraising,2022,2,491,0.4073
+Manufacturing & Trades,GMP,2022,15,491,3.055
+Manufacturing & Trades,Google Cloud Platform,2022,5,491,1.0183
+Manufacturing & Trades,Google Workspace,2022,1,491,0.2037
+Manufacturing & Trades,HIPAA,2022,1,491,0.2037
+Manufacturing & Trades,HRIS,2022,1,491,0.2037
+Manufacturing & Trades,InDesign,2022,1,491,0.2037
+Manufacturing & Trades,Interpersonal Skills,2022,22,491,4.4807
+Manufacturing & Trades,Inventory Management,2022,1,491,0.2037
+Manufacturing & Trades,Jira,2022,1,491,0.2037
+Manufacturing & Trades,Laboratory Skills,2022,1,491,0.2037
+Manufacturing & Trades,Leadership,2022,21,491,4.277
+Manufacturing & Trades,Lean,2022,4,491,0.8147
+Manufacturing & Trades,Linux,2022,5,491,1.0183
+Manufacturing & Trades,Machine Learning,2022,1,491,0.2037
+Manufacturing & Trades,Mental Health,2022,3,491,0.611
+Manufacturing & Trades,Mentoring,2022,11,491,2.2403
+Manufacturing & Trades,Microsoft Excel,2022,27,491,5.499
+Manufacturing & Trades,Microsoft Office,2022,14,491,2.8513
+Manufacturing & Trades,Microsoft PowerPoint,2022,8,491,1.6293
+Manufacturing & Trades,Microsoft Word,2022,6,491,1.222
+Manufacturing & Trades,Multitasking,2022,11,491,2.2403
+Manufacturing & Trades,MySQL,2022,1,491,0.2037
+Manufacturing & Trades,Negotiation,2022,3,491,0.611
+Manufacturing & Trades,OSHA,2022,6,491,1.222
+Manufacturing & Trades,Onboarding,2022,3,491,0.611
+Manufacturing & Trades,Operations Management,2022,2,491,0.4073
+Manufacturing & Trades,Oracle,2022,6,491,1.222
+Manufacturing & Trades,Organizational Skills,2022,127,491,25.8656
+Manufacturing & Trades,PMP,2022,1,491,0.2037
+Manufacturing & Trades,Patient Care,2022,2,491,0.4073
+Manufacturing & Trades,Payroll,2022,7,491,1.4257
+Manufacturing & Trades,Pharmacy,2022,3,491,0.611
+Manufacturing & Trades,Photoshop,2022,2,491,0.4073
+Manufacturing & Trades,Preventive Maintenance,2022,4,491,0.8147
+Manufacturing & Trades,Problem Solving,2022,35,491,7.1283
+Manufacturing & Trades,Process Improvement,2022,4,491,0.8147
+Manufacturing & Trades,Procurement,2022,5,491,1.0183
+Manufacturing & Trades,Project Management,2022,8,491,1.6293
+Manufacturing & Trades,Quality Assurance,2022,53,491,10.7943
+Manufacturing & Trades,Quality Management Systems,2022,2,491,0.4073
+Manufacturing & Trades,QuickBooks,2022,1,491,0.2037
+Manufacturing & Trades,Radiology,2022,5,491,1.0183
+Manufacturing & Trades,React,2022,4,491,0.8147
+Manufacturing & Trades,Recruiting,2022,32,491,6.5173
+Manufacturing & Trades,Relationship Management,2022,1,491,0.2037
+Manufacturing & Trades,Reporting,2022,24,491,4.888
+Manufacturing & Trades,Research,2022,1,491,0.2037
+Manufacturing & Trades,Risk Management,2022,1,491,0.2037
+Manufacturing & Trades,Robotics,2022,1,491,0.2037
+Manufacturing & Trades,Root Cause Analysis,2022,3,491,0.611
+Manufacturing & Trades,SAP,2022,3,491,0.611
+Manufacturing & Trades,SDLC,2022,1,491,0.2037
+Manufacturing & Trades,SQL,2022,30,491,6.11
+Manufacturing & Trades,SQL Server,2022,1,491,0.2037
+Manufacturing & Trades,Sales,2022,1,491,0.2037
+Manufacturing & Trades,Salesforce,2022,3,491,0.611
+Manufacturing & Trades,Scheduling,2022,10,491,2.0367
+Manufacturing & Trades,Scientific Writing,2022,1,491,0.2037
+Manufacturing & Trades,Scrum,2022,1,491,0.2037
+Manufacturing & Trades,Self-Motivated,2022,43,491,8.7576
+Manufacturing & Trades,ServiceNow,2022,5,491,1.0183
+Manufacturing & Trades,Six Sigma,2022,2,491,0.4073
+Manufacturing & Trades,Social Media,2022,1,491,0.2037
+Manufacturing & Trades,Statistical Analysis,2022,2,491,0.4073
+Manufacturing & Trades,Strategic Planning,2022,6,491,1.222
+Manufacturing & Trades,Supply Chain Management,2022,10,491,2.0367
+Manufacturing & Trades,Teamwork,2022,46,491,9.3686
+Manufacturing & Trades,Technical Writing,2022,3,491,0.611
+Manufacturing & Trades,Time Management,2022,19,491,3.8697
+Manufacturing & Trades,Verbal Communication,2022,18,491,3.666
+Manufacturing & Trades,Welding,2022,13,491,2.6477
+Manufacturing & Trades,WordPress,2022,2,491,0.4073
+Manufacturing & Trades,Workday,2022,1,491,0.2037
+Manufacturing & Trades,Written Communication,2022,18,491,3.666
+Marketing & Communications,A/B Testing,2022,1,171,0.5848
+Marketing & Communications,APIs,2022,2,171,1.1696
+Marketing & Communications,Adaptability,2022,51,171,29.8246
+Marketing & Communications,Adobe Creative Suite,2022,25,171,14.6199
+Marketing & Communications,Agile,2022,5,171,2.924
+Marketing & Communications,Azure,2022,1,171,0.5848
+Marketing & Communications,Big Data,2022,1,171,0.5848
+Marketing & Communications,Bilingual,2022,1,171,0.5848
+Marketing & Communications,Brand Management,2022,17,171,9.9415
+Marketing & Communications,Budgeting,2022,3,171,1.7544
+Marketing & Communications,Business Development,2022,3,171,1.7544
+Marketing & Communications,Business Intelligence,2022,9,171,5.2632
+Marketing & Communications,CPR,2022,1,171,0.5848
+Marketing & Communications,CRM Software,2022,11,171,6.4327
+Marketing & Communications,CSS,2022,10,171,5.848
+Marketing & Communications,Communication Skills,2022,67,171,39.1813
+Marketing & Communications,Compliance,2022,7,171,4.0936
+Marketing & Communications,Confluence,2022,2,171,1.1696
+Marketing & Communications,Content Marketing,2022,15,171,8.7719
+Marketing & Communications,Content Writing,2022,1,171,0.5848
+Marketing & Communications,Copywriting,2022,10,171,5.848
+Marketing & Communications,Creative Thinking,2022,20,171,11.6959
+Marketing & Communications,Critical Thinking,2022,4,171,2.3392
+Marketing & Communications,Cross-Functional Collaboration,2022,7,171,4.0936
+Marketing & Communications,Curriculum Development,2022,1,171,0.5848
+Marketing & Communications,Customer Service,2022,19,171,11.1111
+Marketing & Communications,Data Analysis,2022,17,171,9.9415
+Marketing & Communications,Data Collection,2022,3,171,1.7544
+Marketing & Communications,Data Engineering,2022,2,171,1.1696
+Marketing & Communications,Data Entry,2022,5,171,2.924
+Marketing & Communications,Data Mining,2022,8,171,4.6784
+Marketing & Communications,Data Visualization,2022,1,171,0.5848
+Marketing & Communications,Data Warehousing,2022,1,171,0.5848
+Marketing & Communications,Database Management,2022,1,171,0.5848
+Marketing & Communications,Decision Making,2022,5,171,2.924
+Marketing & Communications,Digital Marketing,2022,49,171,28.655
+Marketing & Communications,Editing,2022,56,171,32.7485
+Marketing & Communications,Email Marketing,2022,14,171,8.1871
+Marketing & Communications,Emotional Intelligence,2022,2,171,1.1696
+Marketing & Communications,Event Planning,2022,6,171,3.5088
+Marketing & Communications,Filing,2022,2,171,1.1696
+Marketing & Communications,Financial Planning,2022,1,171,0.5848
+Marketing & Communications,Forecasting,2022,4,171,2.3392
+Marketing & Communications,Fundraising,2022,5,171,2.924
+Marketing & Communications,Google Analytics,2022,18,171,10.5263
+Marketing & Communications,Google Workspace,2022,7,171,4.0936
+Marketing & Communications,Grant Writing,2022,2,171,1.1696
+Marketing & Communications,HTML,2022,28,171,16.3743
+Marketing & Communications,HubSpot,2022,4,171,2.3392
+Marketing & Communications,Illustrator,2022,13,171,7.6023
+Marketing & Communications,InDesign,2022,18,171,10.5263
+Marketing & Communications,Interpersonal Skills,2022,16,171,9.3567
+Marketing & Communications,JavaScript,2022,2,171,1.1696
+Marketing & Communications,Jira,2022,1,171,0.5848
+Marketing & Communications,Leadership,2022,19,171,11.1111
+Marketing & Communications,Lean,2022,1,171,0.5848
+Marketing & Communications,Machine Learning,2022,2,171,1.1696
+Marketing & Communications,Market Research,2022,22,171,12.8655
+Marketing & Communications,Marketing Analytics,2022,5,171,2.924
+Marketing & Communications,Marketing Automation,2022,4,171,2.3392
+Marketing & Communications,Marketo,2022,2,171,1.1696
+Marketing & Communications,Mental Health,2022,2,171,1.1696
+Marketing & Communications,Mentoring,2022,3,171,1.7544
+Marketing & Communications,Microsoft Excel,2022,34,171,19.883
+Marketing & Communications,Microsoft Office,2022,43,171,25.1462
+Marketing & Communications,Microsoft PowerPoint,2022,14,171,8.1871
+Marketing & Communications,Microsoft Word,2022,17,171,9.9415
+Marketing & Communications,Mobile Development,2022,2,171,1.1696
+Marketing & Communications,Multitasking,2022,15,171,8.7719
+Marketing & Communications,Negotiation,2022,2,171,1.1696
+Marketing & Communications,Networking,2022,5,171,2.924
+Marketing & Communications,Onboarding,2022,4,171,2.3392
+Marketing & Communications,Organizational Skills,2022,86,171,50.2924
+Marketing & Communications,PPC Advertising,2022,8,171,4.6784
+Marketing & Communications,Patient Care,2022,1,171,0.5848
+Marketing & Communications,Payroll,2022,2,171,1.1696
+Marketing & Communications,Pharmacy,2022,1,171,0.5848
+Marketing & Communications,Photoshop,2022,18,171,10.5263
+Marketing & Communications,Physical Therapy,2022,2,171,1.1696
+Marketing & Communications,Power BI,2022,3,171,1.7544
+Marketing & Communications,Presentation Skills,2022,26,171,15.2047
+Marketing & Communications,Problem Solving,2022,21,171,12.2807
+Marketing & Communications,Process Improvement,2022,1,171,0.5848
+Marketing & Communications,Procurement,2022,1,171,0.5848
+Marketing & Communications,Project Management,2022,32,171,18.7135
+Marketing & Communications,Public Relations,2022,36,171,21.0526
+Marketing & Communications,Python,2022,3,171,1.7544
+Marketing & Communications,Quality Assurance,2022,8,171,4.6784
+Marketing & Communications,Quantitative Analysis,2022,1,171,0.5848
+Marketing & Communications,React,2022,1,171,0.5848
+Marketing & Communications,Recruiting,2022,4,171,2.3392
+Marketing & Communications,Relationship Management,2022,11,171,6.4327
+Marketing & Communications,Remote Work,2022,3,171,1.7544
+Marketing & Communications,Reporting,2022,38,171,22.2222
+Marketing & Communications,Research,2022,3,171,1.7544
+Marketing & Communications,Risk Management,2022,2,171,1.1696
+Marketing & Communications,SAS,2022,1,171,0.5848
+Marketing & Communications,SEO,2022,11,171,6.4327
+Marketing & Communications,SQL,2022,5,171,2.924
+Marketing & Communications,SQL Server,2022,1,171,0.5848
+Marketing & Communications,Sales,2022,2,171,1.1696
+Marketing & Communications,Salesforce,2022,14,171,8.1871
+Marketing & Communications,Scheduling,2022,13,171,7.6023
+Marketing & Communications,Scientific Writing,2022,1,171,0.5848
+Marketing & Communications,Self-Motivated,2022,43,171,25.1462
+Marketing & Communications,Six Sigma,2022,1,171,0.5848
+Marketing & Communications,Social Media,2022,83,171,48.538
+Marketing & Communications,Social Media Marketing,2022,6,171,3.5088
+Marketing & Communications,Statistical Analysis,2022,6,171,3.5088
+Marketing & Communications,Strategic Planning,2022,6,171,3.5088
+Marketing & Communications,Supply Chain Management,2022,1,171,0.5848
+Marketing & Communications,Tableau,2022,4,171,2.3392
+Marketing & Communications,Teamwork,2022,25,171,14.6199
+Marketing & Communications,Technical Writing,2022,1,171,0.5848
+Marketing & Communications,Time Management,2022,20,171,11.6959
+Marketing & Communications,UX Design,2022,2,171,1.1696
+Marketing & Communications,Underwriting,2022,1,171,0.5848
+Marketing & Communications,Vendor Management,2022,1,171,0.5848
+Marketing & Communications,Verbal Communication,2022,16,171,9.3567
+Marketing & Communications,Web Development,2022,4,171,2.3392
+Marketing & Communications,WordPress,2022,7,171,4.0936
+Marketing & Communications,Workday,2022,3,171,1.7544
+Marketing & Communications,Written Communication,2022,25,171,14.6199
+Nursing & Clinical Care,Adaptability,2022,24,113,21.2389
+Nursing & Clinical Care,Bilingual,2022,8,113,7.0796
+Nursing & Clinical Care,CPR,2022,69,113,61.0619
+Nursing & Clinical Care,Care Coordination,2022,1,113,0.885
+Nursing & Clinical Care,Case Management,2022,2,113,1.7699
+Nursing & Clinical Care,Certified Nursing,2022,1,113,0.885
+Nursing & Clinical Care,Clinical Research,2022,1,113,0.885
+Nursing & Clinical Care,Communication Skills,2022,6,113,5.3097
+Nursing & Clinical Care,Compliance,2022,25,113,22.1239
+Nursing & Clinical Care,Cost Analysis,2022,1,113,0.885
+Nursing & Clinical Care,Creative Thinking,2022,3,113,2.6549
+Nursing & Clinical Care,Critical Thinking,2022,9,113,7.9646
+Nursing & Clinical Care,Curriculum Development,2022,1,113,0.885
+Nursing & Clinical Care,Customer Service,2022,13,113,11.5044
+Nursing & Clinical Care,Data Analysis,2022,12,113,10.6195
+Nursing & Clinical Care,Data Collection,2022,3,113,2.6549
+Nursing & Clinical Care,Data Entry,2022,1,113,0.885
+Nursing & Clinical Care,Decision Making,2022,5,113,4.4248
+Nursing & Clinical Care,Deep Learning,2022,1,113,0.885
+Nursing & Clinical Care,Editing,2022,7,113,6.1947
+Nursing & Clinical Care,Electronic Health Records,2022,1,113,0.885
+Nursing & Clinical Care,Emotional Intelligence,2022,1,113,0.885
+Nursing & Clinical Care,HTML,2022,1,113,0.885
+Nursing & Clinical Care,Intellectual Property,2022,1,113,0.885
+Nursing & Clinical Care,Interpersonal Skills,2022,2,113,1.7699
+Nursing & Clinical Care,LMS,2022,2,113,1.7699
+Nursing & Clinical Care,Leadership,2022,11,113,9.7345
+Nursing & Clinical Care,Mental Health,2022,10,113,8.8496
+Nursing & Clinical Care,Mentoring,2022,3,113,2.6549
+Nursing & Clinical Care,Microsoft Excel,2022,3,113,2.6549
+Nursing & Clinical Care,Microsoft Office,2022,1,113,0.885
+Nursing & Clinical Care,Microsoft Word,2022,1,113,0.885
+Nursing & Clinical Care,Multitasking,2022,5,113,4.4248
+Nursing & Clinical Care,Nursing,2022,58,113,51.3274
+Nursing & Clinical Care,OSHA,2022,3,113,2.6549
+Nursing & Clinical Care,Onboarding,2022,4,113,3.5398
+Nursing & Clinical Care,Organizational Skills,2022,9,113,7.9646
+Nursing & Clinical Care,Patient Care,2022,65,113,57.5221
+Nursing & Clinical Care,Pharmacy,2022,2,113,1.7699
+Nursing & Clinical Care,Phlebotomy,2022,2,113,1.7699
+Nursing & Clinical Care,Physical Therapy,2022,5,113,4.4248
+Nursing & Clinical Care,Presentation Skills,2022,1,113,0.885
+Nursing & Clinical Care,Problem Solving,2022,15,113,13.2743
+Nursing & Clinical Care,Process Improvement,2022,2,113,1.7699
+Nursing & Clinical Care,Quality Assurance,2022,1,113,0.885
+Nursing & Clinical Care,Radiology,2022,11,113,9.7345
+Nursing & Clinical Care,React,2022,10,113,8.8496
+Nursing & Clinical Care,Reporting,2022,6,113,5.3097
+Nursing & Clinical Care,Risk Management,2022,3,113,2.6549
+Nursing & Clinical Care,Root Cause Analysis,2022,1,113,0.885
+Nursing & Clinical Care,Scheduling,2022,7,113,6.1947
+Nursing & Clinical Care,Scientific Writing,2022,1,113,0.885
+Nursing & Clinical Care,Self-Motivated,2022,8,113,7.0796
+Nursing & Clinical Care,Special Education,2022,3,113,2.6549
+Nursing & Clinical Care,Student Assessment,2022,1,113,0.885
+Nursing & Clinical Care,Survey Design,2022,1,113,0.885
+Nursing & Clinical Care,Teamwork,2022,9,113,7.9646
+Nursing & Clinical Care,Time Management,2022,14,113,12.3894
+Nursing & Clinical Care,Tutoring,2022,1,113,0.885
+Nursing & Clinical Care,Vital Signs,2022,2,113,1.7699
+Nursing & Clinical Care,Workday,2022,2,113,1.7699
+Nursing & Clinical Care,Written Communication,2022,3,113,2.6549
+Operations & Logistics,APIs,2022,1,252,0.3968
+Operations & Logistics,Accounting,2022,11,252,4.3651
+Operations & Logistics,Adaptability,2022,142,252,56.3492
+Operations & Logistics,Assembly,2022,5,252,1.9841
+Operations & Logistics,Auditing,2022,1,252,0.3968
+Operations & Logistics,Bilingual,2022,2,252,0.7937
+Operations & Logistics,Budgeting,2022,1,252,0.3968
+Operations & Logistics,Business Development,2022,2,252,0.7937
+Operations & Logistics,Business Intelligence,2022,1,252,0.3968
+Operations & Logistics,CPA,2022,1,252,0.3968
+Operations & Logistics,CPR,2022,2,252,0.7937
+Operations & Logistics,CRM Software,2022,1,252,0.3968
+Operations & Logistics,Case Management,2022,1,252,0.3968
+Operations & Logistics,Communication Skills,2022,146,252,57.9365
+Operations & Logistics,Compliance,2022,13,252,5.1587
+Operations & Logistics,Conflict Resolution,2022,3,252,1.1905
+Operations & Logistics,Contract Review,2022,1,252,0.3968
+Operations & Logistics,Creative Thinking,2022,14,252,5.5556
+Operations & Logistics,Critical Thinking,2022,1,252,0.3968
+Operations & Logistics,Cross-Functional Collaboration,2022,9,252,3.5714
+Operations & Logistics,Customer Service,2022,29,252,11.5079
+Operations & Logistics,Data Analysis,2022,12,252,4.7619
+Operations & Logistics,Data Entry,2022,9,252,3.5714
+Operations & Logistics,Data Mining,2022,2,252,0.7937
+Operations & Logistics,Decision Making,2022,3,252,1.1905
+Operations & Logistics,ERP Systems,2022,10,252,3.9683
+Operations & Logistics,Editing,2022,1,252,0.3968
+Operations & Logistics,Event Planning,2022,2,252,0.7937
+Operations & Logistics,Filing,2022,1,252,0.3968
+Operations & Logistics,Financial Analysis,2022,1,252,0.3968
+Operations & Logistics,Forecasting,2022,6,252,2.381
+Operations & Logistics,GMP,2022,1,252,0.3968
+Operations & Logistics,Git,2022,1,252,0.3968
+Operations & Logistics,Google Workspace,2022,3,252,1.1905
+Operations & Logistics,HTML,2022,1,252,0.3968
+Operations & Logistics,Interpersonal Skills,2022,15,252,5.9524
+Operations & Logistics,Inventory Management,2022,120,252,47.619
+Operations & Logistics,Leadership,2022,113,252,44.8413
+Operations & Logistics,Market Research,2022,1,252,0.3968
+Operations & Logistics,Mentoring,2022,5,252,1.9841
+Operations & Logistics,Microsoft Excel,2022,132,252,52.381
+Operations & Logistics,Microsoft Office,2022,32,252,12.6984
+Operations & Logistics,Microsoft PowerPoint,2022,4,252,1.5873
+Operations & Logistics,Microsoft Word,2022,2,252,0.7937
+Operations & Logistics,Multitasking,2022,24,252,9.5238
+Operations & Logistics,Negotiation,2022,3,252,1.1905
+Operations & Logistics,Networking,2022,3,252,1.1905
+Operations & Logistics,Onboarding,2022,1,252,0.3968
+Operations & Logistics,Oracle,2022,2,252,0.7937
+Operations & Logistics,Organizational Skills,2022,51,252,20.2381
+Operations & Logistics,PHP,2022,1,252,0.3968
+Operations & Logistics,PLC Programming,2022,8,252,3.1746
+Operations & Logistics,PMP,2022,1,252,0.3968
+Operations & Logistics,Payroll,2022,4,252,1.5873
+Operations & Logistics,Power BI,2022,3,252,1.1905
+Operations & Logistics,Presentation Skills,2022,6,252,2.381
+Operations & Logistics,Preventive Maintenance,2022,2,252,0.7937
+Operations & Logistics,Problem Solving,2022,121,252,48.0159
+Operations & Logistics,Process Improvement,2022,3,252,1.1905
+Operations & Logistics,Procurement,2022,15,252,5.9524
+Operations & Logistics,Project Management,2022,8,252,3.1746
+Operations & Logistics,Public Relations,2022,1,252,0.3968
+Operations & Logistics,Python,2022,3,252,1.1905
+Operations & Logistics,Quality Assurance,2022,13,252,5.1587
+Operations & Logistics,Radiology,2022,1,252,0.3968
+Operations & Logistics,React,2022,2,252,0.7937
+Operations & Logistics,Recruiting,2022,10,252,3.9683
+Operations & Logistics,Relationship Management,2022,1,252,0.3968
+Operations & Logistics,Remote Work,2022,1,252,0.3968
+Operations & Logistics,Reporting,2022,22,252,8.7302
+Operations & Logistics,Risk Management,2022,1,252,0.3968
+Operations & Logistics,SAP,2022,11,252,4.3651
+Operations & Logistics,SHRM,2022,1,252,0.3968
+Operations & Logistics,SQL,2022,11,252,4.3651
+Operations & Logistics,Sales,2022,2,252,0.7937
+Operations & Logistics,Salesforce,2022,1,252,0.3968
+Operations & Logistics,Scheduling,2022,6,252,2.381
+Operations & Logistics,Self-Motivated,2022,34,252,13.4921
+Operations & Logistics,ServiceNow,2022,1,252,0.3968
+Operations & Logistics,Social Media,2022,3,252,1.1905
+Operations & Logistics,Statistical Analysis,2022,2,252,0.7937
+Operations & Logistics,Supply Chain Management,2022,36,252,14.2857
+Operations & Logistics,Tableau,2022,2,252,0.7937
+Operations & Logistics,Teamwork,2022,26,252,10.3175
+Operations & Logistics,Telehealth,2022,4,252,1.5873
+Operations & Logistics,Time Management,2022,19,252,7.5397
+Operations & Logistics,VBA,2022,2,252,0.7937
+Operations & Logistics,Valuation,2022,1,252,0.3968
+Operations & Logistics,Verbal Communication,2022,10,252,3.9683
+Operations & Logistics,Welding,2022,1,252,0.3968
+Operations & Logistics,Workday,2022,1,252,0.3968
+Operations & Logistics,Written Communication,2022,114,252,45.2381
+Other,APIs,2022,1,567,0.1764
+Other,AWS,2022,5,567,0.8818
+Other,Accounting,2022,47,567,8.2892
+Other,Accounts Payable,2022,2,567,0.3527
+Other,Accounts Receivable,2022,1,567,0.1764
+Other,Active Listening,2022,2,567,0.3527
+Other,Adaptability,2022,152,567,26.8078
+Other,Adobe Creative Suite,2022,9,567,1.5873
+Other,Agile,2022,20,567,3.5273
+Other,Angular,2022,1,567,0.1764
+Other,Artificial Intelligence,2022,1,567,0.1764
+Other,Auditing,2022,8,567,1.4109
+Other,AutoCAD,2022,3,567,0.5291
+Other,Azure,2022,3,567,0.5291
+Other,Big Data,2022,1,567,0.1764
+Other,Bilingual,2022,10,567,1.7637
+Other,Bloomberg Terminal,2022,5,567,0.8818
+Other,Brand Management,2022,5,567,0.8818
+Other,Budgeting,2022,8,567,1.4109
+Other,Business Development,2022,12,567,2.1164
+Other,Business Intelligence,2022,15,567,2.6455
+Other,CAD,2022,5,567,0.8818
+Other,CFA,2022,11,567,1.94
+Other,CI/CD,2022,1,567,0.1764
+Other,CISSP,2022,6,567,1.0582
+Other,CPA,2022,4,567,0.7055
+Other,CPR,2022,18,567,3.1746
+Other,CRM Software,2022,5,567,0.8818
+Other,CSS,2022,1,567,0.1764
+Other,Case Management,2022,5,567,0.8818
+Other,Chemical Engineering,2022,1,567,0.1764
+Other,Civil Engineering,2022,8,567,1.4109
+Other,Clinical Research,2022,5,567,0.8818
+Other,Cloud Computing,2022,3,567,0.5291
+Other,Communication Skills,2022,215,567,37.9189
+Other,CompTIA,2022,1,567,0.1764
+Other,Compliance,2022,137,567,24.1623
+Other,Conflict Resolution,2022,6,567,1.0582
+Other,Content Marketing,2022,2,567,0.3527
+Other,Contract Review,2022,2,567,0.3527
+Other,Copywriting,2022,2,567,0.3527
+Other,Cost Analysis,2022,4,567,0.7055
+Other,Creative Thinking,2022,57,567,10.0529
+Other,Critical Thinking,2022,16,567,2.8219
+Other,Cross-Functional Collaboration,2022,18,567,3.1746
+Other,Curriculum Development,2022,1,567,0.1764
+Other,Customer Service,2022,85,567,14.9912
+Other,Cybersecurity,2022,15,567,2.6455
+Other,Data Analysis,2022,102,567,17.9894
+Other,Data Collection,2022,8,567,1.4109
+Other,Data Engineering,2022,4,567,0.7055
+Other,Data Entry,2022,12,567,2.1164
+Other,Data Mining,2022,1,567,0.1764
+Other,Data Visualization,2022,3,567,0.5291
+Other,Data Warehousing,2022,1,567,0.1764
+Other,Database Management,2022,2,567,0.3527
+Other,Decision Making,2022,26,567,4.5855
+Other,DevOps,2022,2,567,0.3527
+Other,Digital Marketing,2022,2,567,0.3527
+Other,Due Diligence,2022,7,567,1.2346
+Other,ERP Systems,2022,9,567,1.5873
+Other,Editing,2022,11,567,1.94
+Other,Electrical Engineering,2022,7,567,1.2346
+Other,Electronic Health Records,2022,1,567,0.1764
+Other,Email Marketing,2022,1,567,0.1764
+Other,Emotional Intelligence,2022,3,567,0.5291
+Other,Environmental Engineering,2022,4,567,0.7055
+Other,Event Planning,2022,5,567,0.8818
+Other,Figma,2022,2,567,0.3527
+Other,Filing,2022,19,567,3.351
+Other,Financial Analysis,2022,14,567,2.4691
+Other,Financial Planning,2022,3,567,0.5291
+Other,Financial Statements,2022,2,567,0.3527
+Other,Forecasting,2022,12,567,2.1164
+Other,Fundraising,2022,2,567,0.3527
+Other,GMP,2022,2,567,0.3527
+Other,Git,2022,2,567,0.3527
+Other,Google Analytics,2022,2,567,0.3527
+Other,Google Cloud Platform,2022,2,567,0.3527
+Other,Google Workspace,2022,4,567,0.7055
+Other,HIPAA,2022,2,567,0.3527
+Other,HRIS,2022,5,567,0.8818
+Other,HTML,2022,5,567,0.8818
+Other,Illustrator,2022,6,567,1.0582
+Other,InDesign,2022,5,567,0.8818
+Other,Intellectual Property,2022,5,567,0.8818
+Other,Interpersonal Skills,2022,49,567,8.642
+Other,Inventory Management,2022,7,567,1.2346
+Other,Investment Analysis,2022,2,567,0.3527
+Other,Java,2022,6,567,1.0582
+Other,JavaScript,2022,3,567,0.5291
+Other,Jira,2022,13,567,2.2928
+Other,LMS,2022,1,567,0.1764
+Other,Laboratory Skills,2022,2,567,0.3527
+Other,Leadership,2022,113,567,19.9295
+Other,Lean,2022,2,567,0.3527
+Other,LexisNexis,2022,2,567,0.3527
+Other,Linux,2022,6,567,1.0582
+Other,Litigation,2022,5,567,0.8818
+Other,MATLAB,2022,3,567,0.5291
+Other,Machine Learning,2022,3,567,0.5291
+Other,Market Research,2022,7,567,1.2346
+Other,Mechanical Engineering,2022,2,567,0.3527
+Other,Medical Terminology,2022,3,567,0.5291
+Other,Mental Health,2022,3,567,0.5291
+Other,Mentoring,2022,22,567,3.8801
+Other,Mergers and Acquisitions,2022,1,567,0.1764
+Other,Microsoft Excel,2022,99,567,17.4603
+Other,Microsoft Office,2022,102,567,17.9894
+Other,Microsoft PowerPoint,2022,39,567,6.8783
+Other,Microsoft Word,2022,17,567,2.9982
+Other,Mobile Development,2022,1,567,0.1764
+Other,Multitasking,2022,23,567,4.0564
+Other,Natural Language Processing,2022,1,567,0.1764
+Other,Negotiation,2022,36,567,6.3492
+Other,Networking,2022,24,567,4.2328
+Other,Node.js,2022,2,567,0.3527
+Other,Nursing,2022,3,567,0.5291
+Other,OSHA,2022,3,567,0.5291
+Other,Onboarding,2022,14,567,2.4691
+Other,Operations Management,2022,2,567,0.3527
+Other,Oracle,2022,11,567,1.94
+Other,Organizational Skills,2022,129,567,22.7513
+Other,PHP,2022,2,567,0.3527
+Other,PHR,2022,1,567,0.1764
+Other,PLC Programming,2022,20,567,3.5273
+Other,PMP,2022,2,567,0.3527
+Other,PPC Advertising,2022,2,567,0.3527
+Other,Paralegal Skills,2022,11,567,1.94
+Other,Patient Care,2022,20,567,3.5273
+Other,Payroll,2022,11,567,1.94
+Other,Perl,2022,6,567,1.0582
+Other,Pharmacy,2022,15,567,2.6455
+Other,Phlebotomy,2022,1,567,0.1764
+Other,Photoshop,2022,8,567,1.4109
+Other,Physical Therapy,2022,5,567,0.8818
+Other,Power BI,2022,4,567,0.7055
+Other,Predictive Modeling,2022,1,567,0.1764
+Other,Presentation Skills,2022,22,567,3.8801
+Other,Preventive Maintenance,2022,7,567,1.2346
+Other,Problem Solving,2022,124,567,21.8695
+Other,Process Improvement,2022,19,567,3.351
+Other,Procurement,2022,19,567,3.351
+Other,Project Management,2022,53,567,9.3474
+Other,Public Relations,2022,4,567,0.7055
+Other,Python,2022,24,567,4.2328
+Other,Quality Assurance,2022,44,567,7.7601
+Other,Quantitative Analysis,2022,8,567,1.4109
+Other,QuickBooks,2022,1,567,0.1764
+Other,Radiology,2022,23,567,4.0564
+Other,React,2022,5,567,0.8818
+Other,Recruiting,2022,48,567,8.4656
+Other,Relationship Management,2022,12,567,2.1164
+Other,Remote Work,2022,13,567,2.2928
+Other,Reporting,2022,87,567,15.3439
+Other,Research,2022,4,567,0.7055
+Other,Revenue Analysis,2022,1,567,0.1764
+Other,Risk Management,2022,29,567,5.1146
+Other,Robotics,2022,1,567,0.1764
+Other,Root Cause Analysis,2022,3,567,0.5291
+Other,Ruby,2022,2,567,0.3527
+Other,SAP,2022,21,567,3.7037
+Other,SAS,2022,5,567,0.8818
+Other,SDLC,2022,4,567,0.7055
+Other,SHRM,2022,4,567,0.7055
+Other,SQL,2022,36,567,6.3492
+Other,SQL Server,2022,2,567,0.3527
+Other,Sales,2022,3,567,0.5291
+Other,Salesforce,2022,6,567,1.0582
+Other,Scheduling,2022,38,567,6.7019
+Other,Scrum,2022,1,567,0.1764
+Other,Self-Motivated,2022,105,567,18.5185
+Other,Series 7,2022,3,567,0.5291
+Other,ServiceNow,2022,5,567,0.8818
+Other,Shell Scripting,2022,1,567,0.1764
+Other,Six Sigma,2022,1,567,0.1764
+Other,Sketch,2022,1,567,0.1764
+Other,Slack,2022,2,567,0.3527
+Other,Social Media,2022,20,567,3.5273
+Other,Social Media Marketing,2022,2,567,0.3527
+Other,SolidWorks,2022,1,567,0.1764
+Other,Special Education,2022,7,567,1.2346
+Other,Spring,2022,2,567,0.3527
+Other,Stakeholder Management,2022,1,567,0.1764
+Other,Statistical Analysis,2022,24,567,4.2328
+Other,Strategic Planning,2022,12,567,2.1164
+Other,Supply Chain Management,2022,28,567,4.9383
+Other,Survey Design,2022,8,567,1.4109
+Other,Tableau,2022,7,567,1.2346
+Other,Teamwork,2022,46,567,8.1129
+Other,Technical Writing,2022,5,567,0.8818
+Other,Telehealth,2022,2,567,0.3527
+Other,Time Management,2022,62,567,10.9347
+Other,TypeScript,2022,1,567,0.1764
+Other,UI Design,2022,1,567,0.1764
+Other,UX Design,2022,2,567,0.3527
+Other,Underwriting,2022,8,567,1.4109
+Other,VBA,2022,6,567,1.0582
+Other,Valuation,2022,9,567,1.5873
+Other,Vendor Management,2022,1,567,0.1764
+Other,Verbal Communication,2022,61,567,10.7584
+Other,Vital Signs,2022,1,567,0.1764
+Other,Web Development,2022,6,567,1.0582
+Other,Windows Server,2022,1,567,0.1764
+Other,Workday,2022,10,567,1.7637
+Other,Written Communication,2022,69,567,12.1693
+Project & Program Management,Academic Advising,2022,2,106,1.8868
+Project & Program Management,Accounting,2022,9,106,8.4906
+Project & Program Management,Adaptability,2022,25,106,23.5849
+Project & Program Management,Agile,2022,3,106,2.8302
+Project & Program Management,AutoCAD,2022,1,106,0.9434
+Project & Program Management,Bilingual,2022,2,106,1.8868
+Project & Program Management,Business Development,2022,6,106,5.6604
+Project & Program Management,CRM Software,2022,1,106,0.9434
+Project & Program Management,Civil Engineering,2022,1,106,0.9434
+Project & Program Management,Communication Skills,2022,40,106,37.7358
+Project & Program Management,Compliance,2022,25,106,23.5849
+Project & Program Management,Confluence,2022,1,106,0.9434
+Project & Program Management,Contract Review,2022,1,106,0.9434
+Project & Program Management,Cost Analysis,2022,3,106,2.8302
+Project & Program Management,Creative Thinking,2022,32,106,30.1887
+Project & Program Management,Critical Thinking,2022,6,106,5.6604
+Project & Program Management,Cross-Functional Collaboration,2022,6,106,5.6604
+Project & Program Management,Customer Service,2022,37,106,34.9057
+Project & Program Management,Cybersecurity,2022,2,106,1.8868
+Project & Program Management,Data Analysis,2022,15,106,14.1509
+Project & Program Management,Data Collection,2022,4,106,3.7736
+Project & Program Management,Data Entry,2022,3,106,2.8302
+Project & Program Management,Data Warehousing,2022,1,106,0.9434
+Project & Program Management,Database Management,2022,1,106,0.9434
+Project & Program Management,Decision Making,2022,6,106,5.6604
+Project & Program Management,DevOps,2022,1,106,0.9434
+Project & Program Management,Due Diligence,2022,2,106,1.8868
+Project & Program Management,ERP Systems,2022,1,106,0.9434
+Project & Program Management,Editing,2022,5,106,4.717
+Project & Program Management,Electrical Engineering,2022,2,106,1.8868
+Project & Program Management,Event Planning,2022,3,106,2.8302
+Project & Program Management,Filing,2022,3,106,2.8302
+Project & Program Management,Financial Analysis,2022,4,106,3.7736
+Project & Program Management,Financial Planning,2022,5,106,4.717
+Project & Program Management,Forecasting,2022,6,106,5.6604
+Project & Program Management,Fundraising,2022,3,106,2.8302
+Project & Program Management,Google Workspace,2022,2,106,1.8868
+Project & Program Management,HTML,2022,1,106,0.9434
+Project & Program Management,Intellectual Property,2022,3,106,2.8302
+Project & Program Management,Interpersonal Skills,2022,15,106,14.1509
+Project & Program Management,Investment Analysis,2022,2,106,1.8868
+Project & Program Management,Jira,2022,3,106,2.8302
+Project & Program Management,LMS,2022,2,106,1.8868
+Project & Program Management,Leadership,2022,43,106,40.566
+Project & Program Management,Machine Learning,2022,1,106,0.9434
+Project & Program Management,Market Research,2022,3,106,2.8302
+Project & Program Management,Medical Terminology,2022,2,106,1.8868
+Project & Program Management,Mental Health,2022,5,106,4.717
+Project & Program Management,Mentoring,2022,8,106,7.5472
+Project & Program Management,Microsoft Excel,2022,36,106,33.9623
+Project & Program Management,Microsoft Office,2022,34,106,32.0755
+Project & Program Management,Microsoft PowerPoint,2022,30,106,28.3019
+Project & Program Management,Microsoft Teams,2022,1,106,0.9434
+Project & Program Management,Microsoft Word,2022,4,106,3.7736
+Project & Program Management,Multitasking,2022,13,106,12.2642
+Project & Program Management,Natural Language Processing,2022,1,106,0.9434
+Project & Program Management,Negotiation,2022,2,106,1.8868
+Project & Program Management,Networking,2022,8,106,7.5472
+Project & Program Management,OSHA,2022,1,106,0.9434
+Project & Program Management,Onboarding,2022,2,106,1.8868
+Project & Program Management,Operations Management,2022,2,106,1.8868
+Project & Program Management,Oracle,2022,2,106,1.8868
+Project & Program Management,Organizational Skills,2022,44,106,41.5094
+Project & Program Management,PLC Programming,2022,10,106,9.434
+Project & Program Management,PMP,2022,1,106,0.9434
+Project & Program Management,Patient Care,2022,1,106,0.9434
+Project & Program Management,Payroll,2022,1,106,0.9434
+Project & Program Management,Pharmacy,2022,3,106,2.8302
+Project & Program Management,Power BI,2022,2,106,1.8868
+Project & Program Management,Presentation Skills,2022,2,106,1.8868
+Project & Program Management,Problem Solving,2022,25,106,23.5849
+Project & Program Management,Procurement,2022,5,106,4.717
+Project & Program Management,Project Management,2022,34,106,32.0755
+Project & Program Management,Python,2022,1,106,0.9434
+Project & Program Management,Quality Assurance,2022,7,106,6.6038
+Project & Program Management,Quantitative Analysis,2022,1,106,0.9434
+Project & Program Management,Recruiting,2022,6,106,5.6604
+Project & Program Management,Relationship Management,2022,4,106,3.7736
+Project & Program Management,Remote Work,2022,3,106,2.8302
+Project & Program Management,Reporting,2022,25,106,23.5849
+Project & Program Management,Research,2022,1,106,0.9434
+Project & Program Management,Risk Management,2022,5,106,4.717
+Project & Program Management,Root Cause Analysis,2022,1,106,0.9434
+Project & Program Management,SAP,2022,2,106,1.8868
+Project & Program Management,SAS,2022,2,106,1.8868
+Project & Program Management,SQL,2022,1,106,0.9434
+Project & Program Management,Salesforce,2022,1,106,0.9434
+Project & Program Management,Scheduling,2022,11,106,10.3774
+Project & Program Management,Scrum,2022,2,106,1.8868
+Project & Program Management,Self-Motivated,2022,21,106,19.8113
+Project & Program Management,ServiceNow,2022,1,106,0.9434
+Project & Program Management,Six Sigma,2022,1,106,0.9434
+Project & Program Management,Slack,2022,1,106,0.9434
+Project & Program Management,Social Media,2022,5,106,4.717
+Project & Program Management,Special Education,2022,1,106,0.9434
+Project & Program Management,Stakeholder Management,2022,1,106,0.9434
+Project & Program Management,Statistical Analysis,2022,1,106,0.9434
+Project & Program Management,Strategic Planning,2022,1,106,0.9434
+Project & Program Management,Tableau,2022,2,106,1.8868
+Project & Program Management,Teamwork,2022,24,106,22.6415
+Project & Program Management,Telehealth,2022,1,106,0.9434
+Project & Program Management,Time Management,2022,17,106,16.0377
+Project & Program Management,Trello,2022,1,106,0.9434
+Project & Program Management,Underwriting,2022,2,106,1.8868
+Project & Program Management,Valuation,2022,1,106,0.9434
+Project & Program Management,Vendor Management,2022,2,106,1.8868
+Project & Program Management,Verbal Communication,2022,16,106,15.0943
+Project & Program Management,WordPress,2022,1,106,0.9434
+Project & Program Management,Workday,2022,14,106,13.2075
+Project & Program Management,Written Communication,2022,15,106,14.1509
+Research & Science,Accounting,2022,6,60,10.0
+Research & Science,Active Listening,2022,1,60,1.6667
+Research & Science,Adaptability,2022,10,60,16.6667
+Research & Science,Artificial Intelligence,2022,2,60,3.3333
+Research & Science,Assembly,2022,1,60,1.6667
+Research & Science,Bilingual,2022,2,60,3.3333
+Research & Science,Bloomberg Terminal,2022,4,60,6.6667
+Research & Science,Budgeting,2022,1,60,1.6667
+Research & Science,Business Development,2022,1,60,1.6667
+Research & Science,CFA,2022,5,60,8.3333
+Research & Science,CPA,2022,2,60,3.3333
+Research & Science,CPR,2022,1,60,1.6667
+Research & Science,Chemical Engineering,2022,1,60,1.6667
+Research & Science,Clinical Research,2022,2,60,3.3333
+Research & Science,Communication Skills,2022,21,60,35.0
+Research & Science,Compliance,2022,6,60,10.0
+Research & Science,Creative Thinking,2022,12,60,20.0
+Research & Science,Critical Thinking,2022,2,60,3.3333
+Research & Science,Cross-Functional Collaboration,2022,1,60,1.6667
+Research & Science,Customer Service,2022,3,60,5.0
+Research & Science,Cybersecurity,2022,2,60,3.3333
+Research & Science,Data Analysis,2022,12,60,20.0
+Research & Science,Data Collection,2022,6,60,10.0
+Research & Science,Data Entry,2022,2,60,3.3333
+Research & Science,Data Mining,2022,1,60,1.6667
+Research & Science,Data Visualization,2022,1,60,1.6667
+Research & Science,Decision Making,2022,5,60,8.3333
+Research & Science,Due Diligence,2022,1,60,1.6667
+Research & Science,ERP Systems,2022,1,60,1.6667
+Research & Science,Editing,2022,6,60,10.0
+Research & Science,Emotional Intelligence,2022,1,60,1.6667
+Research & Science,Filing,2022,6,60,10.0
+Research & Science,Financial Analysis,2022,1,60,1.6667
+Research & Science,Financial Planning,2022,1,60,1.6667
+Research & Science,Flask,2022,1,60,1.6667
+Research & Science,Git,2022,1,60,1.6667
+Research & Science,Google Analytics,2022,1,60,1.6667
+Research & Science,Interpersonal Skills,2022,4,60,6.6667
+Research & Science,Inventory Management,2022,1,60,1.6667
+Research & Science,Investment Analysis,2022,2,60,3.3333
+Research & Science,Java,2022,2,60,3.3333
+Research & Science,Leadership,2022,6,60,10.0
+Research & Science,Linux,2022,4,60,6.6667
+Research & Science,Literature Review,2022,1,60,1.6667
+Research & Science,MATLAB,2022,3,60,5.0
+Research & Science,Machine Learning,2022,2,60,3.3333
+Research & Science,Market Research,2022,2,60,3.3333
+Research & Science,Medical Terminology,2022,2,60,3.3333
+Research & Science,Mentoring,2022,1,60,1.6667
+Research & Science,Microsoft Excel,2022,13,60,21.6667
+Research & Science,Microsoft Office,2022,8,60,13.3333
+Research & Science,Microsoft PowerPoint,2022,6,60,10.0
+Research & Science,Multitasking,2022,3,60,5.0
+Research & Science,Negotiation,2022,1,60,1.6667
+Research & Science,Networking,2022,1,60,1.6667
+Research & Science,OSHA,2022,1,60,1.6667
+Research & Science,Organizational Skills,2022,21,60,35.0
+Research & Science,PLC Programming,2022,2,60,3.3333
+Research & Science,Patient Care,2022,1,60,1.6667
+Research & Science,Payroll,2022,1,60,1.6667
+Research & Science,Perl,2022,1,60,1.6667
+Research & Science,Pharmacy,2022,1,60,1.6667
+Research & Science,Phlebotomy,2022,1,60,1.6667
+Research & Science,Power BI,2022,1,60,1.6667
+Research & Science,Preventive Maintenance,2022,1,60,1.6667
+Research & Science,Problem Solving,2022,8,60,13.3333
+Research & Science,Process Improvement,2022,2,60,3.3333
+Research & Science,Procurement,2022,3,60,5.0
+Research & Science,Project Management,2022,2,60,3.3333
+Research & Science,Python,2022,4,60,6.6667
+Research & Science,Quality Assurance,2022,7,60,11.6667
+Research & Science,Quantitative Analysis,2022,3,60,5.0
+Research & Science,Radiology,2022,5,60,8.3333
+Research & Science,React,2022,2,60,3.3333
+Research & Science,Recruiting,2022,5,60,8.3333
+Research & Science,Regression Analysis,2022,1,60,1.6667
+Research & Science,Reporting,2022,11,60,18.3333
+Research & Science,Risk Management,2022,2,60,3.3333
+Research & Science,SAP,2022,1,60,1.6667
+Research & Science,SAS,2022,1,60,1.6667
+Research & Science,SQL,2022,1,60,1.6667
+Research & Science,Scheduling,2022,1,60,1.6667
+Research & Science,Self-Motivated,2022,17,60,28.3333
+Research & Science,Series 7,2022,2,60,3.3333
+Research & Science,Statistical Analysis,2022,10,60,16.6667
+Research & Science,Strategic Planning,2022,2,60,3.3333
+Research & Science,Survey Design,2022,3,60,5.0
+Research & Science,Tableau,2022,1,60,1.6667
+Research & Science,Teamwork,2022,16,60,26.6667
+Research & Science,Time Management,2022,5,60,8.3333
+Research & Science,Valuation,2022,2,60,3.3333
+Research & Science,Verbal Communication,2022,3,60,5.0
+Research & Science,Web Development,2022,1,60,1.6667
+Research & Science,Written Communication,2022,9,60,15.0
+Sales & Business Development,Accounting,2022,6,174,3.4483
+Sales & Business Development,Active Listening,2022,1,174,0.5747
+Sales & Business Development,Adaptability,2022,60,174,34.4828
+Sales & Business Development,Agile,2022,12,174,6.8966
+Sales & Business Development,AutoCAD,2022,1,174,0.5747
+Sales & Business Development,Bilingual,2022,2,174,1.1494
+Sales & Business Development,Brand Management,2022,1,174,0.5747
+Sales & Business Development,Budgeting,2022,1,174,0.5747
+Sales & Business Development,Business Development,2022,27,174,15.5172
+Sales & Business Development,Business Intelligence,2022,2,174,1.1494
+Sales & Business Development,CAD,2022,4,174,2.2989
+Sales & Business Development,CFA,2022,8,174,4.5977
+Sales & Business Development,CRM Software,2022,27,174,15.5172
+Sales & Business Development,Clinical Research,2022,2,174,1.1494
+Sales & Business Development,Communication Skills,2022,68,174,39.0805
+Sales & Business Development,Compliance,2022,22,174,12.6437
+Sales & Business Development,Conflict Resolution,2022,1,174,0.5747
+Sales & Business Development,Content Marketing,2022,1,174,0.5747
+Sales & Business Development,Creative Thinking,2022,21,174,12.069
+Sales & Business Development,Cross-Functional Collaboration,2022,5,174,2.8736
+Sales & Business Development,Customer Service,2022,98,174,56.3218
+Sales & Business Development,Cybersecurity,2022,1,174,0.5747
+Sales & Business Development,Data Analysis,2022,18,174,10.3448
+Sales & Business Development,Data Collection,2022,1,174,0.5747
+Sales & Business Development,Data Entry,2022,8,174,4.5977
+Sales & Business Development,Decision Making,2022,10,174,5.7471
+Sales & Business Development,Digital Marketing,2022,1,174,0.5747
+Sales & Business Development,Due Diligence,2022,2,174,1.1494
+Sales & Business Development,ERP Systems,2022,1,174,0.5747
+Sales & Business Development,Editing,2022,1,174,0.5747
+Sales & Business Development,Electronic Health Records,2022,1,174,0.5747
+Sales & Business Development,Event Planning,2022,3,174,1.7241
+Sales & Business Development,Filing,2022,2,174,1.1494
+Sales & Business Development,Financial Analysis,2022,2,174,1.1494
+Sales & Business Development,Financial Planning,2022,17,174,9.7701
+Sales & Business Development,Forecasting,2022,2,174,1.1494
+Sales & Business Development,Google Analytics,2022,1,174,0.5747
+Sales & Business Development,Google Workspace,2022,3,174,1.7241
+Sales & Business Development,HIPAA,2022,1,174,0.5747
+Sales & Business Development,InDesign,2022,1,174,0.5747
+Sales & Business Development,Intellectual Property,2022,1,174,0.5747
+Sales & Business Development,Interpersonal Skills,2022,18,174,10.3448
+Sales & Business Development,Inventory Management,2022,4,174,2.2989
+Sales & Business Development,Investment Analysis,2022,4,174,2.2989
+Sales & Business Development,Jira,2022,3,174,1.7241
+Sales & Business Development,Leadership,2022,23,174,13.2184
+Sales & Business Development,Litigation,2022,1,174,0.5747
+Sales & Business Development,Machine Learning,2022,4,174,2.2989
+Sales & Business Development,Market Research,2022,4,174,2.2989
+Sales & Business Development,Marketing Analytics,2022,1,174,0.5747
+Sales & Business Development,Mechanical Engineering,2022,1,174,0.5747
+Sales & Business Development,Mental Health,2022,6,174,3.4483
+Sales & Business Development,Mentoring,2022,24,174,13.7931
+Sales & Business Development,Microsoft Excel,2022,40,174,22.9885
+Sales & Business Development,Microsoft Office,2022,37,174,21.2644
+Sales & Business Development,Microsoft PowerPoint,2022,24,174,13.7931
+Sales & Business Development,Microsoft Word,2022,5,174,2.8736
+Sales & Business Development,Mobile Development,2022,1,174,0.5747
+Sales & Business Development,Multitasking,2022,8,174,4.5977
+Sales & Business Development,Negotiation,2022,21,174,12.069
+Sales & Business Development,Networking,2022,8,174,4.5977
+Sales & Business Development,Onboarding,2022,8,174,4.5977
+Sales & Business Development,Operations Management,2022,1,174,0.5747
+Sales & Business Development,Oracle,2022,1,174,0.5747
+Sales & Business Development,Organizational Skills,2022,54,174,31.0345
+Sales & Business Development,PPC Advertising,2022,1,174,0.5747
+Sales & Business Development,Patient Care,2022,3,174,1.7241
+Sales & Business Development,Payroll,2022,6,174,3.4483
+Sales & Business Development,Power BI,2022,1,174,0.5747
+Sales & Business Development,Presentation Skills,2022,6,174,3.4483
+Sales & Business Development,Problem Solving,2022,20,174,11.4943
+Sales & Business Development,Process Improvement,2022,1,174,0.5747
+Sales & Business Development,Project Management,2022,5,174,2.8736
+Sales & Business Development,Python,2022,1,174,0.5747
+Sales & Business Development,Real Estate License,2022,1,174,0.5747
+Sales & Business Development,Recruiting,2022,10,174,5.7471
+Sales & Business Development,Relationship Management,2022,23,174,13.2184
+Sales & Business Development,Remote Work,2022,3,174,1.7241
+Sales & Business Development,Reporting,2022,9,174,5.1724
+Sales & Business Development,Research,2022,1,174,0.5747
+Sales & Business Development,Revenue Analysis,2022,4,174,2.2989
+Sales & Business Development,Risk Management,2022,2,174,1.1494
+Sales & Business Development,SAP,2022,2,174,1.1494
+Sales & Business Development,SAS,2022,2,174,1.1494
+Sales & Business Development,SEO,2022,1,174,0.5747
+Sales & Business Development,SQL,2022,2,174,1.1494
+Sales & Business Development,Sales,2022,65,174,37.3563
+Sales & Business Development,Salesforce,2022,8,174,4.5977
+Sales & Business Development,Scheduling,2022,8,174,4.5977
+Sales & Business Development,Self-Motivated,2022,52,174,29.8851
+Sales & Business Development,Series 63,2022,1,174,0.5747
+Sales & Business Development,Series 7,2022,8,174,4.5977
+Sales & Business Development,Social Media,2022,16,174,9.1954
+Sales & Business Development,Supply Chain Management,2022,3,174,1.7241
+Sales & Business Development,Survey Design,2022,7,174,4.023
+Sales & Business Development,Tableau,2022,3,174,1.7241
+Sales & Business Development,Teamwork,2022,30,174,17.2414
+Sales & Business Development,Telehealth,2022,12,174,6.8966
+Sales & Business Development,Time Management,2022,29,174,16.6667
+Sales & Business Development,Verbal Communication,2022,30,174,17.2414
+Sales & Business Development,Workday,2022,6,174,3.4483
+Sales & Business Development,Written Communication,2022,19,174,10.9195
+Software & Web Development,APIs,2022,73,292,25.0
+Software & Web Development,AWS,2022,42,292,14.3836
+Software & Web Development,Accounting,2022,7,292,2.3973
+Software & Web Development,Adaptability,2022,62,292,21.2329
+Software & Web Development,Adobe Creative Suite,2022,1,292,0.3425
+Software & Web Development,Agile,2022,87,292,29.7945
+Software & Web Development,Angular,2022,31,292,10.6164
+Software & Web Development,Artificial Intelligence,2022,9,292,3.0822
+Software & Web Development,Auditing,2022,1,292,0.3425
+Software & Web Development,Azure,2022,30,292,10.274
+Software & Web Development,Big Data,2022,17,292,5.8219
+Software & Web Development,Budgeting,2022,1,292,0.3425
+Software & Web Development,Business Intelligence,2022,9,292,3.0822
+Software & Web Development,C#,2022,1,292,0.3425
+Software & Web Development,CI/CD,2022,32,292,10.9589
+Software & Web Development,CISSP,2022,2,292,0.6849
+Software & Web Development,CRM Software,2022,3,292,1.0274
+Software & Web Development,CSS,2022,29,292,9.9315
+Software & Web Development,Chemical Engineering,2022,1,292,0.3425
+Software & Web Development,Cloud Computing,2022,15,292,5.137
+Software & Web Development,Communication Skills,2022,113,292,38.6986
+Software & Web Development,CompTIA,2022,3,292,1.0274
+Software & Web Development,Compliance,2022,19,292,6.5068
+Software & Web Development,Confluence,2022,6,292,2.0548
+Software & Web Development,Content Marketing,2022,1,292,0.3425
+Software & Web Development,Creative Thinking,2022,65,292,22.2603
+Software & Web Development,Critical Thinking,2022,2,292,0.6849
+Software & Web Development,Cross-Functional Collaboration,2022,18,292,6.1644
+Software & Web Development,Customer Service,2022,18,292,6.1644
+Software & Web Development,Cybersecurity,2022,24,292,8.2192
+Software & Web Development,Data Analysis,2022,26,292,8.9041
+Software & Web Development,Data Collection,2022,1,292,0.3425
+Software & Web Development,Data Engineering,2022,13,292,4.4521
+Software & Web Development,Data Entry,2022,2,292,0.6849
+Software & Web Development,Data Visualization,2022,6,292,2.0548
+Software & Web Development,Data Warehousing,2022,7,292,2.3973
+Software & Web Development,Database Management,2022,6,292,2.0548
+Software & Web Development,Decision Making,2022,7,292,2.3973
+Software & Web Development,Deep Learning,2022,4,292,1.3699
+Software & Web Development,DevOps,2022,36,292,12.3288
+Software & Web Development,Digital Marketing,2022,1,292,0.3425
+Software & Web Development,Django,2022,8,292,2.7397
+Software & Web Development,Docker,2022,26,292,8.9041
+Software & Web Development,ERP Systems,2022,8,292,2.7397
+Software & Web Development,Editing,2022,2,292,0.6849
+Software & Web Development,Educational Technology,2022,1,292,0.3425
+Software & Web Development,Elasticsearch,2022,1,292,0.3425
+Software & Web Development,Electrical Engineering,2022,29,292,9.9315
+Software & Web Development,Electronic Health Records,2022,1,292,0.3425
+Software & Web Development,Emotional Intelligence,2022,2,292,0.6849
+Software & Web Development,Failure Analysis,2022,1,292,0.3425
+Software & Web Development,Filing,2022,8,292,2.7397
+Software & Web Development,Financial Planning,2022,1,292,0.3425
+Software & Web Development,Flask,2022,2,292,0.6849
+Software & Web Development,Git,2022,52,292,17.8082
+Software & Web Development,Go,2022,13,292,4.4521
+Software & Web Development,Google Cloud Platform,2022,12,292,4.1096
+Software & Web Development,HIPAA,2022,2,292,0.6849
+Software & Web Development,HRIS,2022,1,292,0.3425
+Software & Web Development,HTML,2022,30,292,10.274
+Software & Web Development,Illustrator,2022,1,292,0.3425
+Software & Web Development,Intellectual Property,2022,1,292,0.3425
+Software & Web Development,Interpersonal Skills,2022,14,292,4.7945
+Software & Web Development,Java,2022,125,292,42.8082
+Software & Web Development,JavaScript,2022,82,292,28.0822
+Software & Web Development,Jira,2022,18,292,6.1644
+Software & Web Development,Kanban,2022,13,292,4.4521
+Software & Web Development,Kotlin,2022,6,292,2.0548
+Software & Web Development,Kubernetes,2022,15,292,5.137
+Software & Web Development,Leadership,2022,39,292,13.3562
+Software & Web Development,Linux,2022,73,292,25.0
+Software & Web Development,MATLAB,2022,7,292,2.3973
+Software & Web Development,Machine Learning,2022,16,292,5.4795
+Software & Web Development,Market Research,2022,1,292,0.3425
+Software & Web Development,Mechanical Engineering,2022,1,292,0.3425
+Software & Web Development,Mentoring,2022,6,292,2.0548
+Software & Web Development,Microsoft Excel,2022,14,292,4.7945
+Software & Web Development,Microsoft Office,2022,11,292,3.7671
+Software & Web Development,Microsoft PowerPoint,2022,3,292,1.0274
+Software & Web Development,Microsoft Teams,2022,1,292,0.3425
+Software & Web Development,Microsoft Word,2022,3,292,1.0274
+Software & Web Development,Mobile Development,2022,6,292,2.0548
+Software & Web Development,MongoDB,2022,7,292,2.3973
+Software & Web Development,Multitasking,2022,13,292,4.4521
+Software & Web Development,MySQL,2022,15,292,5.137
+Software & Web Development,Natural Language Processing,2022,4,292,1.3699
+Software & Web Development,Negotiation,2022,1,292,0.3425
+Software & Web Development,Networking,2022,21,292,7.1918
+Software & Web Development,NoSQL,2022,10,292,3.4247
+Software & Web Development,Node.js,2022,10,292,3.4247
+Software & Web Development,Objective-C,2022,4,292,1.3699
+Software & Web Development,Onboarding,2022,2,292,0.6849
+Software & Web Development,Oracle,2022,26,292,8.9041
+Software & Web Development,Organizational Skills,2022,22,292,7.5342
+Software & Web Development,PHP,2022,22,292,7.5342
+Software & Web Development,PLC Programming,2022,1,292,0.3425
+Software & Web Development,PMP,2022,2,292,0.6849
+Software & Web Development,Payroll,2022,2,292,0.6849
+Software & Web Development,Perl,2022,15,292,5.137
+Software & Web Development,Pharmacy,2022,2,292,0.6849
+Software & Web Development,Photoshop,2022,1,292,0.3425
+Software & Web Development,PostgreSQL,2022,8,292,2.7397
+Software & Web Development,Power BI,2022,4,292,1.3699
+Software & Web Development,Presentation Skills,2022,3,292,1.0274
+Software & Web Development,Problem Solving,2022,80,292,27.3973
+Software & Web Development,Process Improvement,2022,3,292,1.0274
+Software & Web Development,Procurement,2022,5,292,1.7123
+Software & Web Development,Project Management,2022,13,292,4.4521
+Software & Web Development,Python,2022,80,292,27.3973
+Software & Web Development,Quality Assurance,2022,27,292,9.2466
+Software & Web Development,Radiology,2022,1,292,0.3425
+Software & Web Development,React,2022,31,292,10.6164
+Software & Web Development,Recruiting,2022,21,292,7.1918
+Software & Web Development,Redis,2022,1,292,0.3425
+Software & Web Development,Relationship Management,2022,1,292,0.3425
+Software & Web Development,Remote Work,2022,8,292,2.7397
+Software & Web Development,Reporting,2022,13,292,4.4521
+Software & Web Development,Risk Management,2022,3,292,1.0274
+Software & Web Development,Robotics,2022,7,292,2.3973
+Software & Web Development,Root Cause Analysis,2022,2,292,0.6849
+Software & Web Development,Ruby,2022,14,292,4.7945
+Software & Web Development,SAP,2022,3,292,1.0274
+Software & Web Development,SAS,2022,3,292,1.0274
+Software & Web Development,SDLC,2022,47,292,16.0959
+Software & Web Development,SQL,2022,92,292,31.5068
+Software & Web Development,SQL Server,2022,23,292,7.8767
+Software & Web Development,Sales,2022,2,292,0.6849
+Software & Web Development,Salesforce,2022,6,292,2.0548
+Software & Web Development,Scala,2022,12,292,4.1096
+Software & Web Development,Scheduling,2022,7,292,2.3973
+Software & Web Development,Scrum,2022,35,292,11.9863
+Software & Web Development,Self-Motivated,2022,58,292,19.863
+Software & Web Development,ServiceNow,2022,1,292,0.3425
+Software & Web Development,Shell Scripting,2022,12,292,4.1096
+Software & Web Development,Six Sigma,2022,2,292,0.6849
+Software & Web Development,Slack,2022,1,292,0.3425
+Software & Web Development,Spring,2022,9,292,3.0822
+Software & Web Development,Statistical Analysis,2022,23,292,7.8767
+Software & Web Development,Strategic Planning,2022,2,292,0.6849
+Software & Web Development,Supply Chain Management,2022,8,292,2.7397
+Software & Web Development,Tableau,2022,6,292,2.0548
+Software & Web Development,Teamwork,2022,37,292,12.6712
+Software & Web Development,Technical Writing,2022,3,292,1.0274
+Software & Web Development,Time Management,2022,11,292,3.7671
+Software & Web Development,TypeScript,2022,11,292,3.7671
+Software & Web Development,UI Design,2022,20,292,6.8493
+Software & Web Development,UX Design,2022,8,292,2.7397
+Software & Web Development,VBA,2022,5,292,1.7123
+Software & Web Development,Verbal Communication,2022,28,292,9.589
+Software & Web Development,Vue.js,2022,6,292,2.0548
+Software & Web Development,Web Development,2022,57,292,19.5205
+Software & Web Development,Windows Server,2022,3,292,1.0274
+Software & Web Development,Workday,2022,1,292,0.3425
+Software & Web Development,Written Communication,2022,32,292,10.9589

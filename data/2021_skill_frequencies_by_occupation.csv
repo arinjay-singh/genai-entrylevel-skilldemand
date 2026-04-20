@@ -1,0 +1,2394 @@
+occupation_group,skill,year,count,n_postings,pct
+Administrative & Support,3D Printing,2021,1,502,0.1992
+Administrative & Support,APIs,2021,2,502,0.3984
+Administrative & Support,AWS,2021,1,502,0.1992
+Administrative & Support,Academic Advising,2021,3,502,0.5976
+Administrative & Support,Accounting,2021,41,502,8.1673
+Administrative & Support,Accounts Payable,2021,9,502,1.7928
+Administrative & Support,Accounts Receivable,2021,5,502,0.996
+Administrative & Support,Active Listening,2021,7,502,1.3944
+Administrative & Support,Adaptability,2021,136,502,27.0916
+Administrative & Support,Adobe Creative Suite,2021,3,502,0.5976
+Administrative & Support,Agile,2021,10,502,1.992
+Administrative & Support,Asana,2021,1,502,0.1992
+Administrative & Support,Auditing,2021,13,502,2.5896
+Administrative & Support,AutoCAD,2021,1,502,0.1992
+Administrative & Support,Azure,2021,7,502,1.3944
+Administrative & Support,Bilingual,2021,11,502,2.1912
+Administrative & Support,Bloomberg Terminal,2021,2,502,0.3984
+Administrative & Support,Brand Management,2021,3,502,0.5976
+Administrative & Support,Budgeting,2021,5,502,0.996
+Administrative & Support,Business Development,2021,11,502,2.1912
+Administrative & Support,Business Intelligence,2021,3,502,0.5976
+Administrative & Support,CAD,2021,3,502,0.5976
+Administrative & Support,CFA,2021,7,502,1.3944
+Administrative & Support,CI/CD,2021,1,502,0.1992
+Administrative & Support,CISSP,2021,1,502,0.1992
+Administrative & Support,CPA,2021,5,502,0.996
+Administrative & Support,CPR,2021,16,502,3.1873
+Administrative & Support,CRM Software,2021,4,502,0.7968
+Administrative & Support,CSS,2021,1,502,0.1992
+Administrative & Support,Care Coordination,2021,4,502,0.7968
+Administrative & Support,Case Management,2021,13,502,2.5896
+Administrative & Support,Certified Nursing,2021,1,502,0.1992
+Administrative & Support,Chemical Engineering,2021,2,502,0.3984
+Administrative & Support,Clinical Research,2021,3,502,0.5976
+Administrative & Support,Communication Skills,2021,152,502,30.2789
+Administrative & Support,Compliance,2021,85,502,16.9323
+Administrative & Support,Conflict Resolution,2021,9,502,1.7928
+Administrative & Support,Content Marketing,2021,1,502,0.1992
+Administrative & Support,Contract Review,2021,7,502,1.3944
+Administrative & Support,Copywriting,2021,3,502,0.5976
+Administrative & Support,Creative Thinking,2021,36,502,7.1713
+Administrative & Support,Critical Thinking,2021,9,502,1.7928
+Administrative & Support,Cross-Functional Collaboration,2021,17,502,3.3865
+Administrative & Support,Curriculum Development,2021,3,502,0.5976
+Administrative & Support,Customer Service,2021,101,502,20.1195
+Administrative & Support,Cybersecurity,2021,1,502,0.1992
+Administrative & Support,Data Analysis,2021,50,502,9.9602
+Administrative & Support,Data Collection,2021,5,502,0.996
+Administrative & Support,Data Engineering,2021,1,502,0.1992
+Administrative & Support,Data Entry,2021,17,502,3.3865
+Administrative & Support,Data Visualization,2021,1,502,0.1992
+Administrative & Support,Data Warehousing,2021,3,502,0.5976
+Administrative & Support,Database Management,2021,12,502,2.3904
+Administrative & Support,Decision Making,2021,20,502,3.9841
+Administrative & Support,DevOps,2021,1,502,0.1992
+Administrative & Support,Digital Marketing,2021,2,502,0.3984
+Administrative & Support,Due Diligence,2021,8,502,1.5936
+Administrative & Support,ERP Systems,2021,3,502,0.5976
+Administrative & Support,Editing,2021,26,502,5.1793
+Administrative & Support,Electronic Health Records,2021,2,502,0.3984
+Administrative & Support,Email Marketing,2021,4,502,0.7968
+Administrative & Support,Emotional Intelligence,2021,3,502,0.5976
+Administrative & Support,Event Planning,2021,17,502,3.3865
+Administrative & Support,Failure Analysis,2021,2,502,0.3984
+Administrative & Support,Filing,2021,17,502,3.3865
+Administrative & Support,Financial Analysis,2021,13,502,2.5896
+Administrative & Support,Financial Planning,2021,13,502,2.5896
+Administrative & Support,Financial Statements,2021,1,502,0.1992
+Administrative & Support,Forecasting,2021,17,502,3.3865
+Administrative & Support,Fundraising,2021,7,502,1.3944
+Administrative & Support,GMP,2021,4,502,0.7968
+Administrative & Support,Google Analytics,2021,2,502,0.3984
+Administrative & Support,Google Workspace,2021,7,502,1.3944
+Administrative & Support,HIPAA,2021,4,502,0.7968
+Administrative & Support,HRIS,2021,1,502,0.1992
+Administrative & Support,HTML,2021,7,502,1.3944
+Administrative & Support,ICD Coding,2021,3,502,0.5976
+Administrative & Support,Illustrator,2021,6,502,1.1952
+Administrative & Support,InDesign,2021,4,502,0.7968
+Administrative & Support,Instructional Design,2021,1,502,0.1992
+Administrative & Support,Intellectual Property,2021,3,502,0.5976
+Administrative & Support,Interpersonal Skills,2021,68,502,13.5458
+Administrative & Support,Inventory Management,2021,19,502,3.7849
+Administrative & Support,Investment Analysis,2021,3,502,0.5976
+Administrative & Support,Jira,2021,5,502,0.996
+Administrative & Support,Kubernetes,2021,1,502,0.1992
+Administrative & Support,LMS,2021,2,502,0.3984
+Administrative & Support,Leadership,2021,78,502,15.5378
+Administrative & Support,Legal Compliance,2021,1,502,0.1992
+Administrative & Support,Legal Research,2021,2,502,0.3984
+Administrative & Support,Litigation,2021,9,502,1.7928
+Administrative & Support,MATLAB,2021,2,502,0.3984
+Administrative & Support,Machine Learning,2021,3,502,0.5976
+Administrative & Support,Market Research,2021,8,502,1.5936
+Administrative & Support,Marketing Analytics,2021,1,502,0.1992
+Administrative & Support,Marketing Automation,2021,1,502,0.1992
+Administrative & Support,Marketo,2021,1,502,0.1992
+Administrative & Support,Medical Terminology,2021,2,502,0.3984
+Administrative & Support,Mental Health,2021,13,502,2.5896
+Administrative & Support,Mentoring,2021,31,502,6.1753
+Administrative & Support,Mergers and Acquisitions,2021,6,502,1.1952
+Administrative & Support,Microsoft Excel,2021,151,502,30.0797
+Administrative & Support,Microsoft Office,2021,128,502,25.498
+Administrative & Support,Microsoft PowerPoint,2021,54,502,10.757
+Administrative & Support,Microsoft Teams,2021,2,502,0.3984
+Administrative & Support,Microsoft Word,2021,26,502,5.1793
+Administrative & Support,Multitasking,2021,47,502,9.3625
+Administrative & Support,Natural Language Processing,2021,3,502,0.5976
+Administrative & Support,Negotiation,2021,16,502,3.1873
+Administrative & Support,Networking,2021,9,502,1.7928
+Administrative & Support,NoSQL,2021,1,502,0.1992
+Administrative & Support,Nursing,2021,1,502,0.1992
+Administrative & Support,OSHA,2021,2,502,0.3984
+Administrative & Support,Onboarding,2021,13,502,2.5896
+Administrative & Support,Oracle,2021,5,502,0.996
+Administrative & Support,Organizational Skills,2021,172,502,34.2629
+Administrative & Support,PHP,2021,2,502,0.3984
+Administrative & Support,PHR,2021,1,502,0.1992
+Administrative & Support,PMP,2021,2,502,0.3984
+Administrative & Support,PPC Advertising,2021,2,502,0.3984
+Administrative & Support,Paralegal Skills,2021,1,502,0.1992
+Administrative & Support,Patient Care,2021,20,502,3.9841
+Administrative & Support,Payroll,2021,22,502,4.3825
+Administrative & Support,Perl,2021,1,502,0.1992
+Administrative & Support,Pharmacy,2021,5,502,0.996
+Administrative & Support,Photoshop,2021,12,502,2.3904
+Administrative & Support,Physical Therapy,2021,8,502,1.5936
+Administrative & Support,Power BI,2021,3,502,0.5976
+Administrative & Support,Presentation Skills,2021,35,502,6.9721
+Administrative & Support,Preventive Maintenance,2021,1,502,0.1992
+Administrative & Support,Problem Solving,2021,74,502,14.741
+Administrative & Support,Process Improvement,2021,9,502,1.7928
+Administrative & Support,Procurement,2021,24,502,4.7809
+Administrative & Support,Project Management,2021,42,502,8.3665
+Administrative & Support,Public Relations,2021,8,502,1.5936
+Administrative & Support,Python,2021,8,502,1.5936
+Administrative & Support,Quality Assurance,2021,27,502,5.3785
+Administrative & Support,Quality Management Systems,2021,1,502,0.1992
+Administrative & Support,Quantitative Analysis,2021,4,502,0.7968
+Administrative & Support,Radiology,2021,4,502,0.7968
+Administrative & Support,React,2021,3,502,0.5976
+Administrative & Support,Recruiting,2021,47,502,9.3625
+Administrative & Support,Relationship Management,2021,14,502,2.7888
+Administrative & Support,Remote Work,2021,14,502,2.7888
+Administrative & Support,Reporting,2021,86,502,17.1315
+Administrative & Support,Research,2021,9,502,1.7928
+Administrative & Support,Risk Management,2021,17,502,3.3865
+Administrative & Support,Root Cause Analysis,2021,2,502,0.3984
+Administrative & Support,SAP,2021,7,502,1.3944
+Administrative & Support,SAS,2021,4,502,0.7968
+Administrative & Support,SDLC,2021,6,502,1.1952
+Administrative & Support,SEO,2021,7,502,1.3944
+Administrative & Support,SHRM,2021,1,502,0.1992
+Administrative & Support,SQL,2021,5,502,0.996
+Administrative & Support,SQL Server,2021,1,502,0.1992
+Administrative & Support,Sales,2021,20,502,3.9841
+Administrative & Support,Salesforce,2021,10,502,1.992
+Administrative & Support,Scheduling,2021,43,502,8.5657
+Administrative & Support,Scrum,2021,2,502,0.3984
+Administrative & Support,Self-Motivated,2021,123,502,24.502
+Administrative & Support,Six Sigma,2021,2,502,0.3984
+Administrative & Support,Sketch,2021,1,502,0.1992
+Administrative & Support,Slack,2021,2,502,0.3984
+Administrative & Support,Social Media,2021,30,502,5.9761
+Administrative & Support,SolidWorks,2021,1,502,0.1992
+Administrative & Support,Special Education,2021,1,502,0.1992
+Administrative & Support,Statistical Analysis,2021,8,502,1.5936
+Administrative & Support,Strategic Planning,2021,14,502,2.7888
+Administrative & Support,Supply Chain Management,2021,10,502,1.992
+Administrative & Support,Survey Design,2021,3,502,0.5976
+Administrative & Support,Tableau,2021,2,502,0.3984
+Administrative & Support,Tax Preparation,2021,1,502,0.1992
+Administrative & Support,Teamwork,2021,81,502,16.1355
+Administrative & Support,Technical Writing,2021,3,502,0.5976
+Administrative & Support,Time Management,2021,76,502,15.1394
+Administrative & Support,Trello,2021,1,502,0.1992
+Administrative & Support,Tutoring,2021,1,502,0.1992
+Administrative & Support,UX Design,2021,1,502,0.1992
+Administrative & Support,Underwriting,2021,17,502,3.3865
+Administrative & Support,VBA,2021,2,502,0.3984
+Administrative & Support,Valuation,2021,10,502,1.992
+Administrative & Support,Vendor Management,2021,3,502,0.5976
+Administrative & Support,Verbal Communication,2021,31,502,6.1753
+Administrative & Support,Web Development,2021,1,502,0.1992
+Administrative & Support,Windows Server,2021,3,502,0.5976
+Administrative & Support,Workday,2021,8,502,1.5936
+Administrative & Support,Written Communication,2021,58,502,11.5538
+Compliance & Risk,Accounting,2021,10,102,9.8039
+Compliance & Risk,Adaptability,2021,16,102,15.6863
+Compliance & Risk,Agile,2021,2,102,1.9608
+Compliance & Risk,Auditing,2021,18,102,17.6471
+Compliance & Risk,Big Data,2021,2,102,1.9608
+Compliance & Risk,Bilingual,2021,1,102,0.9804
+Compliance & Risk,Bloomberg Terminal,2021,2,102,1.9608
+Compliance & Risk,Business Development,2021,2,102,1.9608
+Compliance & Risk,Business Intelligence,2021,2,102,1.9608
+Compliance & Risk,CFA,2021,2,102,1.9608
+Compliance & Risk,CISSP,2021,6,102,5.8824
+Compliance & Risk,CRM Software,2021,1,102,0.9804
+Compliance & Risk,Case Management,2021,1,102,0.9804
+Compliance & Risk,Cloud Computing,2021,1,102,0.9804
+Compliance & Risk,Communication Skills,2021,50,102,49.0196
+Compliance & Risk,Compliance,2021,81,102,79.4118
+Compliance & Risk,Conflict Resolution,2021,1,102,0.9804
+Compliance & Risk,Creative Thinking,2021,14,102,13.7255
+Compliance & Risk,Critical Thinking,2021,6,102,5.8824
+Compliance & Risk,Cross-Functional Collaboration,2021,12,102,11.7647
+Compliance & Risk,Customer Service,2021,12,102,11.7647
+Compliance & Risk,Cybersecurity,2021,19,102,18.6275
+Compliance & Risk,Data Analysis,2021,21,102,20.5882
+Compliance & Risk,Data Collection,2021,2,102,1.9608
+Compliance & Risk,Data Engineering,2021,2,102,1.9608
+Compliance & Risk,Data Entry,2021,1,102,0.9804
+Compliance & Risk,Data Mining,2021,1,102,0.9804
+Compliance & Risk,Data Visualization,2021,1,102,0.9804
+Compliance & Risk,Database Management,2021,1,102,0.9804
+Compliance & Risk,Decision Making,2021,10,102,9.8039
+Compliance & Risk,Due Diligence,2021,5,102,4.902
+Compliance & Risk,ERP Systems,2021,1,102,0.9804
+Compliance & Risk,Electronic Health Records,2021,1,102,0.9804
+Compliance & Risk,Environmental Engineering,2021,1,102,0.9804
+Compliance & Risk,Filing,2021,2,102,1.9608
+Compliance & Risk,GMP,2021,4,102,3.9216
+Compliance & Risk,HIPAA,2021,7,102,6.8627
+Compliance & Risk,HRIS,2021,2,102,1.9608
+Compliance & Risk,HTML,2021,1,102,0.9804
+Compliance & Risk,Interpersonal Skills,2021,8,102,7.8431
+Compliance & Risk,Leadership,2021,24,102,23.5294
+Compliance & Risk,Legal Compliance,2021,1,102,0.9804
+Compliance & Risk,Linux,2021,2,102,1.9608
+Compliance & Risk,Litigation,2021,1,102,0.9804
+Compliance & Risk,Machine Learning,2021,2,102,1.9608
+Compliance & Risk,Marketing Automation,2021,1,102,0.9804
+Compliance & Risk,Mental Health,2021,1,102,0.9804
+Compliance & Risk,Mentoring,2021,6,102,5.8824
+Compliance & Risk,Microsoft Excel,2021,34,102,33.3333
+Compliance & Risk,Microsoft Office,2021,31,102,30.3922
+Compliance & Risk,Microsoft PowerPoint,2021,10,102,9.8039
+Compliance & Risk,Microsoft Word,2021,3,102,2.9412
+Compliance & Risk,Multitasking,2021,9,102,8.8235
+Compliance & Risk,MySQL,2021,1,102,0.9804
+Compliance & Risk,Negotiation,2021,3,102,2.9412
+Compliance & Risk,Networking,2021,1,102,0.9804
+Compliance & Risk,Onboarding,2021,3,102,2.9412
+Compliance & Risk,Operations Management,2021,2,102,1.9608
+Compliance & Risk,Oracle,2021,1,102,0.9804
+Compliance & Risk,Organizational Skills,2021,37,102,36.2745
+Compliance & Risk,PMP,2021,2,102,1.9608
+Compliance & Risk,PPC Advertising,2021,2,102,1.9608
+Compliance & Risk,Paralegal Skills,2021,4,102,3.9216
+Compliance & Risk,Patient Care,2021,2,102,1.9608
+Compliance & Risk,Payroll,2021,3,102,2.9412
+Compliance & Risk,Power BI,2021,3,102,2.9412
+Compliance & Risk,Presentation Skills,2021,7,102,6.8627
+Compliance & Risk,Problem Solving,2021,24,102,23.5294
+Compliance & Risk,Process Improvement,2021,3,102,2.9412
+Compliance & Risk,Procurement,2021,3,102,2.9412
+Compliance & Risk,Project Management,2021,13,102,12.7451
+Compliance & Risk,Python,2021,5,102,4.902
+Compliance & Risk,Quality Assurance,2021,9,102,8.8235
+Compliance & Risk,Quality Management Systems,2021,2,102,1.9608
+Compliance & Risk,Quantitative Analysis,2021,1,102,0.9804
+Compliance & Risk,Radiology,2021,1,102,0.9804
+Compliance & Risk,Recruiting,2021,12,102,11.7647
+Compliance & Risk,Regulatory Affairs,2021,5,102,4.902
+Compliance & Risk,Relationship Management,2021,3,102,2.9412
+Compliance & Risk,Remote Work,2021,5,102,4.902
+Compliance & Risk,Reporting,2021,34,102,33.3333
+Compliance & Risk,Research,2021,1,102,0.9804
+Compliance & Risk,Risk Management,2021,28,102,27.451
+Compliance & Risk,Robotics,2021,3,102,2.9412
+Compliance & Risk,Root Cause Analysis,2021,5,102,4.902
+Compliance & Risk,SAP,2021,2,102,1.9608
+Compliance & Risk,SAS,2021,7,102,6.8627
+Compliance & Risk,SDLC,2021,1,102,0.9804
+Compliance & Risk,SEO,2021,1,102,0.9804
+Compliance & Risk,SQL,2021,13,102,12.7451
+Compliance & Risk,Scheduling,2021,1,102,0.9804
+Compliance & Risk,Self-Motivated,2021,29,102,28.4314
+Compliance & Risk,Series 7,2021,2,102,1.9608
+Compliance & Risk,Statistical Analysis,2021,2,102,1.9608
+Compliance & Risk,Strategic Planning,2021,2,102,1.9608
+Compliance & Risk,Supply Chain Management,2021,6,102,5.8824
+Compliance & Risk,Tableau,2021,7,102,6.8627
+Compliance & Risk,Teamwork,2021,12,102,11.7647
+Compliance & Risk,Technical Writing,2021,3,102,2.9412
+Compliance & Risk,Time Management,2021,15,102,14.7059
+Compliance & Risk,Underwriting,2021,2,102,1.9608
+Compliance & Risk,VBA,2021,4,102,3.9216
+Compliance & Risk,Vendor Management,2021,1,102,0.9804
+Compliance & Risk,Verbal Communication,2021,16,102,15.6863
+Compliance & Risk,Web Development,2021,1,102,0.9804
+Compliance & Risk,Written Communication,2021,16,102,15.6863
+Data & Analytics,APIs,2021,8,282,2.8369
+Data & Analytics,AWS,2021,16,282,5.6738
+Data & Analytics,Accounting,2021,29,282,10.2837
+Data & Analytics,Accounts Payable,2021,1,282,0.3546
+Data & Analytics,Accounts Receivable,2021,1,282,0.3546
+Data & Analytics,Adaptability,2021,48,282,17.0213
+Data & Analytics,Agile,2021,45,282,15.9574
+Data & Analytics,Artificial Intelligence,2021,9,282,3.1915
+Data & Analytics,Auditing,2021,4,282,1.4184
+Data & Analytics,Azure,2021,16,282,5.6738
+Data & Analytics,Big Data,2021,19,282,6.7376
+Data & Analytics,Bilingual,2021,1,282,0.3546
+Data & Analytics,Bloomberg Terminal,2021,2,282,0.7092
+Data & Analytics,Brand Management,2021,1,282,0.3546
+Data & Analytics,Budgeting,2021,3,282,1.0638
+Data & Analytics,Business Development,2021,8,282,2.8369
+Data & Analytics,Business Intelligence,2021,57,282,20.2128
+Data & Analytics,CFA,2021,2,282,0.7092
+Data & Analytics,CI/CD,2021,5,282,1.773
+Data & Analytics,CNC,2021,2,282,0.7092
+Data & Analytics,CRM Software,2021,18,282,6.383
+Data & Analytics,CSS,2021,3,282,1.0638
+Data & Analytics,Case Management,2021,3,282,1.0638
+Data & Analytics,Clinical Research,2021,1,282,0.3546
+Data & Analytics,Cloud Computing,2021,12,282,4.2553
+Data & Analytics,Communication Skills,2021,120,282,42.5532
+Data & Analytics,Compliance,2021,35,282,12.4113
+Data & Analytics,Computer Vision,2021,3,282,1.0638
+Data & Analytics,Conflict Resolution,2021,4,282,1.4184
+Data & Analytics,Confluence,2021,16,282,5.6738
+Data & Analytics,Content Marketing,2021,5,282,1.773
+Data & Analytics,Cost Analysis,2021,1,282,0.3546
+Data & Analytics,Creative Thinking,2021,54,282,19.1489
+Data & Analytics,Critical Thinking,2021,13,282,4.6099
+Data & Analytics,Cross-Functional Collaboration,2021,36,282,12.766
+Data & Analytics,Customer Service,2021,28,282,9.9291
+Data & Analytics,Cybersecurity,2021,3,282,1.0638
+Data & Analytics,Data Analysis,2021,119,282,42.1986
+Data & Analytics,Data Collection,2021,23,282,8.156
+Data & Analytics,Data Engineering,2021,23,282,8.156
+Data & Analytics,Data Entry,2021,5,282,1.773
+Data & Analytics,Data Mining,2021,18,282,6.383
+Data & Analytics,Data Visualization,2021,26,282,9.2199
+Data & Analytics,Data Warehousing,2021,23,282,8.156
+Data & Analytics,Database Management,2021,8,282,2.8369
+Data & Analytics,Decision Making,2021,16,282,5.6738
+Data & Analytics,Deep Learning,2021,6,282,2.1277
+Data & Analytics,DevOps,2021,5,282,1.773
+Data & Analytics,Digital Marketing,2021,7,282,2.4823
+Data & Analytics,Docker,2021,5,282,1.773
+Data & Analytics,Due Diligence,2021,4,282,1.4184
+Data & Analytics,ERP Systems,2021,7,282,2.4823
+Data & Analytics,Editing,2021,3,282,1.0638
+Data & Analytics,Elasticsearch,2021,1,282,0.3546
+Data & Analytics,Electrical Engineering,2021,1,282,0.3546
+Data & Analytics,Electronic Health Records,2021,4,282,1.4184
+Data & Analytics,Emotional Intelligence,2021,1,282,0.3546
+Data & Analytics,Environmental Engineering,2021,1,282,0.3546
+Data & Analytics,FDA Regulations,2021,1,282,0.3546
+Data & Analytics,Failure Analysis,2021,1,282,0.3546
+Data & Analytics,Financial Analysis,2021,10,282,3.5461
+Data & Analytics,Financial Planning,2021,4,282,1.4184
+Data & Analytics,Forecasting,2021,16,282,5.6738
+Data & Analytics,GMP,2021,1,282,0.3546
+Data & Analytics,Git,2021,4,282,1.4184
+Data & Analytics,Google Analytics,2021,7,282,2.4823
+Data & Analytics,Google Cloud Platform,2021,16,282,5.6738
+Data & Analytics,Google Workspace,2021,7,282,2.4823
+Data & Analytics,HIPAA,2021,1,282,0.3546
+Data & Analytics,HTML,2021,4,282,1.4184
+Data & Analytics,ICD Coding,2021,1,282,0.3546
+Data & Analytics,Intellectual Property,2021,3,282,1.0638
+Data & Analytics,Interpersonal Skills,2021,40,282,14.1844
+Data & Analytics,Inventory Management,2021,1,282,0.3546
+Data & Analytics,Investment Analysis,2021,1,282,0.3546
+Data & Analytics,Java,2021,10,282,3.5461
+Data & Analytics,JavaScript,2021,6,282,2.1277
+Data & Analytics,Jira,2021,26,282,9.2199
+Data & Analytics,Kanban,2021,2,282,0.7092
+Data & Analytics,Leadership,2021,52,282,18.4397
+Data & Analytics,Lean,2021,1,282,0.3546
+Data & Analytics,Legal Research,2021,1,282,0.3546
+Data & Analytics,Linux,2021,5,282,1.773
+Data & Analytics,Litigation,2021,1,282,0.3546
+Data & Analytics,Machine Learning,2021,27,282,9.5745
+Data & Analytics,Market Research,2021,4,282,1.4184
+Data & Analytics,Marketing Analytics,2021,4,282,1.4184
+Data & Analytics,Marketing Automation,2021,2,282,0.7092
+Data & Analytics,Marketo,2021,1,282,0.3546
+Data & Analytics,Medical Terminology,2021,1,282,0.3546
+Data & Analytics,Mental Health,2021,1,282,0.3546
+Data & Analytics,Mentoring,2021,5,282,1.773
+Data & Analytics,Microsoft Excel,2021,93,282,32.9787
+Data & Analytics,Microsoft Office,2021,37,282,13.1206
+Data & Analytics,Microsoft PowerPoint,2021,41,282,14.539
+Data & Analytics,Microsoft Word,2021,5,282,1.773
+Data & Analytics,Multitasking,2021,8,282,2.8369
+Data & Analytics,MySQL,2021,4,282,1.4184
+Data & Analytics,Natural Language Processing,2021,6,282,2.1277
+Data & Analytics,Negotiation,2021,6,282,2.1277
+Data & Analytics,Networking,2021,9,282,3.1915
+Data & Analytics,NoSQL,2021,6,282,2.1277
+Data & Analytics,OSHA,2021,1,282,0.3546
+Data & Analytics,Onboarding,2021,7,282,2.4823
+Data & Analytics,Oracle,2021,15,282,5.3191
+Data & Analytics,Organizational Skills,2021,81,282,28.7234
+Data & Analytics,PLC Programming,2021,2,282,0.7092
+Data & Analytics,PMP,2021,3,282,1.0638
+Data & Analytics,PPC Advertising,2021,3,282,1.0638
+Data & Analytics,Paralegal Skills,2021,1,282,0.3546
+Data & Analytics,Patient Care,2021,2,282,0.7092
+Data & Analytics,Payroll,2021,3,282,1.0638
+Data & Analytics,Perl,2021,3,282,1.0638
+Data & Analytics,PostgreSQL,2021,3,282,1.0638
+Data & Analytics,Power BI,2021,35,282,12.4113
+Data & Analytics,Predictive Modeling,2021,5,282,1.773
+Data & Analytics,Presentation Skills,2021,33,282,11.7021
+Data & Analytics,Preventive Maintenance,2021,4,282,1.4184
+Data & Analytics,Problem Solving,2021,92,282,32.6241
+Data & Analytics,Process Improvement,2021,6,282,2.1277
+Data & Analytics,Procurement,2021,12,282,4.2553
+Data & Analytics,Project Management,2021,43,282,15.2482
+Data & Analytics,Public Relations,2021,1,282,0.3546
+Data & Analytics,Python,2021,70,282,24.8227
+Data & Analytics,Quality Assurance,2021,42,282,14.8936
+Data & Analytics,Quantitative Analysis,2021,9,282,3.1915
+Data & Analytics,QuickBooks,2021,1,282,0.3546
+Data & Analytics,R Programming,2021,3,282,1.0638
+Data & Analytics,React,2021,1,282,0.3546
+Data & Analytics,Recruiting,2021,24,282,8.5106
+Data & Analytics,Regression Analysis,2021,4,282,1.4184
+Data & Analytics,Relationship Management,2021,10,282,3.5461
+Data & Analytics,Remote Work,2021,12,282,4.2553
+Data & Analytics,Reporting,2021,104,282,36.8794
+Data & Analytics,Research,2021,5,282,1.773
+Data & Analytics,Revenue Analysis,2021,4,282,1.4184
+Data & Analytics,Risk Management,2021,8,282,2.8369
+Data & Analytics,Robotics,2021,5,282,1.773
+Data & Analytics,Root Cause Analysis,2021,6,282,2.1277
+Data & Analytics,SAP,2021,13,282,4.6099
+Data & Analytics,SAS,2021,18,282,6.383
+Data & Analytics,SDLC,2021,11,282,3.9007
+Data & Analytics,SEO,2021,2,282,0.7092
+Data & Analytics,SQL,2021,122,282,43.2624
+Data & Analytics,SQL Server,2021,9,282,3.1915
+Data & Analytics,Sales,2021,7,282,2.4823
+Data & Analytics,Salesforce,2021,13,282,4.6099
+Data & Analytics,Scala,2021,2,282,0.7092
+Data & Analytics,Scheduling,2021,5,282,1.773
+Data & Analytics,Scientific Writing,2021,2,282,0.7092
+Data & Analytics,Scrum,2021,17,282,6.0284
+Data & Analytics,Self-Motivated,2021,76,282,26.9504
+Data & Analytics,ServiceNow,2021,1,282,0.3546
+Data & Analytics,Shell Scripting,2021,1,282,0.3546
+Data & Analytics,Six Sigma,2021,6,282,2.1277
+Data & Analytics,Social Media,2021,4,282,1.4184
+Data & Analytics,Social Media Marketing,2021,1,282,0.3546
+Data & Analytics,Statistical Analysis,2021,88,282,31.2057
+Data & Analytics,Strategic Planning,2021,10,282,3.5461
+Data & Analytics,Supply Chain Management,2021,13,282,4.6099
+Data & Analytics,Survey Design,2021,2,282,0.7092
+Data & Analytics,Tableau,2021,68,282,24.1135
+Data & Analytics,Tax Preparation,2021,1,282,0.3546
+Data & Analytics,Teamwork,2021,53,282,18.7943
+Data & Analytics,Technical Writing,2021,5,282,1.773
+Data & Analytics,Telehealth,2021,1,282,0.3546
+Data & Analytics,Time Management,2021,36,282,12.766
+Data & Analytics,Trello,2021,3,282,1.0638
+Data & Analytics,UX Design,2021,2,282,0.7092
+Data & Analytics,Underwriting,2021,2,282,0.7092
+Data & Analytics,VBA,2021,8,282,2.8369
+Data & Analytics,Valuation,2021,5,282,1.773
+Data & Analytics,Vendor Management,2021,2,282,0.7092
+Data & Analytics,Verbal Communication,2021,31,282,10.9929
+Data & Analytics,Vue.js,2021,1,282,0.3546
+Data & Analytics,Web Development,2021,4,282,1.4184
+Data & Analytics,Westlaw,2021,2,282,0.7092
+Data & Analytics,Workday,2021,4,282,1.4184
+Data & Analytics,Written Communication,2021,41,282,14.539
+Education & Training,Academic Advising,2021,1,201,0.4975
+Education & Training,Accounting,2021,12,201,5.9701
+Education & Training,Active Listening,2021,2,201,0.995
+Education & Training,Adaptability,2021,14,201,6.9652
+Education & Training,Artificial Intelligence,2021,4,201,1.99
+Education & Training,Auditing,2021,1,201,0.4975
+Education & Training,Big Data,2021,3,201,1.4925
+Education & Training,Bilingual,2021,10,201,4.9751
+Education & Training,Bloomberg Terminal,2021,5,201,2.4876
+Education & Training,CAD,2021,3,201,1.4925
+Education & Training,CFA,2021,1,201,0.4975
+Education & Training,CISSP,2021,2,201,0.995
+Education & Training,CNC,2021,3,201,1.4925
+Education & Training,CPA,2021,2,201,0.995
+Education & Training,CPR,2021,8,201,3.9801
+Education & Training,CRM Software,2021,1,201,0.4975
+Education & Training,Civil Engineering,2021,1,201,0.4975
+Education & Training,Classroom Management,2021,12,201,5.9701
+Education & Training,Clinical Research,2021,1,201,0.4975
+Education & Training,Cloud Computing,2021,1,201,0.4975
+Education & Training,Communication Skills,2021,29,201,14.4279
+Education & Training,Compliance,2021,10,201,4.9751
+Education & Training,Creative Thinking,2021,19,201,9.4527
+Education & Training,Critical Thinking,2021,7,201,3.4826
+Education & Training,Curriculum Development,2021,11,201,5.4726
+Education & Training,Customer Service,2021,4,201,1.99
+Education & Training,Cybersecurity,2021,9,201,4.4776
+Education & Training,Data Analysis,2021,40,201,19.9005
+Education & Training,Data Entry,2021,1,201,0.4975
+Education & Training,Data Mining,2021,4,201,1.99
+Education & Training,Data Visualization,2021,1,201,0.4975
+Education & Training,Database Management,2021,3,201,1.4925
+Education & Training,Decision Making,2021,2,201,0.995
+Education & Training,Deep Learning,2021,1,201,0.4975
+Education & Training,Digital Marketing,2021,1,201,0.4975
+Education & Training,Educational Technology,2021,1,201,0.4975
+Education & Training,Electrical Engineering,2021,1,201,0.4975
+Education & Training,Emotional Intelligence,2021,1,201,0.4975
+Education & Training,Event Planning,2021,2,201,0.995
+Education & Training,Filing,2021,1,201,0.4975
+Education & Training,Financial Planning,2021,1,201,0.4975
+Education & Training,Fundraising,2021,1,201,0.4975
+Education & Training,Google Workspace,2021,1,201,0.4975
+Education & Training,Grant Writing,2021,1,201,0.4975
+Education & Training,HTML,2021,6,201,2.9851
+Education & Training,Interpersonal Skills,2021,8,201,3.9801
+Education & Training,JavaScript,2021,1,201,0.4975
+Education & Training,LMS,2021,1,201,0.4975
+Education & Training,Leadership,2021,23,201,11.4428
+Education & Training,Machine Learning,2021,7,201,3.4826
+Education & Training,Marketing Analytics,2021,1,201,0.4975
+Education & Training,Marketing Automation,2021,1,201,0.4975
+Education & Training,Materials Science,2021,3,201,1.4925
+Education & Training,Mechanical Engineering,2021,8,201,3.9801
+Education & Training,Mental Health,2021,2,201,0.995
+Education & Training,Mentoring,2021,83,201,41.2935
+Education & Training,Microsoft Excel,2021,27,201,13.4328
+Education & Training,Microsoft Office,2021,7,201,3.4826
+Education & Training,Microsoft PowerPoint,2021,4,201,1.99
+Education & Training,Microsoft Word,2021,1,201,0.4975
+Education & Training,Multitasking,2021,7,201,3.4826
+Education & Training,Natural Language Processing,2021,1,201,0.4975
+Education & Training,Negotiation,2021,2,201,0.995
+Education & Training,Networking,2021,4,201,1.99
+Education & Training,Onboarding,2021,1,201,0.4975
+Education & Training,Operations Management,2021,1,201,0.4975
+Education & Training,Organizational Skills,2021,23,201,11.4428
+Education & Training,PHP,2021,4,201,1.99
+Education & Training,Patient Care,2021,3,201,1.4925
+Education & Training,Payroll,2021,2,201,0.995
+Education & Training,Pharmacy,2021,3,201,1.4925
+Education & Training,Physical Therapy,2021,2,201,0.995
+Education & Training,Power BI,2021,1,201,0.4975
+Education & Training,Presentation Skills,2021,6,201,2.9851
+Education & Training,Problem Solving,2021,23,201,11.4428
+Education & Training,Process Improvement,2021,1,201,0.4975
+Education & Training,Procurement,2021,1,201,0.4975
+Education & Training,Project Management,2021,4,201,1.99
+Education & Training,Public Relations,2021,2,201,0.995
+Education & Training,Quality Assurance,2021,1,201,0.4975
+Education & Training,Quantitative Analysis,2021,2,201,0.995
+Education & Training,Radiology,2021,2,201,0.995
+Education & Training,Recruiting,2021,31,201,15.4229
+Education & Training,Remote Work,2021,1,201,0.4975
+Education & Training,Reporting,2021,6,201,2.9851
+Education & Training,Research,2021,2,201,0.995
+Education & Training,Risk Management,2021,2,201,0.995
+Education & Training,Robotics,2021,1,201,0.4975
+Education & Training,SAP,2021,1,201,0.4975
+Education & Training,SAS,2021,1,201,0.4975
+Education & Training,Salesforce,2021,2,201,0.995
+Education & Training,Scheduling,2021,9,201,4.4776
+Education & Training,Self-Motivated,2021,14,201,6.9652
+Education & Training,Social Media,2021,3,201,1.4925
+Education & Training,Special Education,2021,27,201,13.4328
+Education & Training,Statistical Analysis,2021,7,201,3.4826
+Education & Training,Strategic Planning,2021,2,201,0.995
+Education & Training,Supply Chain Management,2021,3,201,1.4925
+Education & Training,Tableau,2021,1,201,0.4975
+Education & Training,Teamwork,2021,19,201,9.4527
+Education & Training,Time Management,2021,13,201,6.4677
+Education & Training,Travel Coordination,2021,1,201,0.4975
+Education & Training,Tutoring,2021,8,201,3.9801
+Education & Training,Valuation,2021,1,201,0.4975
+Education & Training,Web Development,2021,1,201,0.4975
+Education & Training,Workday,2021,4,201,1.99
+Education & Training,Written Communication,2021,11,201,5.4726
+Engineering (Non-Software),3D Printing,2021,3,160,1.875
+Engineering (Non-Software),APIs,2021,2,160,1.25
+Engineering (Non-Software),AWS,2021,1,160,0.625
+Engineering (Non-Software),Accounting,2021,2,160,1.25
+Engineering (Non-Software),Adaptability,2021,21,160,13.125
+Engineering (Non-Software),Adobe Creative Suite,2021,1,160,0.625
+Engineering (Non-Software),Agile,2021,4,160,2.5
+Engineering (Non-Software),Angular,2021,1,160,0.625
+Engineering (Non-Software),Artificial Intelligence,2021,1,160,0.625
+Engineering (Non-Software),AutoCAD,2021,12,160,7.5
+Engineering (Non-Software),Azure,2021,1,160,0.625
+Engineering (Non-Software),Big Data,2021,2,160,1.25
+Engineering (Non-Software),Blueprint Reading,2021,1,160,0.625
+Engineering (Non-Software),Brand Management,2021,2,160,1.25
+Engineering (Non-Software),Budgeting,2021,3,160,1.875
+Engineering (Non-Software),Business Development,2021,3,160,1.875
+Engineering (Non-Software),CAD,2021,10,160,6.25
+Engineering (Non-Software),CI/CD,2021,3,160,1.875
+Engineering (Non-Software),CNC,2021,1,160,0.625
+Engineering (Non-Software),CSS,2021,2,160,1.25
+Engineering (Non-Software),Chemical Engineering,2021,5,160,3.125
+Engineering (Non-Software),Civil Engineering,2021,22,160,13.75
+Engineering (Non-Software),Cloud Computing,2021,2,160,1.25
+Engineering (Non-Software),Communication Skills,2021,62,160,38.75
+Engineering (Non-Software),Compliance,2021,30,160,18.75
+Engineering (Non-Software),Computer Vision,2021,4,160,2.5
+Engineering (Non-Software),Confluence,2021,1,160,0.625
+Engineering (Non-Software),Content Marketing,2021,3,160,1.875
+Engineering (Non-Software),Copywriting,2021,1,160,0.625
+Engineering (Non-Software),Cost Analysis,2021,3,160,1.875
+Engineering (Non-Software),Creative Thinking,2021,50,160,31.25
+Engineering (Non-Software),Critical Thinking,2021,1,160,0.625
+Engineering (Non-Software),Cross-Functional Collaboration,2021,11,160,6.875
+Engineering (Non-Software),Customer Service,2021,27,160,16.875
+Engineering (Non-Software),Cybersecurity,2021,5,160,3.125
+Engineering (Non-Software),Data Analysis,2021,36,160,22.5
+Engineering (Non-Software),Data Collection,2021,12,160,7.5
+Engineering (Non-Software),Data Engineering,2021,1,160,0.625
+Engineering (Non-Software),Data Entry,2021,5,160,3.125
+Engineering (Non-Software),Data Mining,2021,4,160,2.5
+Engineering (Non-Software),Database Management,2021,1,160,0.625
+Engineering (Non-Software),Decision Making,2021,8,160,5.0
+Engineering (Non-Software),Deep Learning,2021,2,160,1.25
+Engineering (Non-Software),DevOps,2021,2,160,1.25
+Engineering (Non-Software),Due Diligence,2021,1,160,0.625
+Engineering (Non-Software),ERP Systems,2021,1,160,0.625
+Engineering (Non-Software),Editing,2021,1,160,0.625
+Engineering (Non-Software),Electrical Engineering,2021,40,160,25.0
+Engineering (Non-Software),Event Planning,2021,2,160,1.25
+Engineering (Non-Software),Failure Analysis,2021,3,160,1.875
+Engineering (Non-Software),Figma,2021,1,160,0.625
+Engineering (Non-Software),Filing,2021,7,160,4.375
+Engineering (Non-Software),Financial Statements,2021,1,160,0.625
+Engineering (Non-Software),GMP,2021,3,160,1.875
+Engineering (Non-Software),Git,2021,4,160,2.5
+Engineering (Non-Software),HTML,2021,5,160,3.125
+Engineering (Non-Software),Intellectual Property,2021,2,160,1.25
+Engineering (Non-Software),Interpersonal Skills,2021,10,160,6.25
+Engineering (Non-Software),Java,2021,6,160,3.75
+Engineering (Non-Software),JavaScript,2021,4,160,2.5
+Engineering (Non-Software),Leadership,2021,34,160,21.25
+Engineering (Non-Software),Lean,2021,6,160,3.75
+Engineering (Non-Software),Linux,2021,8,160,5.0
+Engineering (Non-Software),MATLAB,2021,14,160,8.75
+Engineering (Non-Software),Machine Learning,2021,3,160,1.875
+Engineering (Non-Software),Materials Science,2021,3,160,1.875
+Engineering (Non-Software),Mechanical Engineering,2021,23,160,14.375
+Engineering (Non-Software),Mental Health,2021,1,160,0.625
+Engineering (Non-Software),Mentoring,2021,6,160,3.75
+Engineering (Non-Software),Microsoft Excel,2021,38,160,23.75
+Engineering (Non-Software),Microsoft Office,2021,40,160,25.0
+Engineering (Non-Software),Microsoft PowerPoint,2021,18,160,11.25
+Engineering (Non-Software),Microsoft Word,2021,1,160,0.625
+Engineering (Non-Software),MongoDB,2021,1,160,0.625
+Engineering (Non-Software),Multitasking,2021,7,160,4.375
+Engineering (Non-Software),MySQL,2021,2,160,1.25
+Engineering (Non-Software),Natural Language Processing,2021,1,160,0.625
+Engineering (Non-Software),Negotiation,2021,1,160,0.625
+Engineering (Non-Software),Networking,2021,15,160,9.375
+Engineering (Non-Software),NoSQL,2021,1,160,0.625
+Engineering (Non-Software),Onboarding,2021,2,160,1.25
+Engineering (Non-Software),Oracle,2021,1,160,0.625
+Engineering (Non-Software),Organizational Skills,2021,31,160,19.375
+Engineering (Non-Software),PHP,2021,1,160,0.625
+Engineering (Non-Software),PLC Programming,2021,6,160,3.75
+Engineering (Non-Software),Perl,2021,2,160,1.25
+Engineering (Non-Software),Photoshop,2021,1,160,0.625
+Engineering (Non-Software),PostgreSQL,2021,1,160,0.625
+Engineering (Non-Software),Power BI,2021,2,160,1.25
+Engineering (Non-Software),Presentation Skills,2021,5,160,3.125
+Engineering (Non-Software),Preventive Maintenance,2021,2,160,1.25
+Engineering (Non-Software),Problem Solving,2021,57,160,35.625
+Engineering (Non-Software),Process Improvement,2021,6,160,3.75
+Engineering (Non-Software),Procurement,2021,7,160,4.375
+Engineering (Non-Software),Project Management,2021,16,160,10.0
+Engineering (Non-Software),Python,2021,23,160,14.375
+Engineering (Non-Software),Quality Assurance,2021,9,160,5.625
+Engineering (Non-Software),Radiology,2021,4,160,2.5
+Engineering (Non-Software),React,2021,1,160,0.625
+Engineering (Non-Software),Recruiting,2021,14,160,8.75
+Engineering (Non-Software),Relationship Management,2021,1,160,0.625
+Engineering (Non-Software),Remote Work,2021,4,160,2.5
+Engineering (Non-Software),Reporting,2021,16,160,10.0
+Engineering (Non-Software),Research,2021,2,160,1.25
+Engineering (Non-Software),Risk Management,2021,7,160,4.375
+Engineering (Non-Software),Root Cause Analysis,2021,8,160,5.0
+Engineering (Non-Software),Ruby,2021,1,160,0.625
+Engineering (Non-Software),SAP,2021,5,160,3.125
+Engineering (Non-Software),SQL,2021,5,160,3.125
+Engineering (Non-Software),Sales,2021,6,160,3.75
+Engineering (Non-Software),Scala,2021,1,160,0.625
+Engineering (Non-Software),Scheduling,2021,11,160,6.875
+Engineering (Non-Software),Scrum,2021,1,160,0.625
+Engineering (Non-Software),Self-Motivated,2021,32,160,20.0
+Engineering (Non-Software),ServiceNow,2021,2,160,1.25
+Engineering (Non-Software),Shell Scripting,2021,1,160,0.625
+Engineering (Non-Software),Six Sigma,2021,7,160,4.375
+Engineering (Non-Software),Sketch,2021,1,160,0.625
+Engineering (Non-Software),Slack,2021,1,160,0.625
+Engineering (Non-Software),Social Media,2021,1,160,0.625
+Engineering (Non-Software),SolidWorks,2021,3,160,1.875
+Engineering (Non-Software),Statistical Analysis,2021,6,160,3.75
+Engineering (Non-Software),Strategic Planning,2021,2,160,1.25
+Engineering (Non-Software),Supply Chain Management,2021,4,160,2.5
+Engineering (Non-Software),Survey Design,2021,1,160,0.625
+Engineering (Non-Software),Tableau,2021,1,160,0.625
+Engineering (Non-Software),Teamwork,2021,12,160,7.5
+Engineering (Non-Software),Technical Writing,2021,8,160,5.0
+Engineering (Non-Software),Time Management,2021,16,160,10.0
+Engineering (Non-Software),UI Design,2021,1,160,0.625
+Engineering (Non-Software),UX Design,2021,2,160,1.25
+Engineering (Non-Software),VBA,2021,1,160,0.625
+Engineering (Non-Software),Verbal Communication,2021,19,160,11.875
+Engineering (Non-Software),Web Development,2021,1,160,0.625
+Engineering (Non-Software),Welding,2021,1,160,0.625
+Engineering (Non-Software),Written Communication,2021,33,160,20.625
+Finance & Accounting,APIs,2021,2,494,0.4049
+Finance & Accounting,Accounting,2021,391,494,79.1498
+Finance & Accounting,Accounts Payable,2021,32,494,6.4777
+Finance & Accounting,Accounts Receivable,2021,23,494,4.6559
+Finance & Accounting,Adaptability,2021,86,494,17.4089
+Finance & Accounting,Agile,2021,7,494,1.417
+Finance & Accounting,Artificial Intelligence,2021,2,494,0.4049
+Finance & Accounting,Auditing,2021,46,494,9.3117
+Finance & Accounting,Azure,2021,1,494,0.2024
+Finance & Accounting,Big Data,2021,3,494,0.6073
+Finance & Accounting,Bilingual,2021,14,494,2.834
+Finance & Accounting,Bloomberg Terminal,2021,6,494,1.2146
+Finance & Accounting,Bookkeeping,2021,4,494,0.8097
+Finance & Accounting,Budgeting,2021,56,494,11.336
+Finance & Accounting,Business Development,2021,18,494,3.6437
+Finance & Accounting,Business Intelligence,2021,14,494,2.834
+Finance & Accounting,CFA,2021,14,494,2.834
+Finance & Accounting,CPA,2021,92,494,18.6235
+Finance & Accounting,CPR,2021,1,494,0.2024
+Finance & Accounting,CRM Software,2021,5,494,1.0121
+Finance & Accounting,CSS,2021,1,494,0.2024
+Finance & Accounting,Case Management,2021,1,494,0.2024
+Finance & Accounting,Clinical Research,2021,1,494,0.2024
+Finance & Accounting,Cloud Computing,2021,4,494,0.8097
+Finance & Accounting,Communication Skills,2021,191,494,38.664
+Finance & Accounting,CompTIA,2021,1,494,0.2024
+Finance & Accounting,Compliance,2021,155,494,31.3765
+Finance & Accounting,Conflict Resolution,2021,1,494,0.2024
+Finance & Accounting,Contract Review,2021,5,494,1.0121
+Finance & Accounting,Cost Analysis,2021,5,494,1.0121
+Finance & Accounting,Creative Thinking,2021,47,494,9.5142
+Finance & Accounting,Critical Thinking,2021,25,494,5.0607
+Finance & Accounting,Cross-Functional Collaboration,2021,28,494,5.668
+Finance & Accounting,Customer Service,2021,88,494,17.8138
+Finance & Accounting,Cybersecurity,2021,3,494,0.6073
+Finance & Accounting,Data Analysis,2021,124,494,25.1012
+Finance & Accounting,Data Collection,2021,7,494,1.417
+Finance & Accounting,Data Engineering,2021,1,494,0.2024
+Finance & Accounting,Data Entry,2021,7,494,1.417
+Finance & Accounting,Data Mining,2021,3,494,0.6073
+Finance & Accounting,Data Visualization,2021,5,494,1.0121
+Finance & Accounting,Data Warehousing,2021,5,494,1.0121
+Finance & Accounting,Database Management,2021,4,494,0.8097
+Finance & Accounting,Decision Making,2021,39,494,7.8947
+Finance & Accounting,Deep Learning,2021,1,494,0.2024
+Finance & Accounting,Digital Marketing,2021,1,494,0.2024
+Finance & Accounting,Due Diligence,2021,20,494,4.0486
+Finance & Accounting,ERP Systems,2021,25,494,5.0607
+Finance & Accounting,Electronic Health Records,2021,1,494,0.2024
+Finance & Accounting,Emotional Intelligence,2021,8,494,1.6194
+Finance & Accounting,Environmental Engineering,2021,1,494,0.2024
+Finance & Accounting,Filing,2021,12,494,2.4291
+Finance & Accounting,Financial Analysis,2021,135,494,27.3279
+Finance & Accounting,Financial Planning,2021,55,494,11.1336
+Finance & Accounting,Financial Statements,2021,51,494,10.3239
+Finance & Accounting,Forecasting,2021,78,494,15.7895
+Finance & Accounting,Google Cloud Platform,2021,1,494,0.2024
+Finance & Accounting,Google Workspace,2021,3,494,0.6073
+Finance & Accounting,HRIS,2021,2,494,0.4049
+Finance & Accounting,HTML,2021,10,494,2.0243
+Finance & Accounting,ICD Coding,2021,1,494,0.2024
+Finance & Accounting,Immigration Law,2021,1,494,0.2024
+Finance & Accounting,Interpersonal Skills,2021,54,494,10.9312
+Finance & Accounting,Inventory Management,2021,3,494,0.6073
+Finance & Accounting,Investment Analysis,2021,13,494,2.6316
+Finance & Accounting,Jira,2021,1,494,0.2024
+Finance & Accounting,Leadership,2021,95,494,19.2308
+Finance & Accounting,Legal Compliance,2021,1,494,0.2024
+Finance & Accounting,Linux,2021,2,494,0.4049
+Finance & Accounting,Litigation,2021,1,494,0.2024
+Finance & Accounting,Machine Learning,2021,2,494,0.4049
+Finance & Accounting,Market Research,2021,10,494,2.0243
+Finance & Accounting,Marketing Analytics,2021,14,494,2.834
+Finance & Accounting,Medical Terminology,2021,1,494,0.2024
+Finance & Accounting,Mentoring,2021,32,494,6.4777
+Finance & Accounting,Mergers and Acquisitions,2021,14,494,2.834
+Finance & Accounting,Microsoft Excel,2021,268,494,54.251
+Finance & Accounting,Microsoft Office,2021,134,494,27.1255
+Finance & Accounting,Microsoft PowerPoint,2021,67,494,13.5628
+Finance & Accounting,Microsoft Word,2021,17,494,3.4413
+Finance & Accounting,Multitasking,2021,59,494,11.9433
+Finance & Accounting,Negotiation,2021,7,494,1.417
+Finance & Accounting,Networking,2021,7,494,1.417
+Finance & Accounting,Onboarding,2021,8,494,1.6194
+Finance & Accounting,Operations Management,2021,2,494,0.4049
+Finance & Accounting,Oracle,2021,17,494,3.4413
+Finance & Accounting,Organizational Skills,2021,143,494,28.9474
+Finance & Accounting,PLC Programming,2021,2,494,0.4049
+Finance & Accounting,PPC Advertising,2021,7,494,1.417
+Finance & Accounting,Patient Care,2021,1,494,0.2024
+Finance & Accounting,Payroll,2021,30,494,6.0729
+Finance & Accounting,Pharmacy,2021,2,494,0.4049
+Finance & Accounting,Physical Therapy,2021,3,494,0.6073
+Finance & Accounting,Power BI,2021,14,494,2.834
+Finance & Accounting,Presentation Skills,2021,38,494,7.6923
+Finance & Accounting,Preventive Maintenance,2021,1,494,0.2024
+Finance & Accounting,Problem Solving,2021,110,494,22.2672
+Finance & Accounting,Process Improvement,2021,28,494,5.668
+Finance & Accounting,Procurement,2021,21,494,4.251
+Finance & Accounting,Project Management,2021,47,494,9.5142
+Finance & Accounting,Python,2021,14,494,2.834
+Finance & Accounting,Quality Assurance,2021,15,494,3.0364
+Finance & Accounting,Quantitative Analysis,2021,7,494,1.417
+Finance & Accounting,QuickBooks,2021,12,494,2.4291
+Finance & Accounting,Radiology,2021,1,494,0.2024
+Finance & Accounting,React,2021,1,494,0.2024
+Finance & Accounting,Recruiting,2021,50,494,10.1215
+Finance & Accounting,Relationship Management,2021,8,494,1.6194
+Finance & Accounting,Remote Work,2021,19,494,3.8462
+Finance & Accounting,Reporting,2021,212,494,42.915
+Finance & Accounting,Research,2021,15,494,3.0364
+Finance & Accounting,Revenue Analysis,2021,10,494,2.0243
+Finance & Accounting,Risk Management,2021,36,494,7.2874
+Finance & Accounting,Robotics,2021,1,494,0.2024
+Finance & Accounting,Root Cause Analysis,2021,1,494,0.2024
+Finance & Accounting,SAP,2021,52,494,10.5263
+Finance & Accounting,SAS,2021,8,494,1.6194
+Finance & Accounting,SQL,2021,50,494,10.1215
+Finance & Accounting,SQL Server,2021,1,494,0.2024
+Finance & Accounting,Sales,2021,5,494,1.0121
+Finance & Accounting,Salesforce,2021,4,494,0.8097
+Finance & Accounting,Scheduling,2021,16,494,3.2389
+Finance & Accounting,Scientific Writing,2021,2,494,0.4049
+Finance & Accounting,Self-Motivated,2021,128,494,25.9109
+Finance & Accounting,Series 63,2021,2,494,0.4049
+Finance & Accounting,Series 7,2021,3,494,0.6073
+Finance & Accounting,Six Sigma,2021,2,494,0.4049
+Finance & Accounting,Social Media,2021,2,494,0.4049
+Finance & Accounting,Stakeholder Management,2021,2,494,0.4049
+Finance & Accounting,Statistical Analysis,2021,37,494,7.4899
+Finance & Accounting,Strategic Planning,2021,6,494,1.2146
+Finance & Accounting,Supply Chain Management,2021,26,494,5.2632
+Finance & Accounting,Survey Design,2021,2,494,0.4049
+Finance & Accounting,Tableau,2021,18,494,3.6437
+Finance & Accounting,Tax Preparation,2021,56,494,11.336
+Finance & Accounting,Teamwork,2021,61,494,12.3482
+Finance & Accounting,Technical Writing,2021,6,494,1.2146
+Finance & Accounting,Time Management,2021,49,494,9.919
+Finance & Accounting,Underwriting,2021,45,494,9.1093
+Finance & Accounting,VBA,2021,12,494,2.4291
+Finance & Accounting,Valuation,2021,23,494,4.6559
+Finance & Accounting,Vendor Management,2021,2,494,0.4049
+Finance & Accounting,Verbal Communication,2021,50,494,10.1215
+Finance & Accounting,Windows Server,2021,1,494,0.2024
+Finance & Accounting,Workday,2021,13,494,2.6316
+Finance & Accounting,Written Communication,2021,62,494,12.5506
+Healthcare (Non-Nursing),Accounting,2021,3,166,1.8072
+Healthcare (Non-Nursing),Active Listening,2021,1,166,0.6024
+Healthcare (Non-Nursing),Adaptability,2021,30,166,18.0723
+Healthcare (Non-Nursing),Angular,2021,1,166,0.6024
+Healthcare (Non-Nursing),Auditing,2021,2,166,1.2048
+Healthcare (Non-Nursing),Bilingual,2021,1,166,0.6024
+Healthcare (Non-Nursing),Budgeting,2021,4,166,2.4096
+Healthcare (Non-Nursing),CPR,2021,38,166,22.8916
+Healthcare (Non-Nursing),CRM Software,2021,2,166,1.2048
+Healthcare (Non-Nursing),Case Management,2021,8,166,4.8193
+Healthcare (Non-Nursing),Certified Nursing,2021,3,166,1.8072
+Healthcare (Non-Nursing),Classroom Management,2021,1,166,0.6024
+Healthcare (Non-Nursing),Clinical Research,2021,25,166,15.0602
+Healthcare (Non-Nursing),Communication Skills,2021,52,166,31.3253
+Healthcare (Non-Nursing),CompTIA,2021,1,166,0.6024
+Healthcare (Non-Nursing),Compliance,2021,61,166,36.747
+Healthcare (Non-Nursing),Cost Analysis,2021,1,166,0.6024
+Healthcare (Non-Nursing),Creative Thinking,2021,8,166,4.8193
+Healthcare (Non-Nursing),Critical Thinking,2021,5,166,3.012
+Healthcare (Non-Nursing),Cross-Functional Collaboration,2021,2,166,1.2048
+Healthcare (Non-Nursing),Curriculum Development,2021,1,166,0.6024
+Healthcare (Non-Nursing),Customer Service,2021,35,166,21.0843
+Healthcare (Non-Nursing),Cybersecurity,2021,1,166,0.6024
+Healthcare (Non-Nursing),Data Analysis,2021,7,166,4.2169
+Healthcare (Non-Nursing),Data Collection,2021,5,166,3.012
+Healthcare (Non-Nursing),Data Entry,2021,4,166,2.4096
+Healthcare (Non-Nursing),Decision Making,2021,3,166,1.8072
+Healthcare (Non-Nursing),Electronic Health Records,2021,7,166,4.2169
+Healthcare (Non-Nursing),Emotional Intelligence,2021,5,166,3.012
+Healthcare (Non-Nursing),FDA Regulations,2021,2,166,1.2048
+Healthcare (Non-Nursing),Filing,2021,3,166,1.8072
+Healthcare (Non-Nursing),Financial Planning,2021,1,166,0.6024
+Healthcare (Non-Nursing),Git,2021,1,166,0.6024
+Healthcare (Non-Nursing),Google Cloud Platform,2021,12,166,7.2289
+Healthcare (Non-Nursing),HIPAA,2021,14,166,8.4337
+Healthcare (Non-Nursing),HTML,2021,1,166,0.6024
+Healthcare (Non-Nursing),ICD Coding,2021,1,166,0.6024
+Healthcare (Non-Nursing),Interpersonal Skills,2021,19,166,11.4458
+Healthcare (Non-Nursing),Java,2021,1,166,0.6024
+Healthcare (Non-Nursing),Lab Management,2021,1,166,0.6024
+Healthcare (Non-Nursing),Leadership,2021,25,166,15.0602
+Healthcare (Non-Nursing),Linux,2021,1,166,0.6024
+Healthcare (Non-Nursing),Litigation,2021,1,166,0.6024
+Healthcare (Non-Nursing),Medical Terminology,2021,8,166,4.8193
+Healthcare (Non-Nursing),Mental Health,2021,14,166,8.4337
+Healthcare (Non-Nursing),Mentoring,2021,10,166,6.0241
+Healthcare (Non-Nursing),Microsoft Excel,2021,13,166,7.8313
+Healthcare (Non-Nursing),Microsoft Office,2021,11,166,6.6265
+Healthcare (Non-Nursing),Microsoft PowerPoint,2021,2,166,1.2048
+Healthcare (Non-Nursing),Microsoft Word,2021,2,166,1.2048
+Healthcare (Non-Nursing),Multitasking,2021,6,166,3.6145
+Healthcare (Non-Nursing),Natural Language Processing,2021,2,166,1.2048
+Healthcare (Non-Nursing),Negotiation,2021,2,166,1.2048
+Healthcare (Non-Nursing),Networking,2021,14,166,8.4337
+Healthcare (Non-Nursing),Nursing,2021,3,166,1.8072
+Healthcare (Non-Nursing),OSHA,2021,14,166,8.4337
+Healthcare (Non-Nursing),Onboarding,2021,1,166,0.6024
+Healthcare (Non-Nursing),Oracle,2021,1,166,0.6024
+Healthcare (Non-Nursing),Organizational Skills,2021,21,166,12.6506
+Healthcare (Non-Nursing),Patient Care,2021,38,166,22.8916
+Healthcare (Non-Nursing),Payroll,2021,3,166,1.8072
+Healthcare (Non-Nursing),Pharmacy,2021,20,166,12.0482
+Healthcare (Non-Nursing),Phlebotomy,2021,4,166,2.4096
+Healthcare (Non-Nursing),Physical Therapy,2021,15,166,9.0361
+Healthcare (Non-Nursing),Presentation Skills,2021,1,166,0.6024
+Healthcare (Non-Nursing),Preventive Maintenance,2021,2,166,1.2048
+Healthcare (Non-Nursing),Problem Solving,2021,33,166,19.8795
+Healthcare (Non-Nursing),Procurement,2021,1,166,0.6024
+Healthcare (Non-Nursing),Project Management,2021,6,166,3.6145
+Healthcare (Non-Nursing),Quality Assurance,2021,32,166,19.2771
+Healthcare (Non-Nursing),Quality Management Systems,2021,1,166,0.6024
+Healthcare (Non-Nursing),Radiology,2021,5,166,3.012
+Healthcare (Non-Nursing),React,2021,2,166,1.2048
+Healthcare (Non-Nursing),Recruiting,2021,6,166,3.6145
+Healthcare (Non-Nursing),Regulatory Affairs,2021,1,166,0.6024
+Healthcare (Non-Nursing),Remote Work,2021,2,166,1.2048
+Healthcare (Non-Nursing),Reporting,2021,32,166,19.2771
+Healthcare (Non-Nursing),Research,2021,1,166,0.6024
+Healthcare (Non-Nursing),SAS,2021,1,166,0.6024
+Healthcare (Non-Nursing),SQL,2021,1,166,0.6024
+Healthcare (Non-Nursing),SQL Server,2021,1,166,0.6024
+Healthcare (Non-Nursing),Sales,2021,1,166,0.6024
+Healthcare (Non-Nursing),Salesforce,2021,1,166,0.6024
+Healthcare (Non-Nursing),Scheduling,2021,15,166,9.0361
+Healthcare (Non-Nursing),Scientific Writing,2021,1,166,0.6024
+Healthcare (Non-Nursing),Self-Motivated,2021,15,166,9.0361
+Healthcare (Non-Nursing),Six Sigma,2021,1,166,0.6024
+Healthcare (Non-Nursing),Special Education,2021,7,166,4.2169
+Healthcare (Non-Nursing),Statistical Analysis,2021,4,166,2.4096
+Healthcare (Non-Nursing),Strategic Planning,2021,1,166,0.6024
+Healthcare (Non-Nursing),Tableau,2021,1,166,0.6024
+Healthcare (Non-Nursing),Teamwork,2021,11,166,6.6265
+Healthcare (Non-Nursing),Telehealth,2021,1,166,0.6024
+Healthcare (Non-Nursing),Time Management,2021,13,166,7.8313
+Healthcare (Non-Nursing),Tutoring,2021,1,166,0.6024
+Healthcare (Non-Nursing),Verbal Communication,2021,14,166,8.4337
+Healthcare (Non-Nursing),Vital Signs,2021,4,166,2.4096
+Healthcare (Non-Nursing),Written Communication,2021,9,166,5.4217
+Human Resources,Accounting,2021,3,62,4.8387
+Human Resources,Adaptability,2021,21,62,33.871
+Human Resources,Agile,2021,1,62,1.6129
+Human Resources,Auditing,2021,2,62,3.2258
+Human Resources,Bilingual,2021,1,62,1.6129
+Human Resources,Brand Management,2021,2,62,3.2258
+Human Resources,Budgeting,2021,1,62,1.6129
+Human Resources,Business Development,2021,1,62,1.6129
+Human Resources,Communication Skills,2021,35,62,56.4516
+Human Resources,Compliance,2021,14,62,22.5806
+Human Resources,Creative Thinking,2021,17,62,27.4194
+Human Resources,Critical Thinking,2021,3,62,4.8387
+Human Resources,Cross-Functional Collaboration,2021,1,62,1.6129
+Human Resources,Customer Service,2021,19,62,30.6452
+Human Resources,Data Analysis,2021,5,62,8.0645
+Human Resources,Data Entry,2021,8,62,12.9032
+Human Resources,Data Visualization,2021,1,62,1.6129
+Human Resources,Database Management,2021,3,62,4.8387
+Human Resources,Decision Making,2021,7,62,11.2903
+Human Resources,Editing,2021,1,62,1.6129
+Human Resources,Event Planning,2021,1,62,1.6129
+Human Resources,Filing,2021,1,62,1.6129
+Human Resources,Financial Analysis,2021,1,62,1.6129
+Human Resources,Forecasting,2021,1,62,1.6129
+Human Resources,Google Analytics,2021,1,62,1.6129
+Human Resources,HRIS,2021,7,62,11.2903
+Human Resources,Interpersonal Skills,2021,9,62,14.5161
+Human Resources,Inventory Management,2021,1,62,1.6129
+Human Resources,Leadership,2021,9,62,14.5161
+Human Resources,Mechanical Engineering,2021,1,62,1.6129
+Human Resources,Mentoring,2021,5,62,8.0645
+Human Resources,Microsoft Excel,2021,22,62,35.4839
+Human Resources,Microsoft Office,2021,19,62,30.6452
+Human Resources,Microsoft PowerPoint,2021,11,62,17.7419
+Human Resources,Microsoft Word,2021,5,62,8.0645
+Human Resources,Multitasking,2021,7,62,11.2903
+Human Resources,Negotiation,2021,1,62,1.6129
+Human Resources,Networking,2021,2,62,3.2258
+Human Resources,OSHA,2021,3,62,4.8387
+Human Resources,Onboarding,2021,19,62,30.6452
+Human Resources,Organizational Skills,2021,36,62,58.0645
+Human Resources,PHR,2021,2,62,3.2258
+Human Resources,Payroll,2021,8,62,12.9032
+Human Resources,Power BI,2021,1,62,1.6129
+Human Resources,Presentation Skills,2021,3,62,4.8387
+Human Resources,Problem Solving,2021,8,62,12.9032
+Human Resources,Process Improvement,2021,1,62,1.6129
+Human Resources,Project Management,2021,3,62,4.8387
+Human Resources,Recruiting,2021,26,62,41.9355
+Human Resources,Remote Work,2021,1,62,1.6129
+Human Resources,Reporting,2021,15,62,24.1935
+Human Resources,Research,2021,1,62,1.6129
+Human Resources,Risk Management,2021,1,62,1.6129
+Human Resources,SAP,2021,1,62,1.6129
+Human Resources,SHRM,2021,2,62,3.2258
+Human Resources,Sales,2021,5,62,8.0645
+Human Resources,Salesforce,2021,2,62,3.2258
+Human Resources,Scheduling,2021,22,62,35.4839
+Human Resources,Self-Motivated,2021,17,62,27.4194
+Human Resources,Social Media,2021,8,62,12.9032
+Human Resources,Special Education,2021,3,62,4.8387
+Human Resources,Statistical Analysis,2021,2,62,3.2258
+Human Resources,Tableau,2021,1,62,1.6129
+Human Resources,Teamwork,2021,14,62,22.5806
+Human Resources,Time Management,2021,9,62,14.5161
+Human Resources,Vendor Management,2021,3,62,4.8387
+Human Resources,Verbal Communication,2021,9,62,14.5161
+Human Resources,Workday,2021,6,62,9.6774
+Human Resources,Written Communication,2021,13,62,20.9677
+IT & Systems,AWS,2021,15,151,9.9338
+IT & Systems,Accounting,2021,11,151,7.2848
+IT & Systems,Accounts Payable,2021,2,151,1.3245
+IT & Systems,Accounts Receivable,2021,2,151,1.3245
+IT & Systems,Active Listening,2021,1,151,0.6623
+IT & Systems,Adaptability,2021,20,151,13.245
+IT & Systems,Agile,2021,15,151,9.9338
+IT & Systems,Auditing,2021,8,151,5.298
+IT & Systems,AutoCAD,2021,1,151,0.6623
+IT & Systems,Azure,2021,7,151,4.6358
+IT & Systems,Big Data,2021,5,151,3.3113
+IT & Systems,Budgeting,2021,1,151,0.6623
+IT & Systems,Business Development,2021,2,151,1.3245
+IT & Systems,Business Intelligence,2021,5,151,3.3113
+IT & Systems,C#,2021,1,151,0.6623
+IT & Systems,CAD,2021,3,151,1.9868
+IT & Systems,CFA,2021,3,151,1.9868
+IT & Systems,CI/CD,2021,2,151,1.3245
+IT & Systems,CISSP,2021,22,151,14.5695
+IT & Systems,CRM Software,2021,3,151,1.9868
+IT & Systems,CSS,2021,1,151,0.6623
+IT & Systems,Certified Nursing,2021,1,151,0.6623
+IT & Systems,Cloud Computing,2021,3,151,1.9868
+IT & Systems,Communication Skills,2021,48,151,31.7881
+IT & Systems,CompTIA,2021,2,151,1.3245
+IT & Systems,Compliance,2021,39,151,25.8278
+IT & Systems,Confluence,2021,2,151,1.3245
+IT & Systems,Cost Analysis,2021,1,151,0.6623
+IT & Systems,Creative Thinking,2021,17,151,11.2583
+IT & Systems,Critical Thinking,2021,3,151,1.9868
+IT & Systems,Cross-Functional Collaboration,2021,7,151,4.6358
+IT & Systems,Customer Service,2021,23,151,15.2318
+IT & Systems,Cybersecurity,2021,45,151,29.8013
+IT & Systems,Data Analysis,2021,17,151,11.2583
+IT & Systems,Data Collection,2021,6,151,3.9735
+IT & Systems,Data Engineering,2021,3,151,1.9868
+IT & Systems,Data Entry,2021,1,151,0.6623
+IT & Systems,Data Mining,2021,1,151,0.6623
+IT & Systems,Data Warehousing,2021,2,151,1.3245
+IT & Systems,Database Management,2021,1,151,0.6623
+IT & Systems,Decision Making,2021,3,151,1.9868
+IT & Systems,DevOps,2021,3,151,1.9868
+IT & Systems,Digital Marketing,2021,1,151,0.6623
+IT & Systems,Docker,2021,1,151,0.6623
+IT & Systems,Due Diligence,2021,1,151,0.6623
+IT & Systems,ERP Systems,2021,7,151,4.6358
+IT & Systems,Editing,2021,2,151,1.3245
+IT & Systems,Electrical Engineering,2021,2,151,1.3245
+IT & Systems,Email Marketing,2021,1,151,0.6623
+IT & Systems,Filing,2021,2,151,1.3245
+IT & Systems,Financial Analysis,2021,2,151,1.3245
+IT & Systems,Financial Planning,2021,1,151,0.6623
+IT & Systems,Financial Statements,2021,1,151,0.6623
+IT & Systems,Forecasting,2021,2,151,1.3245
+IT & Systems,Git,2021,3,151,1.9868
+IT & Systems,Google Cloud Platform,2021,5,151,3.3113
+IT & Systems,HIPAA,2021,5,151,3.3113
+IT & Systems,HTML,2021,3,151,1.9868
+IT & Systems,Instructional Design,2021,1,151,0.6623
+IT & Systems,Intellectual Property,2021,1,151,0.6623
+IT & Systems,Interpersonal Skills,2021,14,151,9.2715
+IT & Systems,Inventory Management,2021,1,151,0.6623
+IT & Systems,Java,2021,7,151,4.6358
+IT & Systems,JavaScript,2021,4,151,2.649
+IT & Systems,Jira,2021,6,151,3.9735
+IT & Systems,Kubernetes,2021,2,151,1.3245
+IT & Systems,Leadership,2021,19,151,12.5828
+IT & Systems,Lean,2021,2,151,1.3245
+IT & Systems,Linux,2021,29,151,19.2053
+IT & Systems,MATLAB,2021,1,151,0.6623
+IT & Systems,Machine Learning,2021,2,151,1.3245
+IT & Systems,Mechanical Engineering,2021,1,151,0.6623
+IT & Systems,Mental Health,2021,2,151,1.3245
+IT & Systems,Mentoring,2021,7,151,4.6358
+IT & Systems,Mergers and Acquisitions,2021,3,151,1.9868
+IT & Systems,Microsoft Excel,2021,26,151,17.2185
+IT & Systems,Microsoft Office,2021,29,151,19.2053
+IT & Systems,Microsoft PowerPoint,2021,7,151,4.6358
+IT & Systems,Microsoft Word,2021,1,151,0.6623
+IT & Systems,Mobile Development,2021,3,151,1.9868
+IT & Systems,MongoDB,2021,1,151,0.6623
+IT & Systems,Multitasking,2021,6,151,3.9735
+IT & Systems,MySQL,2021,2,151,1.3245
+IT & Systems,Networking,2021,49,151,32.4503
+IT & Systems,NoSQL,2021,2,151,1.3245
+IT & Systems,OSHA,2021,1,151,0.6623
+IT & Systems,Oracle,2021,7,151,4.6358
+IT & Systems,Organizational Skills,2021,27,151,17.8808
+IT & Systems,PHP,2021,2,151,1.3245
+IT & Systems,PMP,2021,2,151,1.3245
+IT & Systems,Patient Care,2021,1,151,0.6623
+IT & Systems,Payroll,2021,3,151,1.9868
+IT & Systems,Perl,2021,1,151,0.6623
+IT & Systems,Pharmacy,2021,2,151,1.3245
+IT & Systems,Photoshop,2021,1,151,0.6623
+IT & Systems,Physical Therapy,2021,1,151,0.6623
+IT & Systems,PostgreSQL,2021,1,151,0.6623
+IT & Systems,Power BI,2021,4,151,2.649
+IT & Systems,Presentation Skills,2021,7,151,4.6358
+IT & Systems,Preventive Maintenance,2021,2,151,1.3245
+IT & Systems,Problem Solving,2021,51,151,33.7748
+IT & Systems,Process Improvement,2021,6,151,3.9735
+IT & Systems,Procurement,2021,9,151,5.9603
+IT & Systems,Project Management,2021,14,151,9.2715
+IT & Systems,Public Relations,2021,1,151,0.6623
+IT & Systems,Python,2021,12,151,7.947
+IT & Systems,Quality Assurance,2021,16,151,10.596
+IT & Systems,Radiology,2021,3,151,1.9868
+IT & Systems,React,2021,1,151,0.6623
+IT & Systems,Recruiting,2021,7,151,4.6358
+IT & Systems,Relationship Management,2021,2,151,1.3245
+IT & Systems,Remote Work,2021,9,151,5.9603
+IT & Systems,Reporting,2021,26,151,17.2185
+IT & Systems,Risk Management,2021,14,151,9.2715
+IT & Systems,Root Cause Analysis,2021,4,151,2.649
+IT & Systems,Ruby,2021,2,151,1.3245
+IT & Systems,SAP,2021,9,151,5.9603
+IT & Systems,SAS,2021,1,151,0.6623
+IT & Systems,SDLC,2021,2,151,1.3245
+IT & Systems,SQL,2021,22,151,14.5695
+IT & Systems,SQL Server,2021,5,151,3.3113
+IT & Systems,Salesforce,2021,4,151,2.649
+IT & Systems,Scheduling,2021,6,151,3.9735
+IT & Systems,Scrum,2021,3,151,1.9868
+IT & Systems,Self-Motivated,2021,47,151,31.1258
+IT & Systems,ServiceNow,2021,5,151,3.3113
+IT & Systems,Shell Scripting,2021,4,151,2.649
+IT & Systems,Six Sigma,2021,2,151,1.3245
+IT & Systems,Social Media,2021,4,151,2.649
+IT & Systems,Strategic Planning,2021,3,151,1.9868
+IT & Systems,Supply Chain Management,2021,5,151,3.3113
+IT & Systems,Tableau,2021,11,151,7.2848
+IT & Systems,Teamwork,2021,20,151,13.245
+IT & Systems,Technical Writing,2021,8,151,5.298
+IT & Systems,Time Management,2021,13,151,8.6093
+IT & Systems,TypeScript,2021,1,151,0.6623
+IT & Systems,UI Design,2021,1,151,0.6623
+IT & Systems,UX Design,2021,1,151,0.6623
+IT & Systems,VBA,2021,3,151,1.9868
+IT & Systems,Valuation,2021,2,151,1.3245
+IT & Systems,Verbal Communication,2021,15,151,9.9338
+IT & Systems,Web Development,2021,3,151,1.9868
+IT & Systems,Windows Server,2021,10,151,6.6225
+IT & Systems,Workday,2021,3,151,1.9868
+IT & Systems,Written Communication,2021,19,151,12.5828
+Legal,AWS,2021,1,71,1.4085
+Legal,Accounting,2021,9,71,12.6761
+Legal,Adaptability,2021,8,71,11.2676
+Legal,Bilingual,2021,1,71,1.4085
+Legal,Bookkeeping,2021,1,71,1.4085
+Legal,Business Development,2021,3,71,4.2254
+Legal,CPA,2021,1,71,1.4085
+Legal,Case Management,2021,2,71,2.8169
+Legal,Chemical Engineering,2021,2,71,2.8169
+Legal,Cloud Computing,2021,2,71,2.8169
+Legal,Communication Skills,2021,32,71,45.0704
+Legal,Compliance,2021,11,71,15.493
+Legal,Corporate Law,2021,1,71,1.4085
+Legal,Creative Thinking,2021,3,71,4.2254
+Legal,Critical Thinking,2021,2,71,2.8169
+Legal,Customer Service,2021,9,71,12.6761
+Legal,Cybersecurity,2021,1,71,1.4085
+Legal,Data Analysis,2021,6,71,8.4507
+Legal,Data Entry,2021,1,71,1.4085
+Legal,Database Management,2021,6,71,8.4507
+Legal,Decision Making,2021,1,71,1.4085
+Legal,DevOps,2021,1,71,1.4085
+Legal,Due Diligence,2021,5,71,7.0423
+Legal,Editing,2021,3,71,4.2254
+Legal,Electrical Engineering,2021,9,71,12.6761
+Legal,Filing,2021,8,71,11.2676
+Legal,HTML,2021,1,71,1.4085
+Legal,Immigration Law,2021,2,71,2.8169
+Legal,Intellectual Property,2021,16,71,22.5352
+Legal,Interpersonal Skills,2021,10,71,14.0845
+Legal,Jira,2021,1,71,1.4085
+Legal,Leadership,2021,6,71,8.4507
+Legal,Legal Research,2021,13,71,18.3099
+Legal,Litigation,2021,36,71,50.7042
+Legal,Mechanical Engineering,2021,2,71,2.8169
+Legal,Mentoring,2021,2,71,2.8169
+Legal,Mergers and Acquisitions,2021,1,71,1.4085
+Legal,Microsoft Excel,2021,11,71,15.493
+Legal,Microsoft Office,2021,8,71,11.2676
+Legal,Microsoft PowerPoint,2021,3,71,4.2254
+Legal,Microsoft Word,2021,5,71,7.0423
+Legal,Multitasking,2021,8,71,11.2676
+Legal,Negotiation,2021,3,71,4.2254
+Legal,Networking,2021,8,71,11.2676
+Legal,Onboarding,2021,1,71,1.4085
+Legal,Oracle,2021,3,71,4.2254
+Legal,Organizational Skills,2021,20,71,28.169
+Legal,Paralegal Skills,2021,24,71,33.8028
+Legal,Pharmacy,2021,3,71,4.2254
+Legal,Presentation Skills,2021,3,71,4.2254
+Legal,Problem Solving,2021,5,71,7.0423
+Legal,Project Management,2021,1,71,1.4085
+Legal,Public Relations,2021,2,71,2.8169
+Legal,Radiology,2021,9,71,12.6761
+Legal,Recruiting,2021,3,71,4.2254
+Legal,Remote Work,2021,10,71,14.0845
+Legal,Reporting,2021,1,71,1.4085
+Legal,Research,2021,2,71,2.8169
+Legal,SDLC,2021,1,71,1.4085
+Legal,Salesforce,2021,1,71,1.4085
+Legal,Self-Motivated,2021,21,71,29.5775
+Legal,Shell Scripting,2021,1,71,1.4085
+Legal,Six Sigma,2021,1,71,1.4085
+Legal,Statistical Analysis,2021,1,71,1.4085
+Legal,Tax Preparation,2021,1,71,1.4085
+Legal,Teamwork,2021,9,71,12.6761
+Legal,Time Management,2021,6,71,8.4507
+Legal,Verbal Communication,2021,18,71,25.3521
+Legal,Westlaw,2021,7,71,9.8592
+Legal,Windows Server,2021,1,71,1.4085
+Legal,Written Communication,2021,21,71,29.5775
+Manufacturing & Trades,APIs,2021,4,404,0.9901
+Manufacturing & Trades,Accounting,2021,14,404,3.4653
+Manufacturing & Trades,Active Listening,2021,2,404,0.495
+Manufacturing & Trades,Adaptability,2021,121,404,29.9505
+Manufacturing & Trades,Adobe Creative Suite,2021,4,404,0.9901
+Manufacturing & Trades,Agile,2021,5,404,1.2376
+Manufacturing & Trades,Assembly,2021,29,404,7.1782
+Manufacturing & Trades,Auditing,2021,5,404,1.2376
+Manufacturing & Trades,AutoCAD,2021,1,404,0.2475
+Manufacturing & Trades,Bilingual,2021,6,404,1.4851
+Manufacturing & Trades,Bloomberg Terminal,2021,2,404,0.495
+Manufacturing & Trades,Blueprint Reading,2021,2,404,0.495
+Manufacturing & Trades,Bookkeeping,2021,1,404,0.2475
+Manufacturing & Trades,Budgeting,2021,11,404,2.7228
+Manufacturing & Trades,Business Development,2021,1,404,0.2475
+Manufacturing & Trades,Business Intelligence,2021,3,404,0.7426
+Manufacturing & Trades,CAD,2021,4,404,0.9901
+Manufacturing & Trades,CFA,2021,2,404,0.495
+Manufacturing & Trades,CNC,2021,19,404,4.703
+Manufacturing & Trades,CPR,2021,1,404,0.2475
+Manufacturing & Trades,Chemical Engineering,2021,3,404,0.7426
+Manufacturing & Trades,Clinical Research,2021,1,404,0.2475
+Manufacturing & Trades,Communication Skills,2021,67,404,16.5842
+Manufacturing & Trades,Compliance,2021,63,404,15.5941
+Manufacturing & Trades,Conflict Resolution,2021,1,404,0.2475
+Manufacturing & Trades,Content Marketing,2021,2,404,0.495
+Manufacturing & Trades,Contract Review,2021,11,404,2.7228
+Manufacturing & Trades,Creative Thinking,2021,42,404,10.396
+Manufacturing & Trades,Critical Thinking,2021,4,404,0.9901
+Manufacturing & Trades,Cross-Functional Collaboration,2021,15,404,3.7129
+Manufacturing & Trades,Customer Service,2021,42,404,10.396
+Manufacturing & Trades,Cybersecurity,2021,1,404,0.2475
+Manufacturing & Trades,Data Analysis,2021,15,404,3.7129
+Manufacturing & Trades,Data Collection,2021,5,404,1.2376
+Manufacturing & Trades,Data Engineering,2021,2,404,0.495
+Manufacturing & Trades,Data Entry,2021,8,404,1.9802
+Manufacturing & Trades,Data Mining,2021,1,404,0.2475
+Manufacturing & Trades,Database Management,2021,1,404,0.2475
+Manufacturing & Trades,Decision Making,2021,11,404,2.7228
+Manufacturing & Trades,Due Diligence,2021,2,404,0.495
+Manufacturing & Trades,ERP Systems,2021,2,404,0.495
+Manufacturing & Trades,Editing,2021,8,404,1.9802
+Manufacturing & Trades,Electrical Engineering,2021,4,404,0.9901
+Manufacturing & Trades,Emotional Intelligence,2021,1,404,0.2475
+Manufacturing & Trades,Environmental Engineering,2021,1,404,0.2475
+Manufacturing & Trades,FDA Regulations,2021,2,404,0.495
+Manufacturing & Trades,Failure Analysis,2021,5,404,1.2376
+Manufacturing & Trades,Filing,2021,9,404,2.2277
+Manufacturing & Trades,Financial Analysis,2021,3,404,0.7426
+Manufacturing & Trades,Forecasting,2021,1,404,0.2475
+Manufacturing & Trades,GMP,2021,12,404,2.9703
+Manufacturing & Trades,Google Workspace,2021,1,404,0.2475
+Manufacturing & Trades,HIPAA,2021,1,404,0.2475
+Manufacturing & Trades,HTML,2021,4,404,0.9901
+Manufacturing & Trades,Illustrator,2021,2,404,0.495
+Manufacturing & Trades,Interpersonal Skills,2021,14,404,3.4653
+Manufacturing & Trades,Inventory Management,2021,12,404,2.9703
+Manufacturing & Trades,Java,2021,1,404,0.2475
+Manufacturing & Trades,Jira,2021,6,404,1.4851
+Manufacturing & Trades,Kanban,2021,1,404,0.2475
+Manufacturing & Trades,Leadership,2021,55,404,13.6139
+Manufacturing & Trades,Lean,2021,26,404,6.4356
+Manufacturing & Trades,Market Research,2021,1,404,0.2475
+Manufacturing & Trades,Marketing Automation,2021,1,404,0.2475
+Manufacturing & Trades,Mechanical Engineering,2021,4,404,0.9901
+Manufacturing & Trades,Mental Health,2021,2,404,0.495
+Manufacturing & Trades,Mentoring,2021,4,404,0.9901
+Manufacturing & Trades,Microsoft Excel,2021,42,404,10.396
+Manufacturing & Trades,Microsoft Office,2021,38,404,9.4059
+Manufacturing & Trades,Microsoft PowerPoint,2021,10,404,2.4752
+Manufacturing & Trades,Microsoft Word,2021,4,404,0.9901
+Manufacturing & Trades,Mobile Development,2021,1,404,0.2475
+Manufacturing & Trades,Multitasking,2021,4,404,0.9901
+Manufacturing & Trades,Negotiation,2021,16,404,3.9604
+Manufacturing & Trades,Networking,2021,1,404,0.2475
+Manufacturing & Trades,OSHA,2021,9,404,2.2277
+Manufacturing & Trades,Onboarding,2021,2,404,0.495
+Manufacturing & Trades,Oracle,2021,2,404,0.495
+Manufacturing & Trades,Organizational Skills,2021,80,404,19.802
+Manufacturing & Trades,PLC Programming,2021,8,404,1.9802
+Manufacturing & Trades,PPC Advertising,2021,1,404,0.2475
+Manufacturing & Trades,Patient Care,2021,3,404,0.7426
+Manufacturing & Trades,Payroll,2021,5,404,1.2376
+Manufacturing & Trades,Photoshop,2021,3,404,0.7426
+Manufacturing & Trades,Presentation Skills,2021,3,404,0.7426
+Manufacturing & Trades,Preventive Maintenance,2021,3,404,0.7426
+Manufacturing & Trades,Problem Solving,2021,39,404,9.6535
+Manufacturing & Trades,Process Improvement,2021,2,404,0.495
+Manufacturing & Trades,Procurement,2021,19,404,4.703
+Manufacturing & Trades,Project Management,2021,11,404,2.7228
+Manufacturing & Trades,Python,2021,3,404,0.7426
+Manufacturing & Trades,Quality Assurance,2021,63,404,15.5941
+Manufacturing & Trades,Quality Management Systems,2021,4,404,0.9901
+Manufacturing & Trades,Quantitative Analysis,2021,2,404,0.495
+Manufacturing & Trades,QuickBooks,2021,2,404,0.495
+Manufacturing & Trades,Radiology,2021,3,404,0.7426
+Manufacturing & Trades,React,2021,1,404,0.2475
+Manufacturing & Trades,Recruiting,2021,45,404,11.1386
+Manufacturing & Trades,Relationship Management,2021,2,404,0.495
+Manufacturing & Trades,Remote Work,2021,3,404,0.7426
+Manufacturing & Trades,Reporting,2021,20,404,4.9505
+Manufacturing & Trades,Research,2021,1,404,0.2475
+Manufacturing & Trades,Risk Management,2021,6,404,1.4851
+Manufacturing & Trades,Robotics,2021,1,404,0.2475
+Manufacturing & Trades,Root Cause Analysis,2021,8,404,1.9802
+Manufacturing & Trades,SAP,2021,4,404,0.9901
+Manufacturing & Trades,SQL,2021,4,404,0.9901
+Manufacturing & Trades,Sales,2021,2,404,0.495
+Manufacturing & Trades,Salesforce,2021,3,404,0.7426
+Manufacturing & Trades,Scheduling,2021,12,404,2.9703
+Manufacturing & Trades,Scientific Writing,2021,1,404,0.2475
+Manufacturing & Trades,Scrum,2021,1,404,0.2475
+Manufacturing & Trades,Self-Motivated,2021,60,404,14.8515
+Manufacturing & Trades,ServiceNow,2021,3,404,0.7426
+Manufacturing & Trades,Six Sigma,2021,3,404,0.7426
+Manufacturing & Trades,Statistical Analysis,2021,5,404,1.2376
+Manufacturing & Trades,Strategic Planning,2021,1,404,0.2475
+Manufacturing & Trades,Supply Chain Management,2021,23,404,5.6931
+Manufacturing & Trades,Survey Design,2021,5,404,1.2376
+Manufacturing & Trades,Tableau,2021,1,404,0.2475
+Manufacturing & Trades,Teamwork,2021,61,404,15.099
+Manufacturing & Trades,Technical Writing,2021,5,404,1.2376
+Manufacturing & Trades,Time Management,2021,22,404,5.4455
+Manufacturing & Trades,UX Design,2021,3,404,0.7426
+Manufacturing & Trades,VBA,2021,2,404,0.495
+Manufacturing & Trades,Vendor Management,2021,1,404,0.2475
+Manufacturing & Trades,Verbal Communication,2021,10,404,2.4752
+Manufacturing & Trades,Web Development,2021,2,404,0.495
+Manufacturing & Trades,Welding,2021,9,404,2.2277
+Manufacturing & Trades,Workday,2021,11,404,2.7228
+Manufacturing & Trades,Written Communication,2021,19,404,4.703
+Marketing & Communications,3D Printing,2021,3,202,1.4851
+Marketing & Communications,Accounting,2021,4,202,1.9802
+Marketing & Communications,Accounts Payable,2021,1,202,0.495
+Marketing & Communications,Adaptability,2021,39,202,19.3069
+Marketing & Communications,Adobe Creative Suite,2021,15,202,7.4257
+Marketing & Communications,Agile,2021,8,202,3.9604
+Marketing & Communications,Bilingual,2021,3,202,1.4851
+Marketing & Communications,Brand Management,2021,12,202,5.9406
+Marketing & Communications,Budgeting,2021,2,202,0.9901
+Marketing & Communications,Business Development,2021,11,202,5.4455
+Marketing & Communications,Business Intelligence,2021,5,202,2.4752
+Marketing & Communications,CI/CD,2021,1,202,0.495
+Marketing & Communications,CPA,2021,1,202,0.495
+Marketing & Communications,CRM Software,2021,14,202,6.9307
+Marketing & Communications,CSS,2021,3,202,1.4851
+Marketing & Communications,Communication Skills,2021,102,202,50.495
+Marketing & Communications,Compliance,2021,4,202,1.9802
+Marketing & Communications,Confluence,2021,1,202,0.495
+Marketing & Communications,Content Marketing,2021,34,202,16.8317
+Marketing & Communications,Content Writing,2021,1,202,0.495
+Marketing & Communications,Copywriting,2021,14,202,6.9307
+Marketing & Communications,Creative Thinking,2021,25,202,12.3762
+Marketing & Communications,Critical Thinking,2021,7,202,3.4653
+Marketing & Communications,Cross-Functional Collaboration,2021,16,202,7.9208
+Marketing & Communications,Customer Service,2021,25,202,12.3762
+Marketing & Communications,Data Analysis,2021,12,202,5.9406
+Marketing & Communications,Data Engineering,2021,2,202,0.9901
+Marketing & Communications,Data Entry,2021,2,202,0.9901
+Marketing & Communications,Data Visualization,2021,1,202,0.495
+Marketing & Communications,Data Warehousing,2021,1,202,0.495
+Marketing & Communications,Database Management,2021,3,202,1.4851
+Marketing & Communications,Decision Making,2021,3,202,1.4851
+Marketing & Communications,Digital Marketing,2021,25,202,12.3762
+Marketing & Communications,ERP Systems,2021,1,202,0.495
+Marketing & Communications,Editing,2021,53,202,26.2376
+Marketing & Communications,Email Marketing,2021,9,202,4.4554
+Marketing & Communications,Emotional Intelligence,2021,3,202,1.4851
+Marketing & Communications,Event Planning,2021,6,202,2.9703
+Marketing & Communications,Filing,2021,2,202,0.9901
+Marketing & Communications,Financial Analysis,2021,3,202,1.4851
+Marketing & Communications,Forecasting,2021,2,202,0.9901
+Marketing & Communications,Fundraising,2021,1,202,0.495
+Marketing & Communications,Google Analytics,2021,16,202,7.9208
+Marketing & Communications,Google Workspace,2021,4,202,1.9802
+Marketing & Communications,HRIS,2021,2,202,0.9901
+Marketing & Communications,HTML,2021,10,202,4.9505
+Marketing & Communications,HubSpot,2021,3,202,1.4851
+Marketing & Communications,Illustrator,2021,3,202,1.4851
+Marketing & Communications,InDesign,2021,6,202,2.9703
+Marketing & Communications,Instructional Design,2021,1,202,0.495
+Marketing & Communications,Interpersonal Skills,2021,19,202,9.4059
+Marketing & Communications,Investment Analysis,2021,1,202,0.495
+Marketing & Communications,Java,2021,1,202,0.495
+Marketing & Communications,JavaScript,2021,2,202,0.9901
+Marketing & Communications,Jira,2021,1,202,0.495
+Marketing & Communications,Kanban,2021,1,202,0.495
+Marketing & Communications,LMS,2021,1,202,0.495
+Marketing & Communications,Leadership,2021,18,202,8.9109
+Marketing & Communications,Machine Learning,2021,1,202,0.495
+Marketing & Communications,Market Research,2021,6,202,2.9703
+Marketing & Communications,Marketing Automation,2021,4,202,1.9802
+Marketing & Communications,Marketo,2021,1,202,0.495
+Marketing & Communications,Mentoring,2021,1,202,0.495
+Marketing & Communications,Microsoft Excel,2021,52,202,25.7426
+Marketing & Communications,Microsoft Office,2021,64,202,31.6832
+Marketing & Communications,Microsoft PowerPoint,2021,33,202,16.3366
+Marketing & Communications,Microsoft Teams,2021,3,202,1.4851
+Marketing & Communications,Microsoft Word,2021,12,202,5.9406
+Marketing & Communications,Multitasking,2021,41,202,20.297
+Marketing & Communications,Negotiation,2021,2,202,0.9901
+Marketing & Communications,Networking,2021,6,202,2.9703
+Marketing & Communications,Onboarding,2021,2,202,0.9901
+Marketing & Communications,Oracle,2021,2,202,0.9901
+Marketing & Communications,Organizational Skills,2021,99,202,49.0099
+Marketing & Communications,PPC Advertising,2021,12,202,5.9406
+Marketing & Communications,Payroll,2021,3,202,1.4851
+Marketing & Communications,Photoshop,2021,24,202,11.8812
+Marketing & Communications,Power BI,2021,2,202,0.9901
+Marketing & Communications,Presentation Skills,2021,10,202,4.9505
+Marketing & Communications,Problem Solving,2021,32,202,15.8416
+Marketing & Communications,Process Improvement,2021,1,202,0.495
+Marketing & Communications,Procurement,2021,2,202,0.9901
+Marketing & Communications,Project Management,2021,34,202,16.8317
+Marketing & Communications,Public Relations,2021,28,202,13.8614
+Marketing & Communications,Python,2021,1,202,0.495
+Marketing & Communications,Quality Assurance,2021,7,202,3.4653
+Marketing & Communications,Quantitative Analysis,2021,3,202,1.4851
+Marketing & Communications,React,2021,1,202,0.495
+Marketing & Communications,Recruiting,2021,17,202,8.4158
+Marketing & Communications,Relationship Management,2021,22,202,10.8911
+Marketing & Communications,Remote Work,2021,7,202,3.4653
+Marketing & Communications,Reporting,2021,50,202,24.7525
+Marketing & Communications,Research,2021,4,202,1.9802
+Marketing & Communications,Risk Management,2021,3,202,1.4851
+Marketing & Communications,SEO,2021,32,202,15.8416
+Marketing & Communications,SQL,2021,4,202,1.9802
+Marketing & Communications,SQL Server,2021,2,202,0.9901
+Marketing & Communications,Sales,2021,11,202,5.4455
+Marketing & Communications,Salesforce,2021,12,202,5.9406
+Marketing & Communications,Scheduling,2021,18,202,8.9109
+Marketing & Communications,Scrum,2021,1,202,0.495
+Marketing & Communications,Self-Motivated,2021,59,202,29.2079
+Marketing & Communications,Social Media,2021,79,202,39.1089
+Marketing & Communications,Social Media Marketing,2021,6,202,2.9703
+Marketing & Communications,Statistical Analysis,2021,3,202,1.4851
+Marketing & Communications,Strategic Planning,2021,4,202,1.9802
+Marketing & Communications,Supply Chain Management,2021,1,202,0.495
+Marketing & Communications,Tableau,2021,3,202,1.4851
+Marketing & Communications,Teamwork,2021,49,202,24.2574
+Marketing & Communications,Technical Writing,2021,5,202,2.4752
+Marketing & Communications,Time Management,2021,31,202,15.3465
+Marketing & Communications,UX Design,2021,2,202,0.9901
+Marketing & Communications,Valuation,2021,1,202,0.495
+Marketing & Communications,Vendor Management,2021,2,202,0.9901
+Marketing & Communications,Verbal Communication,2021,44,202,21.7822
+Marketing & Communications,Web Development,2021,8,202,3.9604
+Marketing & Communications,WordPress,2021,16,202,7.9208
+Marketing & Communications,Written Communication,2021,40,202,19.802
+Nursing & Clinical Care,Adaptability,2021,6,168,3.5714
+Nursing & Clinical Care,Auditing,2021,1,168,0.5952
+Nursing & Clinical Care,Bilingual,2021,18,168,10.7143
+Nursing & Clinical Care,CNC,2021,2,168,1.1905
+Nursing & Clinical Care,CPR,2021,129,168,76.7857
+Nursing & Clinical Care,Care Coordination,2021,1,168,0.5952
+Nursing & Clinical Care,Case Management,2021,2,168,1.1905
+Nursing & Clinical Care,Certified Nursing,2021,2,168,1.1905
+Nursing & Clinical Care,Clinical Research,2021,5,168,2.9762
+Nursing & Clinical Care,Communication Skills,2021,9,168,5.3571
+Nursing & Clinical Care,Compliance,2021,16,168,9.5238
+Nursing & Clinical Care,Conflict Resolution,2021,1,168,0.5952
+Nursing & Clinical Care,Cost Analysis,2021,1,168,0.5952
+Nursing & Clinical Care,Creative Thinking,2021,3,168,1.7857
+Nursing & Clinical Care,Critical Thinking,2021,25,168,14.881
+Nursing & Clinical Care,Curriculum Development,2021,3,168,1.7857
+Nursing & Clinical Care,Customer Service,2021,21,168,12.5
+Nursing & Clinical Care,Data Analysis,2021,45,168,26.7857
+Nursing & Clinical Care,Data Collection,2021,1,168,0.5952
+Nursing & Clinical Care,Database Management,2021,1,168,0.5952
+Nursing & Clinical Care,Decision Making,2021,4,168,2.381
+Nursing & Clinical Care,Editing,2021,18,168,10.7143
+Nursing & Clinical Care,Electronic Health Records,2021,3,168,1.7857
+Nursing & Clinical Care,Forecasting,2021,1,168,0.5952
+Nursing & Clinical Care,Google Cloud Platform,2021,1,168,0.5952
+Nursing & Clinical Care,HTML,2021,4,168,2.381
+Nursing & Clinical Care,ICD Coding,2021,1,168,0.5952
+Nursing & Clinical Care,Interpersonal Skills,2021,21,168,12.5
+Nursing & Clinical Care,Leadership,2021,26,168,15.4762
+Nursing & Clinical Care,Medical Terminology,2021,2,168,1.1905
+Nursing & Clinical Care,Mental Health,2021,16,168,9.5238
+Nursing & Clinical Care,Mentoring,2021,5,168,2.9762
+Nursing & Clinical Care,Microsoft Excel,2021,2,168,1.1905
+Nursing & Clinical Care,Microsoft Office,2021,3,168,1.7857
+Nursing & Clinical Care,Microsoft Word,2021,1,168,0.5952
+Nursing & Clinical Care,Multitasking,2021,3,168,1.7857
+Nursing & Clinical Care,Natural Language Processing,2021,1,168,0.5952
+Nursing & Clinical Care,Nursing,2021,84,168,50.0
+Nursing & Clinical Care,Onboarding,2021,1,168,0.5952
+Nursing & Clinical Care,Organizational Skills,2021,6,168,3.5714
+Nursing & Clinical Care,Patient Care,2021,94,168,55.9524
+Nursing & Clinical Care,Pharmacy,2021,9,168,5.3571
+Nursing & Clinical Care,Phlebotomy,2021,1,168,0.5952
+Nursing & Clinical Care,Physical Therapy,2021,9,168,5.3571
+Nursing & Clinical Care,Presentation Skills,2021,1,168,0.5952
+Nursing & Clinical Care,Problem Solving,2021,28,168,16.6667
+Nursing & Clinical Care,Process Improvement,2021,2,168,1.1905
+Nursing & Clinical Care,Procurement,2021,2,168,1.1905
+Nursing & Clinical Care,Quality Assurance,2021,3,168,1.7857
+Nursing & Clinical Care,Radiology,2021,16,168,9.5238
+Nursing & Clinical Care,React,2021,42,168,25.0
+Nursing & Clinical Care,Recruiting,2021,9,168,5.3571
+Nursing & Clinical Care,Reporting,2021,5,168,2.9762
+Nursing & Clinical Care,Risk Management,2021,4,168,2.381
+Nursing & Clinical Care,Robotics,2021,1,168,0.5952
+Nursing & Clinical Care,Root Cause Analysis,2021,1,168,0.5952
+Nursing & Clinical Care,SQL,2021,1,168,0.5952
+Nursing & Clinical Care,Scheduling,2021,9,168,5.3571
+Nursing & Clinical Care,Scientific Writing,2021,1,168,0.5952
+Nursing & Clinical Care,Self-Motivated,2021,6,168,3.5714
+Nursing & Clinical Care,Six Sigma,2021,1,168,0.5952
+Nursing & Clinical Care,Special Education,2021,1,168,0.5952
+Nursing & Clinical Care,Strategic Planning,2021,1,168,0.5952
+Nursing & Clinical Care,Teamwork,2021,6,168,3.5714
+Nursing & Clinical Care,Time Management,2021,23,168,13.6905
+Nursing & Clinical Care,Verbal Communication,2021,1,168,0.5952
+Nursing & Clinical Care,Vital Signs,2021,5,168,2.9762
+Nursing & Clinical Care,Written Communication,2021,3,168,1.7857
+Operations & Logistics,APIs,2021,1,201,0.4975
+Operations & Logistics,AWS,2021,1,201,0.4975
+Operations & Logistics,Accounting,2021,21,201,10.4478
+Operations & Logistics,Accounts Payable,2021,3,201,1.4925
+Operations & Logistics,Accounts Receivable,2021,1,201,0.4975
+Operations & Logistics,Adaptability,2021,42,201,20.8955
+Operations & Logistics,Adobe Creative Suite,2021,1,201,0.4975
+Operations & Logistics,Agile,2021,2,201,0.995
+Operations & Logistics,Auditing,2021,2,201,0.995
+Operations & Logistics,AutoCAD,2021,1,201,0.4975
+Operations & Logistics,Big Data,2021,1,201,0.4975
+Operations & Logistics,Bilingual,2021,5,201,2.4876
+Operations & Logistics,Bloomberg Terminal,2021,4,201,1.99
+Operations & Logistics,Budgeting,2021,1,201,0.4975
+Operations & Logistics,Business Development,2021,3,201,1.4925
+Operations & Logistics,Business Intelligence,2021,3,201,1.4925
+Operations & Logistics,CAD,2021,1,201,0.4975
+Operations & Logistics,CPR,2021,1,201,0.4975
+Operations & Logistics,CRM Software,2021,3,201,1.4925
+Operations & Logistics,Clinical Research,2021,1,201,0.4975
+Operations & Logistics,Communication Skills,2021,57,201,28.3582
+Operations & Logistics,Compliance,2021,25,201,12.4378
+Operations & Logistics,Conflict Resolution,2021,1,201,0.4975
+Operations & Logistics,Contract Review,2021,1,201,0.4975
+Operations & Logistics,Cost Analysis,2021,2,201,0.995
+Operations & Logistics,Creative Thinking,2021,17,201,8.4577
+Operations & Logistics,Critical Thinking,2021,7,201,3.4826
+Operations & Logistics,Cross-Functional Collaboration,2021,14,201,6.9652
+Operations & Logistics,Curriculum Development,2021,1,201,0.4975
+Operations & Logistics,Customer Service,2021,50,201,24.8756
+Operations & Logistics,Data Analysis,2021,14,201,6.9652
+Operations & Logistics,Data Collection,2021,2,201,0.995
+Operations & Logistics,Data Entry,2021,4,201,1.99
+Operations & Logistics,Data Mining,2021,1,201,0.4975
+Operations & Logistics,Data Warehousing,2021,1,201,0.4975
+Operations & Logistics,Decision Making,2021,1,201,0.4975
+Operations & Logistics,ERP Systems,2021,4,201,1.99
+Operations & Logistics,Electrical Engineering,2021,1,201,0.4975
+Operations & Logistics,Electronic Health Records,2021,1,201,0.4975
+Operations & Logistics,Emotional Intelligence,2021,1,201,0.4975
+Operations & Logistics,Filing,2021,5,201,2.4876
+Operations & Logistics,Financial Analysis,2021,2,201,0.995
+Operations & Logistics,Financial Planning,2021,2,201,0.995
+Operations & Logistics,Forecasting,2021,4,201,1.99
+Operations & Logistics,GMP,2021,1,201,0.4975
+Operations & Logistics,Google Workspace,2021,3,201,1.4925
+Operations & Logistics,HIPAA,2021,1,201,0.4975
+Operations & Logistics,HRIS,2021,1,201,0.4975
+Operations & Logistics,HTML,2021,3,201,1.4925
+Operations & Logistics,Interpersonal Skills,2021,12,201,5.9701
+Operations & Logistics,Inventory Management,2021,33,201,16.4179
+Operations & Logistics,Investment Analysis,2021,1,201,0.4975
+Operations & Logistics,JavaScript,2021,2,201,0.995
+Operations & Logistics,Jira,2021,2,201,0.995
+Operations & Logistics,Lab Management,2021,2,201,0.995
+Operations & Logistics,Leadership,2021,28,201,13.9303
+Operations & Logistics,Lean,2021,2,201,0.995
+Operations & Logistics,Linux,2021,1,201,0.4975
+Operations & Logistics,Machine Learning,2021,1,201,0.4975
+Operations & Logistics,Mechanical Engineering,2021,1,201,0.4975
+Operations & Logistics,Medical Terminology,2021,1,201,0.4975
+Operations & Logistics,Mental Health,2021,1,201,0.4975
+Operations & Logistics,Mentoring,2021,3,201,1.4925
+Operations & Logistics,Microsoft Excel,2021,53,201,26.3682
+Operations & Logistics,Microsoft Office,2021,31,201,15.4229
+Operations & Logistics,Microsoft PowerPoint,2021,10,201,4.9751
+Operations & Logistics,Microsoft Teams,2021,1,201,0.4975
+Operations & Logistics,Microsoft Word,2021,4,201,1.99
+Operations & Logistics,Multitasking,2021,9,201,4.4776
+Operations & Logistics,Negotiation,2021,3,201,1.4925
+Operations & Logistics,Networking,2021,7,201,3.4826
+Operations & Logistics,OSHA,2021,2,201,0.995
+Operations & Logistics,Onboarding,2021,8,201,3.9801
+Operations & Logistics,Operations Management,2021,2,201,0.995
+Operations & Logistics,Oracle,2021,5,201,2.4876
+Operations & Logistics,Organizational Skills,2021,69,201,34.3284
+Operations & Logistics,Patient Care,2021,1,201,0.4975
+Operations & Logistics,Payroll,2021,2,201,0.995
+Operations & Logistics,Pharmacy,2021,1,201,0.4975
+Operations & Logistics,Power BI,2021,2,201,0.995
+Operations & Logistics,Predictive Modeling,2021,1,201,0.4975
+Operations & Logistics,Presentation Skills,2021,2,201,0.995
+Operations & Logistics,Preventive Maintenance,2021,3,201,1.4925
+Operations & Logistics,Problem Solving,2021,40,201,19.9005
+Operations & Logistics,Process Improvement,2021,10,201,4.9751
+Operations & Logistics,Procurement,2021,17,201,8.4577
+Operations & Logistics,Project Management,2021,11,201,5.4726
+Operations & Logistics,Python,2021,3,201,1.4925
+Operations & Logistics,Quality Assurance,2021,19,201,9.4527
+Operations & Logistics,Quantitative Analysis,2021,2,201,0.995
+Operations & Logistics,Radiology,2021,1,201,0.4975
+Operations & Logistics,Recruiting,2021,30,201,14.9254
+Operations & Logistics,Relationship Management,2021,3,201,1.4925
+Operations & Logistics,Remote Work,2021,4,201,1.99
+Operations & Logistics,Reporting,2021,26,201,12.9353
+Operations & Logistics,Risk Management,2021,4,201,1.99
+Operations & Logistics,Robotics,2021,1,201,0.4975
+Operations & Logistics,Root Cause Analysis,2021,3,201,1.4925
+Operations & Logistics,SAP,2021,10,201,4.9751
+Operations & Logistics,SQL,2021,8,201,3.9801
+Operations & Logistics,Sales,2021,2,201,0.995
+Operations & Logistics,Salesforce,2021,8,201,3.9801
+Operations & Logistics,Scheduling,2021,9,201,4.4776
+Operations & Logistics,Self-Motivated,2021,44,201,21.8905
+Operations & Logistics,Series 7,2021,1,201,0.4975
+Operations & Logistics,Shell Scripting,2021,1,201,0.4975
+Operations & Logistics,Social Media,2021,1,201,0.4975
+Operations & Logistics,Statistical Analysis,2021,3,201,1.4925
+Operations & Logistics,Supply Chain Management,2021,38,201,18.9055
+Operations & Logistics,Tableau,2021,3,201,1.4925
+Operations & Logistics,Teamwork,2021,32,201,15.9204
+Operations & Logistics,Technical Writing,2021,1,201,0.4975
+Operations & Logistics,Time Management,2021,17,201,8.4577
+Operations & Logistics,VBA,2021,3,201,1.4925
+Operations & Logistics,Valuation,2021,1,201,0.4975
+Operations & Logistics,Vendor Management,2021,4,201,1.99
+Operations & Logistics,Verbal Communication,2021,11,201,5.4726
+Operations & Logistics,WordPress,2021,2,201,0.995
+Operations & Logistics,Workday,2021,6,201,2.9851
+Operations & Logistics,Written Communication,2021,16,201,7.9602
+Other,3D Printing,2021,2,600,0.3333
+Other,APIs,2021,11,600,1.8333
+Other,AWS,2021,5,600,0.8333
+Other,Academic Advising,2021,1,600,0.1667
+Other,Accounting,2021,56,600,9.3333
+Other,Accounts Payable,2021,4,600,0.6667
+Other,Accounts Receivable,2021,5,600,0.8333
+Other,Active Listening,2021,1,600,0.1667
+Other,Adaptability,2021,93,600,15.5
+Other,Adobe Creative Suite,2021,11,600,1.8333
+Other,Agile,2021,13,600,2.1667
+Other,Artificial Intelligence,2021,2,600,0.3333
+Other,Auditing,2021,21,600,3.5
+Other,Azure,2021,2,600,0.3333
+Other,Big Data,2021,5,600,0.8333
+Other,Bilingual,2021,10,600,1.6667
+Other,Bloomberg Terminal,2021,4,600,0.6667
+Other,Bookkeeping,2021,9,600,1.5
+Other,Brand Management,2021,7,600,1.1667
+Other,Budgeting,2021,7,600,1.1667
+Other,Business Development,2021,14,600,2.3333
+Other,Business Intelligence,2021,32,600,5.3333
+Other,CAD,2021,8,600,1.3333
+Other,CFA,2021,10,600,1.6667
+Other,CI/CD,2021,1,600,0.1667
+Other,CISSP,2021,3,600,0.5
+Other,CNC,2021,1,600,0.1667
+Other,CPA,2021,4,600,0.6667
+Other,CPR,2021,15,600,2.5
+Other,CRM Software,2021,17,600,2.8333
+Other,CSS,2021,4,600,0.6667
+Other,Care Coordination,2021,1,600,0.1667
+Other,Case Management,2021,4,600,0.6667
+Other,Certified Nursing,2021,1,600,0.1667
+Other,Chemical Engineering,2021,4,600,0.6667
+Other,Clinical Research,2021,2,600,0.3333
+Other,Cloud Computing,2021,5,600,0.8333
+Other,Communication Skills,2021,217,600,36.1667
+Other,CompTIA,2021,3,600,0.5
+Other,Compliance,2021,126,600,21.0
+Other,Conflict Resolution,2021,7,600,1.1667
+Other,Content Marketing,2021,5,600,0.8333
+Other,Contract Review,2021,11,600,1.8333
+Other,Copywriting,2021,1,600,0.1667
+Other,Corporate Law,2021,1,600,0.1667
+Other,Cost Analysis,2021,4,600,0.6667
+Other,Creative Thinking,2021,72,600,12.0
+Other,Critical Thinking,2021,19,600,3.1667
+Other,Cross-Functional Collaboration,2021,22,600,3.6667
+Other,Curriculum Development,2021,2,600,0.3333
+Other,Customer Service,2021,131,600,21.8333
+Other,Cybersecurity,2021,24,600,4.0
+Other,Data Analysis,2021,114,600,19.0
+Other,Data Collection,2021,11,600,1.8333
+Other,Data Engineering,2021,4,600,0.6667
+Other,Data Entry,2021,8,600,1.3333
+Other,Data Mining,2021,4,600,0.6667
+Other,Data Visualization,2021,5,600,0.8333
+Other,Data Warehousing,2021,5,600,0.8333
+Other,Database Management,2021,6,600,1.0
+Other,Decision Making,2021,38,600,6.3333
+Other,DevOps,2021,1,600,0.1667
+Other,Digital Marketing,2021,2,600,0.3333
+Other,Django,2021,2,600,0.3333
+Other,Due Diligence,2021,12,600,2.0
+Other,ERP Systems,2021,20,600,3.3333
+Other,Editing,2021,12,600,2.0
+Other,Electrical Engineering,2021,11,600,1.8333
+Other,Electronic Health Records,2021,7,600,1.1667
+Other,Email Marketing,2021,4,600,0.6667
+Other,Environmental Engineering,2021,4,600,0.6667
+Other,Event Planning,2021,2,600,0.3333
+Other,Figma,2021,3,600,0.5
+Other,Filing,2021,10,600,1.6667
+Other,Financial Analysis,2021,26,600,4.3333
+Other,Financial Planning,2021,4,600,0.6667
+Other,Financial Statements,2021,3,600,0.5
+Other,Forecasting,2021,23,600,3.8333
+Other,Fundraising,2021,4,600,0.6667
+Other,GMP,2021,6,600,1.0
+Other,Git,2021,2,600,0.3333
+Other,Go,2021,2,600,0.3333
+Other,Google Analytics,2021,5,600,0.8333
+Other,Google Cloud Platform,2021,5,600,0.8333
+Other,Google Workspace,2021,6,600,1.0
+Other,HIPAA,2021,4,600,0.6667
+Other,HRIS,2021,1,600,0.1667
+Other,HTML,2021,18,600,3.0
+Other,ICD Coding,2021,1,600,0.1667
+Other,Illustrator,2021,10,600,1.6667
+Other,InDesign,2021,6,600,1.0
+Other,Instructional Design,2021,1,600,0.1667
+Other,Intellectual Property,2021,5,600,0.8333
+Other,Interpersonal Skills,2021,82,600,13.6667
+Other,Inventory Management,2021,8,600,1.3333
+Other,Investment Analysis,2021,5,600,0.8333
+Other,Java,2021,11,600,1.8333
+Other,JavaScript,2021,6,600,1.0
+Other,Jira,2021,5,600,0.8333
+Other,Kanban,2021,1,600,0.1667
+Other,Leadership,2021,113,600,18.8333
+Other,Linux,2021,8,600,1.3333
+Other,Litigation,2021,12,600,2.0
+Other,MATLAB,2021,7,600,1.1667
+Other,Machine Learning,2021,11,600,1.8333
+Other,Market Research,2021,12,600,2.0
+Other,Marketing Analytics,2021,3,600,0.5
+Other,Marketing Automation,2021,6,600,1.0
+Other,Materials Science,2021,3,600,0.5
+Other,Mechanical Engineering,2021,5,600,0.8333
+Other,Medical Terminology,2021,1,600,0.1667
+Other,Mental Health,2021,11,600,1.8333
+Other,Mentoring,2021,17,600,2.8333
+Other,Mergers and Acquisitions,2021,1,600,0.1667
+Other,Microsoft Excel,2021,132,600,22.0
+Other,Microsoft Office,2021,126,600,21.0
+Other,Microsoft PowerPoint,2021,44,600,7.3333
+Other,Microsoft Word,2021,9,600,1.5
+Other,Mobile Development,2021,2,600,0.3333
+Other,MongoDB,2021,1,600,0.1667
+Other,Multitasking,2021,23,600,3.8333
+Other,Natural Language Processing,2021,6,600,1.0
+Other,Negotiation,2021,21,600,3.5
+Other,Networking,2021,35,600,5.8333
+Other,NoSQL,2021,1,600,0.1667
+Other,Node.js,2021,1,600,0.1667
+Other,OSHA,2021,5,600,0.8333
+Other,Onboarding,2021,16,600,2.6667
+Other,Oracle,2021,18,600,3.0
+Other,Organizational Skills,2021,127,600,21.1667
+Other,PHP,2021,1,600,0.1667
+Other,PLC Programming,2021,3,600,0.5
+Other,PMP,2021,5,600,0.8333
+Other,PPC Advertising,2021,1,600,0.1667
+Other,Paralegal Skills,2021,2,600,0.3333
+Other,Patient Care,2021,17,600,2.8333
+Other,Payroll,2021,5,600,0.8333
+Other,Perl,2021,2,600,0.3333
+Other,Pharmacy,2021,6,600,1.0
+Other,Photoshop,2021,16,600,2.6667
+Other,Physical Therapy,2021,6,600,1.0
+Other,Power BI,2021,8,600,1.3333
+Other,Presentation Skills,2021,34,600,5.6667
+Other,Preventive Maintenance,2021,9,600,1.5
+Other,Problem Solving,2021,123,600,20.5
+Other,Process Improvement,2021,29,600,4.8333
+Other,Procurement,2021,22,600,3.6667
+Other,Project Management,2021,80,600,13.3333
+Other,Public Relations,2021,3,600,0.5
+Other,Python,2021,31,600,5.1667
+Other,Quality Assurance,2021,35,600,5.8333
+Other,Quality Management Systems,2021,1,600,0.1667
+Other,Quantitative Analysis,2021,4,600,0.6667
+Other,R Programming,2021,2,600,0.3333
+Other,Radiology,2021,16,600,2.6667
+Other,React,2021,7,600,1.1667
+Other,Recruiting,2021,26,600,4.3333
+Other,Relationship Management,2021,21,600,3.5
+Other,Remote Work,2021,43,600,7.1667
+Other,Reporting,2021,131,600,21.8333
+Other,Research,2021,8,600,1.3333
+Other,Revenue Analysis,2021,5,600,0.8333
+Other,Risk Management,2021,34,600,5.6667
+Other,Robotics,2021,2,600,0.3333
+Other,Root Cause Analysis,2021,5,600,0.8333
+Other,Ruby,2021,2,600,0.3333
+Other,SAP,2021,45,600,7.5
+Other,SAS,2021,12,600,2.0
+Other,SDLC,2021,5,600,0.8333
+Other,SEO,2021,6,600,1.0
+Other,SHRM,2021,2,600,0.3333
+Other,SQL,2021,31,600,5.1667
+Other,SQL Server,2021,9,600,1.5
+Other,Sales,2021,13,600,2.1667
+Other,Salesforce,2021,15,600,2.5
+Other,Scala,2021,1,600,0.1667
+Other,Scheduling,2021,39,600,6.5
+Other,Scientific Writing,2021,1,600,0.1667
+Other,Scrum,2021,6,600,1.0
+Other,Self-Motivated,2021,149,600,24.8333
+Other,Series 7,2021,3,600,0.5
+Other,ServiceNow,2021,3,600,0.5
+Other,Shell Scripting,2021,7,600,1.1667
+Other,Six Sigma,2021,3,600,0.5
+Other,Sketch,2021,3,600,0.5
+Other,Slack,2021,2,600,0.3333
+Other,Social Media,2021,17,600,2.8333
+Other,SolidWorks,2021,1,600,0.1667
+Other,Special Education,2021,2,600,0.3333
+Other,Statistical Analysis,2021,22,600,3.6667
+Other,Strategic Planning,2021,10,600,1.6667
+Other,Supply Chain Management,2021,31,600,5.1667
+Other,Tableau,2021,16,600,2.6667
+Other,Tax Preparation,2021,1,600,0.1667
+Other,Teamwork,2021,59,600,9.8333
+Other,Technical Writing,2021,2,600,0.3333
+Other,Time Management,2021,74,600,12.3333
+Other,UI Design,2021,3,600,0.5
+Other,UX Design,2021,8,600,1.3333
+Other,Underwriting,2021,21,600,3.5
+Other,VBA,2021,5,600,0.8333
+Other,Valuation,2021,10,600,1.6667
+Other,Vendor Management,2021,3,600,0.5
+Other,Verbal Communication,2021,63,600,10.5
+Other,Vital Signs,2021,1,600,0.1667
+Other,Web Development,2021,10,600,1.6667
+Other,Windows Server,2021,2,600,0.3333
+Other,Workday,2021,18,600,3.0
+Other,Written Communication,2021,87,600,14.5
+Project & Program Management,APIs,2021,1,114,0.8772
+Project & Program Management,Accounting,2021,7,114,6.1404
+Project & Program Management,Adaptability,2021,22,114,19.2982
+Project & Program Management,Agile,2021,2,114,1.7544
+Project & Program Management,Artificial Intelligence,2021,1,114,0.8772
+Project & Program Management,Auditing,2021,4,114,3.5088
+Project & Program Management,AutoCAD,2021,3,114,2.6316
+Project & Program Management,Bilingual,2021,2,114,1.7544
+Project & Program Management,Budgeting,2021,4,114,3.5088
+Project & Program Management,Business Development,2021,1,114,0.8772
+Project & Program Management,Business Intelligence,2021,6,114,5.2632
+Project & Program Management,CAD,2021,3,114,2.6316
+Project & Program Management,CRM Software,2021,9,114,7.8947
+Project & Program Management,CSS,2021,3,114,2.6316
+Project & Program Management,Case Management,2021,1,114,0.8772
+Project & Program Management,Communication Skills,2021,42,114,36.8421
+Project & Program Management,Compliance,2021,36,114,31.5789
+Project & Program Management,Conflict Resolution,2021,1,114,0.8772
+Project & Program Management,Contract Review,2021,1,114,0.8772
+Project & Program Management,Copywriting,2021,1,114,0.8772
+Project & Program Management,Creative Thinking,2021,42,114,36.8421
+Project & Program Management,Critical Thinking,2021,4,114,3.5088
+Project & Program Management,Cross-Functional Collaboration,2021,5,114,4.386
+Project & Program Management,Customer Service,2021,44,114,38.5965
+Project & Program Management,Data Analysis,2021,14,114,12.2807
+Project & Program Management,Data Entry,2021,1,114,0.8772
+Project & Program Management,Data Mining,2021,1,114,0.8772
+Project & Program Management,Database Management,2021,1,114,0.8772
+Project & Program Management,Decision Making,2021,6,114,5.2632
+Project & Program Management,Digital Marketing,2021,1,114,0.8772
+Project & Program Management,Due Diligence,2021,3,114,2.6316
+Project & Program Management,ERP Systems,2021,8,114,7.0175
+Project & Program Management,Editing,2021,3,114,2.6316
+Project & Program Management,Emotional Intelligence,2021,1,114,0.8772
+Project & Program Management,Event Planning,2021,1,114,0.8772
+Project & Program Management,Filing,2021,1,114,0.8772
+Project & Program Management,Financial Analysis,2021,5,114,4.386
+Project & Program Management,Financial Planning,2021,2,114,1.7544
+Project & Program Management,Forecasting,2021,5,114,4.386
+Project & Program Management,Grant Writing,2021,1,114,0.8772
+Project & Program Management,Interpersonal Skills,2021,19,114,16.6667
+Project & Program Management,JavaScript,2021,1,114,0.8772
+Project & Program Management,Jira,2021,2,114,1.7544
+Project & Program Management,Leadership,2021,57,114,50.0
+Project & Program Management,Litigation,2021,1,114,0.8772
+Project & Program Management,Market Research,2021,4,114,3.5088
+Project & Program Management,Medical Terminology,2021,3,114,2.6316
+Project & Program Management,Mentoring,2021,5,114,4.386
+Project & Program Management,Mergers and Acquisitions,2021,1,114,0.8772
+Project & Program Management,Microsoft Excel,2021,47,114,41.2281
+Project & Program Management,Microsoft Office,2021,42,114,36.8421
+Project & Program Management,Microsoft PowerPoint,2021,31,114,27.193
+Project & Program Management,Microsoft Teams,2021,3,114,2.6316
+Project & Program Management,Microsoft Word,2021,8,114,7.0175
+Project & Program Management,Multitasking,2021,10,114,8.7719
+Project & Program Management,Negotiation,2021,2,114,1.7544
+Project & Program Management,Networking,2021,10,114,8.7719
+Project & Program Management,Onboarding,2021,2,114,1.7544
+Project & Program Management,Oracle,2021,2,114,1.7544
+Project & Program Management,Organizational Skills,2021,38,114,33.3333
+Project & Program Management,PHP,2021,1,114,0.8772
+Project & Program Management,PLC Programming,2021,2,114,1.7544
+Project & Program Management,Pharmacy,2021,1,114,0.8772
+Project & Program Management,Photoshop,2021,1,114,0.8772
+Project & Program Management,Physical Therapy,2021,1,114,0.8772
+Project & Program Management,Power BI,2021,3,114,2.6316
+Project & Program Management,Problem Solving,2021,24,114,21.0526
+Project & Program Management,Process Improvement,2021,3,114,2.6316
+Project & Program Management,Procurement,2021,2,114,1.7544
+Project & Program Management,Project Management,2021,31,114,27.193
+Project & Program Management,Public Relations,2021,1,114,0.8772
+Project & Program Management,Quality Assurance,2021,12,114,10.5263
+Project & Program Management,Recruiting,2021,13,114,11.4035
+Project & Program Management,Remote Work,2021,7,114,6.1404
+Project & Program Management,Reporting,2021,37,114,32.4561
+Project & Program Management,Research,2021,1,114,0.8772
+Project & Program Management,Revenue Analysis,2021,1,114,0.8772
+Project & Program Management,Risk Management,2021,3,114,2.6316
+Project & Program Management,SAP,2021,4,114,3.5088
+Project & Program Management,SAS,2021,2,114,1.7544
+Project & Program Management,SQL,2021,4,114,3.5088
+Project & Program Management,Salesforce,2021,3,114,2.6316
+Project & Program Management,Scheduling,2021,21,114,18.4211
+Project & Program Management,Scientific Writing,2021,1,114,0.8772
+Project & Program Management,Self-Motivated,2021,33,114,28.9474
+Project & Program Management,Social Media,2021,8,114,7.0175
+Project & Program Management,SolidWorks,2021,2,114,1.7544
+Project & Program Management,Statistical Analysis,2021,1,114,0.8772
+Project & Program Management,Strategic Planning,2021,2,114,1.7544
+Project & Program Management,Tableau,2021,1,114,0.8772
+Project & Program Management,Teamwork,2021,35,114,30.7018
+Project & Program Management,Technical Writing,2021,2,114,1.7544
+Project & Program Management,Time Management,2021,17,114,14.9123
+Project & Program Management,Trello,2021,3,114,2.6316
+Project & Program Management,Tutoring,2021,1,114,0.8772
+Project & Program Management,UX Design,2021,1,114,0.8772
+Project & Program Management,Underwriting,2021,2,114,1.7544
+Project & Program Management,Vendor Management,2021,1,114,0.8772
+Project & Program Management,Verbal Communication,2021,18,114,15.7895
+Project & Program Management,Workday,2021,23,114,20.1754
+Project & Program Management,Written Communication,2021,17,114,14.9123
+Research & Science,APIs,2021,1,119,0.8403
+Research & Science,AWS,2021,1,119,0.8403
+Research & Science,Accounting,2021,16,119,13.4454
+Research & Science,Adaptability,2021,22,119,18.4874
+Research & Science,Artificial Intelligence,2021,1,119,0.8403
+Research & Science,Bloomberg Terminal,2021,8,119,6.7227
+Research & Science,Business Development,2021,2,119,1.6807
+Research & Science,CAD,2021,1,119,0.8403
+Research & Science,CFA,2021,14,119,11.7647
+Research & Science,CPA,2021,1,119,0.8403
+Research & Science,Chemical Engineering,2021,9,119,7.563
+Research & Science,Clinical Research,2021,5,119,4.2017
+Research & Science,Cloud Computing,2021,1,119,0.8403
+Research & Science,Communication Skills,2021,58,119,48.7395
+Research & Science,Compliance,2021,23,119,19.3277
+Research & Science,Content Marketing,2021,1,119,0.8403
+Research & Science,Creative Thinking,2021,21,119,17.6471
+Research & Science,Critical Thinking,2021,3,119,2.521
+Research & Science,Cross-Functional Collaboration,2021,8,119,6.7227
+Research & Science,Customer Service,2021,9,119,7.563
+Research & Science,Cybersecurity,2021,1,119,0.8403
+Research & Science,Data Analysis,2021,38,119,31.9328
+Research & Science,Data Collection,2021,6,119,5.042
+Research & Science,Data Mining,2021,3,119,2.521
+Research & Science,Data Visualization,2021,2,119,1.6807
+Research & Science,Decision Making,2021,4,119,3.3613
+Research & Science,Deep Learning,2021,1,119,0.8403
+Research & Science,Digital Marketing,2021,1,119,0.8403
+Research & Science,Docker,2021,1,119,0.8403
+Research & Science,Due Diligence,2021,2,119,1.6807
+Research & Science,Editing,2021,5,119,4.2017
+Research & Science,Electrical Engineering,2021,1,119,0.8403
+Research & Science,Environmental Engineering,2021,2,119,1.6807
+Research & Science,Event Planning,2021,1,119,0.8403
+Research & Science,FDA Regulations,2021,1,119,0.8403
+Research & Science,Filing,2021,2,119,1.6807
+Research & Science,Financial Analysis,2021,14,119,11.7647
+Research & Science,Financial Planning,2021,3,119,2.521
+Research & Science,Financial Statements,2021,1,119,0.8403
+Research & Science,Forecasting,2021,2,119,1.6807
+Research & Science,GMP,2021,9,119,7.563
+Research & Science,Git,2021,3,119,2.521
+Research & Science,HTML,2021,1,119,0.8403
+Research & Science,Intellectual Property,2021,2,119,1.6807
+Research & Science,Interpersonal Skills,2021,7,119,5.8824
+Research & Science,Inventory Management,2021,1,119,0.8403
+Research & Science,Investment Analysis,2021,9,119,7.563
+Research & Science,Java,2021,2,119,1.6807
+Research & Science,Lab Management,2021,1,119,0.8403
+Research & Science,Laboratory Skills,2021,1,119,0.8403
+Research & Science,Leadership,2021,16,119,13.4454
+Research & Science,Linux,2021,1,119,0.8403
+Research & Science,Litigation,2021,1,119,0.8403
+Research & Science,MATLAB,2021,2,119,1.6807
+Research & Science,Machine Learning,2021,6,119,5.042
+Research & Science,Market Research,2021,5,119,4.2017
+Research & Science,Mentoring,2021,8,119,6.7227
+Research & Science,Mergers and Acquisitions,2021,1,119,0.8403
+Research & Science,Microsoft Excel,2021,45,119,37.8151
+Research & Science,Microsoft Office,2021,20,119,16.8067
+Research & Science,Microsoft PowerPoint,2021,26,119,21.8487
+Research & Science,Microsoft Teams,2021,1,119,0.8403
+Research & Science,Microsoft Word,2021,12,119,10.084
+Research & Science,Multitasking,2021,18,119,15.1261
+Research & Science,Natural Language Processing,2021,2,119,1.6807
+Research & Science,Networking,2021,2,119,1.6807
+Research & Science,Onboarding,2021,1,119,0.8403
+Research & Science,Operations Management,2021,1,119,0.8403
+Research & Science,Organizational Skills,2021,55,119,46.2185
+Research & Science,Patient Care,2021,2,119,1.6807
+Research & Science,Pharmacy,2021,6,119,5.042
+Research & Science,Physical Therapy,2021,1,119,0.8403
+Research & Science,Presentation Skills,2021,10,119,8.4034
+Research & Science,Preventive Maintenance,2021,1,119,0.8403
+Research & Science,Problem Solving,2021,37,119,31.0924
+Research & Science,Process Improvement,2021,3,119,2.521
+Research & Science,Procurement,2021,2,119,1.6807
+Research & Science,Project Management,2021,3,119,2.521
+Research & Science,Public Relations,2021,1,119,0.8403
+Research & Science,Python,2021,8,119,6.7227
+Research & Science,Quality Assurance,2021,9,119,7.563
+Research & Science,Quality Management Systems,2021,1,119,0.8403
+Research & Science,Quantitative Analysis,2021,7,119,5.8824
+Research & Science,Radiology,2021,2,119,1.6807
+Research & Science,React,2021,1,119,0.8403
+Research & Science,Recruiting,2021,16,119,13.4454
+Research & Science,Relationship Management,2021,1,119,0.8403
+Research & Science,Remote Work,2021,5,119,4.2017
+Research & Science,Reporting,2021,14,119,11.7647
+Research & Science,Research,2021,2,119,1.6807
+Research & Science,Revenue Analysis,2021,1,119,0.8403
+Research & Science,Risk Management,2021,2,119,1.6807
+Research & Science,SAP,2021,1,119,0.8403
+Research & Science,SAS,2021,2,119,1.6807
+Research & Science,SQL,2021,6,119,5.042
+Research & Science,SQL Server,2021,1,119,0.8403
+Research & Science,Sales,2021,3,119,2.521
+Research & Science,Scheduling,2021,5,119,4.2017
+Research & Science,Scientific Writing,2021,1,119,0.8403
+Research & Science,Self-Motivated,2021,33,119,27.7311
+Research & Science,Statistical Analysis,2021,9,119,7.563
+Research & Science,Strategic Planning,2021,2,119,1.6807
+Research & Science,Survey Design,2021,2,119,1.6807
+Research & Science,Tableau,2021,3,119,2.521
+Research & Science,Teamwork,2021,35,119,29.4118
+Research & Science,Technical Writing,2021,4,119,3.3613
+Research & Science,Time Management,2021,13,119,10.9244
+Research & Science,UI Design,2021,1,119,0.8403
+Research & Science,UX Design,2021,2,119,1.6807
+Research & Science,VBA,2021,3,119,2.521
+Research & Science,Valuation,2021,13,119,10.9244
+Research & Science,Verbal Communication,2021,17,119,14.2857
+Research & Science,Web Development,2021,2,119,1.6807
+Research & Science,Workday,2021,1,119,0.8403
+Research & Science,Written Communication,2021,23,119,19.3277
+Sales & Business Development,3D Printing,2021,1,328,0.3049
+Sales & Business Development,Accounting,2021,8,328,2.439
+Sales & Business Development,Accounts Receivable,2021,1,328,0.3049
+Sales & Business Development,Active Listening,2021,1,328,0.3049
+Sales & Business Development,Adaptability,2021,141,328,42.9878
+Sales & Business Development,Adobe Creative Suite,2021,2,328,0.6098
+Sales & Business Development,Agile,2021,35,328,10.6707
+Sales & Business Development,Artificial Intelligence,2021,1,328,0.3049
+Sales & Business Development,Bilingual,2021,7,328,2.1341
+Sales & Business Development,Bloomberg Terminal,2021,1,328,0.3049
+Sales & Business Development,Bookkeeping,2021,1,328,0.3049
+Sales & Business Development,Brand Management,2021,2,328,0.6098
+Sales & Business Development,Budgeting,2021,3,328,0.9146
+Sales & Business Development,Business Development,2021,67,328,20.4268
+Sales & Business Development,Business Intelligence,2021,4,328,1.2195
+Sales & Business Development,CFA,2021,6,328,1.8293
+Sales & Business Development,CPA,2021,4,328,1.2195
+Sales & Business Development,CPR,2021,1,328,0.3049
+Sales & Business Development,CRM Software,2021,23,328,7.0122
+Sales & Business Development,Chemical Engineering,2021,2,328,0.6098
+Sales & Business Development,Communication Skills,2021,121,328,36.8902
+Sales & Business Development,Compliance,2021,53,328,16.1585
+Sales & Business Development,Content Marketing,2021,1,328,0.3049
+Sales & Business Development,Contract Review,2021,1,328,0.3049
+Sales & Business Development,Creative Thinking,2021,74,328,22.561
+Sales & Business Development,Critical Thinking,2021,4,328,1.2195
+Sales & Business Development,Cross-Functional Collaboration,2021,7,328,2.1341
+Sales & Business Development,Customer Service,2021,132,328,40.2439
+Sales & Business Development,Cybersecurity,2021,1,328,0.3049
+Sales & Business Development,Data Analysis,2021,24,328,7.3171
+Sales & Business Development,Data Collection,2021,2,328,0.6098
+Sales & Business Development,Data Entry,2021,4,328,1.2195
+Sales & Business Development,Data Warehousing,2021,2,328,0.6098
+Sales & Business Development,Database Management,2021,5,328,1.5244
+Sales & Business Development,Decision Making,2021,8,328,2.439
+Sales & Business Development,Digital Marketing,2021,6,328,1.8293
+Sales & Business Development,Due Diligence,2021,1,328,0.3049
+Sales & Business Development,ERP Systems,2021,1,328,0.3049
+Sales & Business Development,Editing,2021,1,328,0.3049
+Sales & Business Development,Email Marketing,2021,1,328,0.3049
+Sales & Business Development,Emotional Intelligence,2021,1,328,0.3049
+Sales & Business Development,Filing,2021,1,328,0.3049
+Sales & Business Development,Financial Analysis,2021,5,328,1.5244
+Sales & Business Development,Financial Planning,2021,18,328,5.4878
+Sales & Business Development,Forecasting,2021,6,328,1.8293
+Sales & Business Development,Google Analytics,2021,1,328,0.3049
+Sales & Business Development,HTML,2021,5,328,1.5244
+Sales & Business Development,Immigration Law,2021,15,328,4.5732
+Sales & Business Development,Interpersonal Skills,2021,33,328,10.061
+Sales & Business Development,Inventory Management,2021,17,328,5.1829
+Sales & Business Development,Leadership,2021,31,328,9.4512
+Sales & Business Development,Machine Learning,2021,37,328,11.2805
+Sales & Business Development,Market Research,2021,4,328,1.2195
+Sales & Business Development,Marketing Analytics,2021,1,328,0.3049
+Sales & Business Development,Marketing Automation,2021,2,328,0.6098
+Sales & Business Development,Mechanical Engineering,2021,1,328,0.3049
+Sales & Business Development,Mental Health,2021,35,328,10.6707
+Sales & Business Development,Mentoring,2021,18,328,5.4878
+Sales & Business Development,Mergers and Acquisitions,2021,4,328,1.2195
+Sales & Business Development,Microsoft Excel,2021,99,328,30.1829
+Sales & Business Development,Microsoft Office,2021,37,328,11.2805
+Sales & Business Development,Microsoft PowerPoint,2021,20,328,6.0976
+Sales & Business Development,Microsoft Teams,2021,1,328,0.3049
+Sales & Business Development,Microsoft Word,2021,21,328,6.4024
+Sales & Business Development,Multitasking,2021,29,328,8.8415
+Sales & Business Development,Negotiation,2021,42,328,12.8049
+Sales & Business Development,Networking,2021,6,328,1.8293
+Sales & Business Development,Onboarding,2021,8,328,2.439
+Sales & Business Development,Operations Management,2021,7,328,2.1341
+Sales & Business Development,Oracle,2021,5,328,1.5244
+Sales & Business Development,Organizational Skills,2021,87,328,26.5244
+Sales & Business Development,PHR,2021,1,328,0.3049
+Sales & Business Development,Patient Care,2021,1,328,0.3049
+Sales & Business Development,Payroll,2021,39,328,11.8902
+Sales & Business Development,Pharmacy,2021,1,328,0.3049
+Sales & Business Development,Power BI,2021,1,328,0.3049
+Sales & Business Development,Presentation Skills,2021,15,328,4.5732
+Sales & Business Development,Problem Solving,2021,40,328,12.1951
+Sales & Business Development,Process Improvement,2021,3,328,0.9146
+Sales & Business Development,Procurement,2021,3,328,0.9146
+Sales & Business Development,Project Management,2021,14,328,4.2683
+Sales & Business Development,Public Relations,2021,5,328,1.5244
+Sales & Business Development,Quality Assurance,2021,5,328,1.5244
+Sales & Business Development,Recruiting,2021,7,328,2.1341
+Sales & Business Development,Regression Analysis,2021,1,328,0.3049
+Sales & Business Development,Relationship Management,2021,19,328,5.7927
+Sales & Business Development,Remote Work,2021,12,328,3.6585
+Sales & Business Development,Reporting,2021,34,328,10.3659
+Sales & Business Development,Revenue Analysis,2021,6,328,1.8293
+Sales & Business Development,Risk Management,2021,7,328,2.1341
+Sales & Business Development,SAP,2021,3,328,0.9146
+Sales & Business Development,SEO,2021,1,328,0.3049
+Sales & Business Development,SHRM,2021,1,328,0.3049
+Sales & Business Development,SQL,2021,4,328,1.2195
+Sales & Business Development,Sales,2021,133,328,40.5488
+Sales & Business Development,Salesforce,2021,66,328,20.122
+Sales & Business Development,Scheduling,2021,13,328,3.9634
+Sales & Business Development,Self-Motivated,2021,121,328,36.8902
+Sales & Business Development,Series 7,2021,16,328,4.878
+Sales & Business Development,ServiceNow,2021,1,328,0.3049
+Sales & Business Development,Sketch,2021,1,328,0.3049
+Sales & Business Development,Social Media,2021,45,328,13.7195
+Sales & Business Development,Statistical Analysis,2021,6,328,1.8293
+Sales & Business Development,Supply Chain Management,2021,11,328,3.3537
+Sales & Business Development,Survey Design,2021,2,328,0.6098
+Sales & Business Development,Tableau,2021,6,328,1.8293
+Sales & Business Development,Teamwork,2021,86,328,26.2195
+Sales & Business Development,Time Management,2021,79,328,24.0854
+Sales & Business Development,Underwriting,2021,2,328,0.6098
+Sales & Business Development,VBA,2021,7,328,2.1341
+Sales & Business Development,Valuation,2021,1,328,0.3049
+Sales & Business Development,Verbal Communication,2021,41,328,12.5
+Sales & Business Development,WordPress,2021,1,328,0.3049
+Sales & Business Development,Workday,2021,5,328,1.5244
+Sales & Business Development,Written Communication,2021,36,328,10.9756
+Software & Web Development,3D Printing,2021,2,423,0.4728
+Software & Web Development,APIs,2021,75,423,17.7305
+Software & Web Development,AWS,2021,59,423,13.948
+Software & Web Development,Accounting,2021,7,423,1.6548
+Software & Web Development,Adaptability,2021,51,423,12.0567
+Software & Web Development,Adobe Creative Suite,2021,5,423,1.182
+Software & Web Development,Agile,2021,136,423,32.1513
+Software & Web Development,Angular,2021,35,423,8.2742
+Software & Web Development,Artificial Intelligence,2021,7,423,1.6548
+Software & Web Development,Auditing,2021,13,423,3.0733
+Software & Web Development,AutoCAD,2021,1,423,0.2364
+Software & Web Development,Azure,2021,26,423,6.1466
+Software & Web Development,Big Data,2021,42,423,9.9291
+Software & Web Development,Bilingual,2021,2,423,0.4728
+Software & Web Development,Budgeting,2021,2,423,0.4728
+Software & Web Development,Business Development,2021,1,423,0.2364
+Software & Web Development,Business Intelligence,2021,6,423,1.4184
+Software & Web Development,C#,2021,9,423,2.1277
+Software & Web Development,CFA,2021,1,423,0.2364
+Software & Web Development,CI/CD,2021,50,423,11.8203
+Software & Web Development,CRM Software,2021,9,423,2.1277
+Software & Web Development,CSS,2021,51,423,12.0567
+Software & Web Development,Chemical Engineering,2021,1,423,0.2364
+Software & Web Development,Cloud Computing,2021,13,423,3.0733
+Software & Web Development,Communication Skills,2021,157,423,37.1158
+Software & Web Development,CompTIA,2021,2,423,0.4728
+Software & Web Development,Compliance,2021,43,423,10.1655
+Software & Web Development,Computer Vision,2021,6,423,1.4184
+Software & Web Development,Confluence,2021,8,423,1.8913
+Software & Web Development,Content Marketing,2021,1,423,0.2364
+Software & Web Development,Creative Thinking,2021,61,423,14.4208
+Software & Web Development,Critical Thinking,2021,5,423,1.182
+Software & Web Development,Cross-Functional Collaboration,2021,31,423,7.3286
+Software & Web Development,Customer Service,2021,44,423,10.4019
+Software & Web Development,Cybersecurity,2021,29,423,6.8558
+Software & Web Development,Data Analysis,2021,33,423,7.8014
+Software & Web Development,Data Collection,2021,1,423,0.2364
+Software & Web Development,Data Engineering,2021,12,423,2.8369
+Software & Web Development,Data Mining,2021,2,423,0.4728
+Software & Web Development,Data Visualization,2021,6,423,1.4184
+Software & Web Development,Data Warehousing,2021,1,423,0.2364
+Software & Web Development,Database Management,2021,17,423,4.0189
+Software & Web Development,Decision Making,2021,11,423,2.6005
+Software & Web Development,Deep Learning,2021,1,423,0.2364
+Software & Web Development,DevOps,2021,37,423,8.747
+Software & Web Development,Digital Marketing,2021,3,423,0.7092
+Software & Web Development,Django,2021,4,423,0.9456
+Software & Web Development,Docker,2021,38,423,8.9835
+Software & Web Development,ERP Systems,2021,4,423,0.9456
+Software & Web Development,Editing,2021,2,423,0.4728
+Software & Web Development,Elasticsearch,2021,8,423,1.8913
+Software & Web Development,Electrical Engineering,2021,17,423,4.0189
+Software & Web Development,Electronic Health Records,2021,2,423,0.4728
+Software & Web Development,Emotional Intelligence,2021,4,423,0.9456
+Software & Web Development,Figma,2021,2,423,0.4728
+Software & Web Development,Filing,2021,2,423,0.4728
+Software & Web Development,Financial Analysis,2021,1,423,0.2364
+Software & Web Development,Financial Planning,2021,2,423,0.4728
+Software & Web Development,Financial Statements,2021,1,423,0.2364
+Software & Web Development,Forecasting,2021,4,423,0.9456
+Software & Web Development,Git,2021,57,423,13.4752
+Software & Web Development,Go,2021,9,423,2.1277
+Software & Web Development,Google Analytics,2021,1,423,0.2364
+Software & Web Development,Google Cloud Platform,2021,18,423,4.2553
+Software & Web Development,HIPAA,2021,13,423,3.0733
+Software & Web Development,HTML,2021,58,423,13.7116
+Software & Web Development,Intellectual Property,2021,10,423,2.3641
+Software & Web Development,Interpersonal Skills,2021,55,423,13.0024
+Software & Web Development,Inventory Management,2021,5,423,1.182
+Software & Web Development,Investment Analysis,2021,1,423,0.2364
+Software & Web Development,Java,2021,172,423,40.6619
+Software & Web Development,JavaScript,2021,114,423,26.9504
+Software & Web Development,Jira,2021,22,423,5.2009
+Software & Web Development,Kanban,2021,15,423,3.5461
+Software & Web Development,Kotlin,2021,7,423,1.6548
+Software & Web Development,Kubernetes,2021,30,423,7.0922
+Software & Web Development,LMS,2021,1,423,0.2364
+Software & Web Development,Leadership,2021,45,423,10.6383
+Software & Web Development,Linux,2021,83,423,19.6217
+Software & Web Development,MATLAB,2021,6,423,1.4184
+Software & Web Development,Machine Learning,2021,22,423,5.2009
+Software & Web Development,Materials Science,2021,2,423,0.4728
+Software & Web Development,Mechanical Engineering,2021,1,423,0.2364
+Software & Web Development,Medical Terminology,2021,14,423,3.3097
+Software & Web Development,Mentoring,2021,43,423,10.1655
+Software & Web Development,Microsoft Excel,2021,18,423,4.2553
+Software & Web Development,Microsoft Office,2021,13,423,3.0733
+Software & Web Development,Microsoft PowerPoint,2021,7,423,1.6548
+Software & Web Development,Microsoft Teams,2021,1,423,0.2364
+Software & Web Development,Mobile Development,2021,8,423,1.8913
+Software & Web Development,MongoDB,2021,14,423,3.3097
+Software & Web Development,Multitasking,2021,7,423,1.6548
+Software & Web Development,MySQL,2021,16,423,3.7825
+Software & Web Development,Natural Language Processing,2021,2,423,0.4728
+Software & Web Development,Negotiation,2021,1,423,0.2364
+Software & Web Development,Networking,2021,54,423,12.766
+Software & Web Development,NoSQL,2021,38,423,8.9835
+Software & Web Development,Node.js,2021,29,423,6.8558
+Software & Web Development,Objective-C,2021,3,423,0.7092
+Software & Web Development,Onboarding,2021,3,423,0.7092
+Software & Web Development,Oracle,2021,35,423,8.2742
+Software & Web Development,Organizational Skills,2021,38,423,8.9835
+Software & Web Development,PHP,2021,18,423,4.2553
+Software & Web Development,PLC Programming,2021,2,423,0.4728
+Software & Web Development,PMP,2021,2,423,0.4728
+Software & Web Development,PPC Advertising,2021,1,423,0.2364
+Software & Web Development,Payroll,2021,2,423,0.4728
+Software & Web Development,Perl,2021,11,423,2.6005
+Software & Web Development,Pharmacy,2021,1,423,0.2364
+Software & Web Development,Photoshop,2021,1,423,0.2364
+Software & Web Development,Physical Therapy,2021,1,423,0.2364
+Software & Web Development,PostgreSQL,2021,24,423,5.6738
+Software & Web Development,Power BI,2021,6,423,1.4184
+Software & Web Development,Predictive Modeling,2021,2,423,0.4728
+Software & Web Development,Presentation Skills,2021,4,423,0.9456
+Software & Web Development,Problem Solving,2021,105,423,24.8227
+Software & Web Development,Process Improvement,2021,1,423,0.2364
+Software & Web Development,Procurement,2021,1,423,0.2364
+Software & Web Development,Project Management,2021,13,423,3.0733
+Software & Web Development,Python,2021,128,423,30.26
+Software & Web Development,Quality Assurance,2021,61,423,14.4208
+Software & Web Development,Quality Management Systems,2021,1,423,0.2364
+Software & Web Development,Radiology,2021,4,423,0.9456
+Software & Web Development,React,2021,51,423,12.0567
+Software & Web Development,Recruiting,2021,12,423,2.8369
+Software & Web Development,Redis,2021,4,423,0.9456
+Software & Web Development,Relationship Management,2021,3,423,0.7092
+Software & Web Development,Remote Work,2021,18,423,4.2553
+Software & Web Development,Reporting,2021,44,423,10.4019
+Software & Web Development,Risk Management,2021,4,423,0.9456
+Software & Web Development,Robotics,2021,5,423,1.182
+Software & Web Development,Root Cause Analysis,2021,9,423,2.1277
+Software & Web Development,Ruby,2021,9,423,2.1277
+Software & Web Development,SAP,2021,10,423,2.3641
+Software & Web Development,SAS,2021,1,423,0.2364
+Software & Web Development,SDLC,2021,39,423,9.2199
+Software & Web Development,SEO,2021,7,423,1.6548
+Software & Web Development,SQL,2021,111,423,26.2411
+Software & Web Development,SQL Server,2021,33,423,7.8014
+Software & Web Development,Sales,2021,3,423,0.7092
+Software & Web Development,Salesforce,2021,13,423,3.0733
+Software & Web Development,Scala,2021,7,423,1.6548
+Software & Web Development,Scheduling,2021,1,423,0.2364
+Software & Web Development,Scientific Writing,2021,1,423,0.2364
+Software & Web Development,Scrum,2021,53,423,12.5296
+Software & Web Development,Self-Motivated,2021,95,423,22.4586
+Software & Web Development,ServiceNow,2021,3,423,0.7092
+Software & Web Development,Shell Scripting,2021,25,423,5.9102
+Software & Web Development,Six Sigma,2021,2,423,0.4728
+Software & Web Development,Slack,2021,2,423,0.4728
+Software & Web Development,Social Media,2021,2,423,0.4728
+Software & Web Development,Spring,2021,20,423,4.7281
+Software & Web Development,Statistical Analysis,2021,9,423,2.1277
+Software & Web Development,Supply Chain Management,2021,7,423,1.6548
+Software & Web Development,Swift,2021,1,423,0.2364
+Software & Web Development,Tableau,2021,11,423,2.6005
+Software & Web Development,Teamwork,2021,59,423,13.948
+Software & Web Development,Technical Writing,2021,4,423,0.9456
+Software & Web Development,Time Management,2021,15,423,3.5461
+Software & Web Development,TypeScript,2021,18,423,4.2553
+Software & Web Development,UI Design,2021,14,423,3.3097
+Software & Web Development,UX Design,2021,14,423,3.3097
+Software & Web Development,VBA,2021,7,423,1.6548
+Software & Web Development,Valuation,2021,3,423,0.7092
+Software & Web Development,Verbal Communication,2021,19,423,4.4917
+Software & Web Development,Vue.js,2021,3,423,0.7092
+Software & Web Development,Web Development,2021,60,423,14.1844
+Software & Web Development,Windows Server,2021,6,423,1.4184
+Software & Web Development,WordPress,2021,4,423,0.9456
+Software & Web Development,Workday,2021,5,423,1.182
+Software & Web Development,Written Communication,2021,42,423,9.9291
+Software & Web Development,Zoom,2021,1,423,0.2364
