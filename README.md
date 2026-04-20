@@ -82,10 +82,6 @@ The CSVs in `/data` are pre-aggregated to the skill × occupation × year level.
 │   └── 2024_skill_frequencies_by_occupation.csv
 ├── notebooks/
 │   └── econ_skill_analysis.ipynb
-├── figures/
-│   ├── figure1_parallel_trends.png
-│   ├── figure2_ai_exposure_by_occupation.png
-│   └── figure3_per_occupation_forest.png
 └── README.md
 ```
 
